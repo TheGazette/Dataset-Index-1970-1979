@@ -1175,15 +1175,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Boyle, M. I</Text>
+      <Key>O'Boyle</Key>
+      <Forenames>M. I.</Forenames>
       <PageNumber>3410</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, D. D</Text>
+      <Key>O'Brien</Key>
+      <Forenames>D. D.</Forenames>
       <PageNumber>1355</PageNumber>
       <PageNumber>2846</PageNumber>
     </MainItem>
@@ -1236,8 +1236,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Driscoll, P. D</Text>
+      <Key>O'Driscoll</Key>
+      <Forenames>P. D.</Forenames>
       <PageNumber>765</PageNumber>
       <PageNumber>766</PageNumber>
     </MainItem>
@@ -1258,22 +1258,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gorman, J. B</Text>
+      <Key>O'Gorman</Key>
+      <Forenames>J. B.</Forenames>
       <PageNumber>1358</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hanlon, J. N</Text>
+      <Key>O'Hanlon</Key>
+      <Forenames>J. N.</Forenames>
       <PageNumber>2553</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, L</Text>
+      <Key>O'Hara</Key>
+      <Forenames>L</Forenames>
       <PageNumber>224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1307,8 +1307,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, C. J</Text>
+      <Key>O'Leary</Key>
+      <Forenames>C. J</Forenames>
       <PageNumber>1661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1348,8 +1348,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara P. J</Text>
+      <Key>O'Meara</Key>
+      <Forenames>P. J.</Forenames>
       <PageNumber>1655</PageNumber>
     </MainItem>
   </ItemGroup>

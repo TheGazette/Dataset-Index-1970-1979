@@ -96,8 +96,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thornton</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. J. M</Text>
+      <Forenames>G. St. J</Forenames>
+      <Text>. M</Text>
       <PageNumber>9594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -840,8 +840,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turpin</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>R. St. G</Forenames>
       <PageNumber>9283</PageNumber>
       <PageNumber>11248</PageNumber>
       <PageNumber>12489</PageNumber>
@@ -1755,7 +1754,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wardley</Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>10605</PageNumber>
     </MainItem>
   </ItemGroup>

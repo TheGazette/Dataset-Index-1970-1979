@@ -728,7 +728,9 @@
       <Key>
         <KeyDitto>___ ___ ___ -—</KeyDitto>
       </Key>
-      <Text>L.G</Text>
+      <Text>
+        <Honour>L.G</Honour>
+      </Text>
       <PageNumber>3701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1641,7 +1643,9 @@
       <Key>
         <KeyDitto>___ —-</KeyDitto>
       </Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>1636</PageNumber>
     </MainItem>
   </ItemGroup>

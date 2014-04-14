@@ -1192,8 +1192,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Plumpton</Key>
-      <Forenames>P. O</Forenames>
-      <Text>'K</Text>
+      <Forenames>P. O'K</Forenames>
       <PageNumber>2562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1228,7 +1227,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pollard</Key>
-      <Text>D.L</Text>
+      <Text>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>207</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2428,73 +2429,75 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Text>P.C</Text>
-      <PageNumber>2228</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Radford</Key>
-      <Forenames>G. P.</Forenames>
-      <PageNumber>1223</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Rae</Key>
-      <Forenames>G.J.</Forenames>
-      <PageNumber>1894</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>— ___ ___</KeyDitto>
-      </Key>
-      <Forenames>I.E.</Forenames>
-      <PageNumber>527</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>R.</Forenames>
-      <PageNumber>3292</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Rafferty</Key>
-      <Forenames>M. P.</Forenames>
-      <PageNumber>861</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>P.G.</Forenames>
-      <PageNumber>1210</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>R.B .</Forenames>
-      <PageNumber>3287</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Rainey</Key>
-      <Forenames>J.</Forenames>
-      <PageNumber>210</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>2228</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Radford</Key>
+        <Forenames>G. P.</Forenames>
+        <PageNumber>1223</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Rae</Key>
+        <Forenames>G.J.</Forenames>
+        <PageNumber>1894</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>— ___ ___</KeyDitto>
+        </Key>
+        <Forenames>I.E.</Forenames>
+        <PageNumber>527</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>R.</Forenames>
+        <PageNumber>3292</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Rafferty</Key>
+        <Forenames>M. P.</Forenames>
+        <PageNumber>861</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>P.G.</Forenames>
+        <PageNumber>1210</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>R.B .</Forenames>
+        <PageNumber>3287</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Rainey</Key>
+        <Forenames>J.</Forenames>
+        <PageNumber>210</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>

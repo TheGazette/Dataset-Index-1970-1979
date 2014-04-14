@@ -1478,7 +1478,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>9686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1605,8 +1607,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bainbrigge</Key>
-      <Forenames>C.</Forenames>
-      <Text>de L</Text>
+      <Forenames>C. de L</Forenames>
       <PageNumber>8305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1734,7 +1735,9 @@
       <Key>
         <KeyDitto>___ ___ ___ -</KeyDitto>
       </Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>8025</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2047,7 +2050,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Barker</Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>8025</PageNumber>
     </MainItem>
   </ItemGroup>

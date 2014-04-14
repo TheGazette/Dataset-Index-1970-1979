@@ -225,7 +225,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ -</KeyDitto>
       </Key>
-      <Text>C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>7122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,7 +890,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>5392</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1402,15 +1406,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hare, L. F</Text>
+      <Key>O'Hare</Key>
+      <Forenames>L. F.</Forenames>
       <PageNumber>8064</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, W</Text>
+      <Key>O'Leary</Key>
+      <Forenames>W.</Forenames>
       <PageNumber>8064</PageNumber>
     </MainItem>
   </ItemGroup>

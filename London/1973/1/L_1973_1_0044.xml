@@ -2600,16 +2600,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Den Bergh</Forenames>
+      <Key>Van Den</Key>
+      <Forenames>Bergh</Forenames>
       <Text>, J. S</Text>
       <PageNumber>98</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Den Heuvel</Forenames>
+      <Key>Van Den</Key>
+      <Forenames>Heuvel</Forenames>
       <Text>, C</Text>
       <PageNumber>1681</PageNumber>
       <PageNumber>3970</PageNumber>
@@ -2631,9 +2631,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Praag</Forenames>
-      <Text>, H. H</Text>
+      <Key>Van Praag</Key>
+      <Forenames>H. H.</Forenames>
       <PageNumber>2678</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2642,6 +2641,13 @@
       <Key>Vanstone</Key>
       <Forenames>P. J.</Forenames>
       <PageNumber>87</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>van Straubenzee</Key>
+      <Forenames>A. H.</Forenames>
+      <PageNumber>1349</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

@@ -1511,77 +1511,79 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Text>L.G</Text>
-      <PageNumber>6288</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>M.J. A</Forenames>
-      <PageNumber>6159</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>P.</Forenames>
-      <PageNumber>6282</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>P.M.</Forenames>
-      <PageNumber>6261</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>— ___ ___</KeyDitto>
-      </Key>
-      <Forenames>R</Forenames>
-      <PageNumber>6281</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>T. F</Forenames>
-      <PageNumber>6988</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Wilson-Dickson</Key>
-      <Forenames>P. S.</Forenames>
-      <PageNumber>6264</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Wiltshire</Key>
-      <Forenames>C. A.</Forenames>
-      <PageNumber>6989</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>F. W</Forenames>
-      <PageNumber>6281</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>6288</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>M.J. A</Forenames>
+        <PageNumber>6159</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>P.</Forenames>
+        <PageNumber>6282</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>P.M.</Forenames>
+        <PageNumber>6261</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>— ___ ___</KeyDitto>
+        </Key>
+        <Forenames>R</Forenames>
+        <PageNumber>6281</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>T. F</Forenames>
+        <PageNumber>6988</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Wilson-Dickson</Key>
+        <Forenames>P. S.</Forenames>
+        <PageNumber>6264</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Wiltshire</Key>
+        <Forenames>C. A.</Forenames>
+        <PageNumber>6989</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>F. W</Forenames>
+        <PageNumber>6281</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Winch</Key>
@@ -2057,7 +2059,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>4914</PageNumber>
     </MainItem>
   </ItemGroup>

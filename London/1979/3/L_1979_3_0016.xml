@@ -245,8 +245,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Durham</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J. L</Text>
+      <Forenames>A. St. J</Forenames>
+      <Text>. L</Text>
       <PageNumber>11472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,15 +295,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Duvallon-Lohan</Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>9346</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Vivier</Forenames>
-      <Text>, P. E. :</Text>
+      <Key>Du Vivier</Key>
+      <Forenames>P. E.</Forenames>
+      <Text>:</Text>
       <PageNumber>8998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2118,8 +2120,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaudin</Key>
-      <Forenames>P.</Forenames>
-      <Text>de G</Text>
+      <Forenames>P. de G</Forenames>
       <PageNumber>11225</PageNumber>
     </MainItem>
   </ItemGroup>

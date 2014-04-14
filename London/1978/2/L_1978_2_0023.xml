@@ -135,7 +135,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>K.</Forenames>
-      <Text>P.C</Text>
+      <Text>
+        <Honour>P.C</Honour>
+      </Text>
       <PageNumber>5474</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +448,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Corbett</Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>4414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,8 +513,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cosby</Key>
-      <Forenames>R. A.</Forenames>
-      <Text>de S</Text>
+      <Forenames>R. A. de S</Forenames>
       <PageNumber>7453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1126,7 +1129,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>H.</Forenames>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>5465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1816,9 +1821,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Buriatte</Forenames>
-      <Text>, T. J</Text>
+      <Key>De Buriatte</Key>
+      <Forenames>T. J.</Forenames>
       <PageNumber>5891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1854,9 +1858,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Haan</Forenames>
-      <Text>, P. J</Text>
+      <Key>De Haan</Key>
+      <Forenames>P. J.</Forenames>
       <PageNumber>5892</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1964,9 +1967,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salis</Forenames>
-      <Text>, J. B. P. H</Text>
+      <Key>De Salis</Key>
+      <Forenames>J. B. P. H.</Forenames>
       <PageNumber>5471</PageNumber>
     </MainItem>
   </ItemGroup>

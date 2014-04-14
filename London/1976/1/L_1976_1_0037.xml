@@ -82,8 +82,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Minogue</Key>
-      <Forenames>P. J. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>P. J. O'B</Forenames>
       <PageNumber>3190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -536,7 +535,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>B.</Forenames>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>212</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -768,15 +769,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea.N</Text>
+      <Key>O'Shea</Key>
+      <Forenames>N.</Forenames>
       <PageNumber>573</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, S</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>S.</Forenames>
       <PageNumber>4336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -956,8 +957,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R. D. O</Forenames>
-      <Text>'M</Text>
+      <Forenames>R. D. O'M</Forenames>
       <PageNumber>2418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1252,8 +1252,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parry</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. P</Text>
+      <Forenames>B. St. P</Forenames>
       <PageNumber>2056</PageNumber>
     </MainItem>
   </ItemGroup>

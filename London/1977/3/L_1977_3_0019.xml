@@ -1158,9 +1158,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Dearn</Key>
-      <Forenames>I. E. M.</Forenames>
-      <Text>de Beaufort-Suchlick, J</Text>
+      <Forenames>I. E. M. de Beaufort-Suchlick</Forenames>
+      <Text>, J</Text>
       <PageNumber>9355</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Belder</Key>
+      <Forenames>C. G.</Forenames>
+      <PageNumber>10591</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1170,6 +1177,13 @@
       </Key>
       <Forenames>M. J. K.</Forenames>
       <PageNumber>11660</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Courcier</Key>
+      <Forenames>M. H</Forenames>
+      <PageNumber>9360</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1188,8 +1202,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Hochepied Larpent</Forenames>
+      <Key>De Hochepied</Key>
+      <Forenames>Larpent</Forenames>
       <Text>, A. L. D</Text>
       <PageNumber>9975</PageNumber>
     </MainItem>
@@ -1199,6 +1213,13 @@
       <Key>Delaney</Key>
       <Forenames>R. J. P.</Forenames>
       <PageNumber>11143</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Miller</Key>
+      <Forenames>C. D.</Forenames>
+      <PageNumber>11394</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1245,9 +1266,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pentheny O</Forenames>
-      <Text>'Kelly, H. P</Text>
+      <Key>De Pentheny</Key>
+      <Forenames>O'Kelly</Forenames>
+      <Text>, H. P</Text>
       <PageNumber>11936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1320,9 +1341,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wreede</Forenames>
-      <Text>, A. S. A</Text>
+      <Key>De Wreede</Key>
+      <Forenames>A. S. A.</Forenames>
       <PageNumber>11399</PageNumber>
     </MainItem>
   </ItemGroup>

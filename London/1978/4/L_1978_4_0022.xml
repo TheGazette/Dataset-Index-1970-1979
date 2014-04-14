@@ -1189,8 +1189,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keefe, P. C</Text>
+      <Key>O'Keefe</Key>
+      <Forenames>P. C.</Forenames>
       <PageNumber>14922</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1338,8 +1338,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>K. St</Forenames>
-      <Text>. B</Text>
+      <Forenames>K. St. B</Forenames>
       <PageNumber>12320</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1467,8 +1466,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Aitchison</Key>
-      <Forenames>C. W.</Forenames>
-      <Text>de L</Text>
+      <Forenames>C. W. de L</Forenames>
       <PageNumber>14593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1608,7 +1606,9 @@
     <MainItem>
       <Key>Allardyce</Key>
       <Forenames>C.</Forenames>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>14597</PageNumber>
     </MainItem>
   </ItemGroup>

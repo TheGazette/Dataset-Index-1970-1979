@@ -229,8 +229,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Channer</Key>
-      <Forenames>P. N.</Forenames>
-      <Text>de R</Text>
+      <Forenames>P. N. de R</Forenames>
       <PageNumber>8371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -869,7 +868,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cleare</Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>8372</PageNumber>
     </MainItem>
   </ItemGroup>

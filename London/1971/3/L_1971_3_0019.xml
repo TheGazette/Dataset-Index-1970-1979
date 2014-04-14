@@ -420,7 +420,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tilbury</Key>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>7491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2282,9 +2284,11 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Text>G.M</Text>
-      <PageNumber>7936</PageNumber>
     </MainItem>
   </ItemGroup>
+  <Honour>
+    <PageNumber>7936</PageNumber>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -2365,8 +2369,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Connor</Key>
-      <Forenames>C. S. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>C. S. St. A</Forenames>
       <PageNumber>7941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2589,8 +2592,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, M. F</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>M. F.</Forenames>
       <PageNumber>9580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2618,7 +2621,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Peck</Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>7942</PageNumber>
     </MainItem>
   </ItemGroup>

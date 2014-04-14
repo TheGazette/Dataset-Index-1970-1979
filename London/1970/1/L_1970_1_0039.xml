@@ -187,8 +187,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>R. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>R. St. G</Forenames>
       <PageNumber>2846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -412,9 +411,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Blommestein</Forenames>
-      <Text>, V. C</Text>
+      <Key>Van Blommestein</Key>
+      <Forenames>V. C</Forenames>
       <PageNumber>216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,9 +426,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Geene</Forenames>
-      <Text>, R. G</Text>
+      <Key>Van Geene</Key>
+      <Forenames>R. G.</Forenames>
       <PageNumber>461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -616,9 +613,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Pruessen</Forenames>
-      <Text>, F. N</Text>
+      <Key>Von Pruessen</Key>
+      <Forenames>F. N.</Forenames>
       <PageNumber>3637</PageNumber>
     </MainItem>
   </ItemGroup>

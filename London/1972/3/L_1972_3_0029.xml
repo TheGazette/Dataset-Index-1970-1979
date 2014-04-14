@@ -396,8 +396,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gribbon</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>N. St. G</Forenames>
       <PageNumber>9747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2244,8 +2243,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haworth</Key>
-      <Forenames>R. C. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>R. C. O'B</Forenames>
       <PageNumber>9156</PageNumber>
     </MainItem>
   </ItemGroup>

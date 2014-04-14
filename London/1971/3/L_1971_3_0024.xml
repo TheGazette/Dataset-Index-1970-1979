@@ -2,8 +2,8 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="024" pageID="https://www.thegazette.co.uk/id/London/index/year/1971/volume/3/page/024" pagePDF="https://www.thegazette.co.uk/London/index/year/1971/volume/3/page/024" pageRDF="https://www.thegazette.co.uk/London/index/year/1971/volume/3/page/024?view=linked-data" type="index" volume="3" year="1971">
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Hochepied Larpent</Forenames>
+      <Key>De Hochepied</Key>
+      <Forenames>Larpent</Forenames>
       <Text>, A. L. D</Text>
       <PageNumber>9661</PageNumber>
     </MainItem>
@@ -31,9 +31,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Marco</Forenames>
-      <Text>, M. P</Text>
+      <Key>De Marco</Key>
+      <Forenames>M. P.</Forenames>
       <PageNumber>8338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -84,9 +83,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Prochnow</Forenames>
-      <Text>, P. B. S</Text>
+      <Key>De Prochnow</Key>
+      <Forenames>P. B. S.</Forenames>
       <PageNumber>7212</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -153,9 +151,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Winton</Forenames>
-      <Text>, J. F. H. C</Text>
+      <Key>De Winton</Key>
+      <Forenames>J. F. H. C.</Forenames>
       <PageNumber>7489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1267,9 +1264,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Port</Forenames>
-      <Text>, A. N</Text>
+      <Key>Du Port</Key>
+      <Forenames>A. N.</Forenames>
       <PageNumber>9186</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1321,9 +1317,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Vallon-Lohan</Forenames>
-      <Text>, M. D</Text>
+      <Key>Du Vallon-Lohan</Key>
+      <Forenames>M. D.</Forenames>
       <PageNumber>7763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1754,7 +1749,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M.C. K</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8337</PageNumber>
     </MainItem>
   </ItemGroup>

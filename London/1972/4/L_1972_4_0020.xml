@@ -949,8 +949,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cazenove</Key>
-      <Forenames>B. M.</Forenames>
-      <Text>de L</Text>
+      <Forenames>B. M. de L</Forenames>
       <PageNumber>15056</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1500,8 +1499,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>A. S. J.</Forenames>
-      <Text>de S</Text>
+      <Forenames>A. S. J. de S</Forenames>
       <PageNumber>13427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1818,8 +1816,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coles</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>R. St. A</Forenames>
       <PageNumber>14736</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -524,52 +524,54 @@
     <MainItem>
       <Key>Carew</Key>
       <Text>M.P</Text>
-      <PageNumber>9163</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Cargill</Key>
-      <Forenames>J. J.</Forenames>
-      <PageNumber>7478</PageNumber>
-      <PageNumber>9879</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Carleton-Smith</Key>
-      <Forenames>M. V.</Forenames>
-      <PageNumber>9680</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Carley</Key>
-      <Forenames>K. J .</Forenames>
-      <PageNumber>9686</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Carley-Pocock</Key>
-      <Forenames>R. H.</Forenames>
-      <PageNumber>10103</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Carlile</Key>
-      <Forenames>J. B.</Forenames>
-      <PageNumber>7760</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Carling</Key>
-      <Forenames>C.</Forenames>
-      <PageNumber>8853</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>9163</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Cargill</Key>
+        <Forenames>J. J.</Forenames>
+        <PageNumber>7478</PageNumber>
+        <PageNumber>9879</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Carleton-Smith</Key>
+        <Forenames>M. V.</Forenames>
+        <PageNumber>9680</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Carley</Key>
+        <Forenames>K. J .</Forenames>
+        <PageNumber>9686</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Carley-Pocock</Key>
+        <Forenames>R. H.</Forenames>
+        <PageNumber>10103</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Carlile</Key>
+        <Forenames>J. B.</Forenames>
+        <PageNumber>7760</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Carling</Key>
+        <Forenames>C.</Forenames>
+        <PageNumber>8853</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -1685,83 +1687,85 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Text>M.P</Text>
-      <PageNumber>9164</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>R. D</Forenames>
-      <PageNumber>9164</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>W. A.J</Forenames>
-      <PageNumber>9424</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Clephane</Key>
-      <Forenames>W.B.J.</Forenames>
-      <PageNumber>9882</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Cleverly</Key>
-      <Forenames>L. D</Forenames>
-      <PageNumber>9687</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Cleves</Key>
-      <Forenames>K. G</Forenames>
-      <PageNumber>8307</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Cliff</Key>
-      <Forenames>F.H</Forenames>
-      <PageNumber>8860</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Clifford</Key>
-      <Forenames>P. G.</Forenames>
-      <PageNumber>10102</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Clingan</Key>
-      <Forenames>B. R</Forenames>
-      <PageNumber>8860</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Clipston</Key>
-      <Forenames>B. H.</Forenames>
-      <PageNumber>8855</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Clogger</Key>
-      <Forenames>P.A</Forenames>
-      <PageNumber>9164</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>9164</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>R. D</Forenames>
+        <PageNumber>9164</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>W. A.J</Forenames>
+        <PageNumber>9424</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Clephane</Key>
+        <Forenames>W.B.J.</Forenames>
+        <PageNumber>9882</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Cleverly</Key>
+        <Forenames>L. D</Forenames>
+        <PageNumber>9687</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Cleves</Key>
+        <Forenames>K. G</Forenames>
+        <PageNumber>8307</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Cliff</Key>
+        <Forenames>F.H</Forenames>
+        <PageNumber>8860</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Clifford</Key>
+        <Forenames>P. G.</Forenames>
+        <PageNumber>10102</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Clingan</Key>
+        <Forenames>B. R</Forenames>
+        <PageNumber>8860</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Clipston</Key>
+        <Forenames>B. H.</Forenames>
+        <PageNumber>8855</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Clogger</Key>
+        <Forenames>P.A</Forenames>
+        <PageNumber>9164</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Close</Key>
@@ -2702,8 +2706,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Court-Smith</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>10106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2874,7 +2877,9 @@
       <Key>
         <KeyDitto>___ — ___ ___</KeyDitto>
       </Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>10347</PageNumber>
     </MainItem>
   </ItemGroup>

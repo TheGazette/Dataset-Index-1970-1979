@@ -205,7 +205,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cutcher</Key>
-      <Text>G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>3612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,9 +370,11 @@
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Text>V.C</Text>
-      <PageNumber>2921</PageNumber>
     </MainItem>
   </ItemGroup>
+  <Honour>
+    <PageNumber>2921</PageNumber>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Dalzell</Key>
@@ -1081,7 +1085,9 @@
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1234,6 +1240,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Bretton</Key>
+      <Forenames>Gordon</Forenames>
+      <Text>, A. P</Text>
+      <PageNumber>3970</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>De-Camps</Key>
       <Forenames>P.S.</Forenames>
       <PageNumber>1895</PageNumber>
@@ -1255,8 +1269,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Haye</Forenames>
+      <Key>De La</Key>
+      <Forenames>Haye</Forenames>
       <Text>, B.G</Text>
       <PageNumber>862</PageNumber>
     </MainItem>
@@ -1413,7 +1427,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Devlin</Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>868</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2553,7 +2569,9 @@
     <MainItem>
       <Key>Durcan</Key>
       <Forenames>J.</Forenames>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>1891</PageNumber>
     </MainItem>
   </ItemGroup>

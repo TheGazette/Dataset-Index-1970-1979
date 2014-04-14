@@ -685,8 +685,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien,CM.J</Text>
+      <Key>O'Brien</Key>
+      <Text>CM.J</Text>
       <PageNumber>8023</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -701,29 +701,29 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, R. P</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>R. P.</Forenames>
       <PageNumber>7477</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Cock, M. J. P</Text>
+      <Key>O'Cock</Key>
+      <Forenames>M. J. P.</Forenames>
       <PageNumber>10346</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, C. D</Text>
+      <Key>O'Connell</Key>
+      <Forenames>C. D.</Forenames>
       <PageNumber>9882</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, J</Text>
+      <Key>O'Connor</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>8862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -738,15 +738,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, D. M</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>D. M.</Forenames>
       <PageNumber>9881</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donovan, D. P</Text>
+      <Key>O'Donovan</Key>
+      <Forenames>D. P.</Forenames>
       <PageNumber>7754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -821,22 +821,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gowan, C. D</Text>
+      <Key>O'Gowan</Key>
+      <Forenames>C. D.</Forenames>
       <PageNumber>7755</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, D. P. C</Text>
+      <Key>O'Hagan</Key>
+      <Forenames>D. P. C.</Forenames>
       <PageNumber>9879</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keeffe, C</Text>
+      <Key>O'Keeffe</Key>
+      <Forenames>C .</Forenames>
       <PageNumber>9878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -858,8 +858,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, D. A</Text>
+      <Key>O'Leary</Key>
+      <Forenames>D. A.</Forenames>
       <PageNumber>10106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -945,8 +945,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, E</Text>
+      <Key>O'Neill</Key>
+      <Forenames>E .</Forenames>
       <PageNumber>8860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -970,8 +970,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Prey, R. G</Text>
+      <Key>O'Prey</Key>
+      <Forenames>R. G .</Forenames>
       <PageNumber>9425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -993,8 +993,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, J. J. ... ,</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>J. J.</Forenames>
+      <Text>... ,</Text>
       <PageNumber>8306</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1290,8 +1291,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R.D.O</Forenames>
-      <Text>'M</Text>
+      <Forenames>R.D.O'M</Forenames>
       <PageNumber>7754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2216,8 +2216,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pelham-Burn</Key>
-      <Forenames>C. L. St</Forenames>
-      <Text>. H</Text>
+      <Forenames>C. L. St. H</Forenames>
       <PageNumber>8024</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2756,7 +2755,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pike</Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>9428</PageNumber>
     </MainItem>
   </ItemGroup>

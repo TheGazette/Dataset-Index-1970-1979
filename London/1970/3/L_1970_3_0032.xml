@@ -129,7 +129,9 @@
       <Key>
         <KeyDitto>___ -:—</KeyDitto>
       </Key>
-      <Text>M.M. A</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>8860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -156,25 +158,24 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>De Klee</Forenames>
+      <Key>Van De</Key>
+      <Forenames>Klee</Forenames>
       <Text>, M. M. A</Text>
       <PageNumber>9686</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Horst</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Horst</Forenames>
       <Text>, R. C</Text>
       <PageNumber>8302</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Geene</Forenames>
-      <Text>, R. G</Text>
+      <Key>Van Geene</Key>
+      <Forenames>R. G.</Forenames>
       <PageNumber>7758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,17 +379,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Merveldt</Forenames>
-      <Text>, J. D. M</Text>
+      <Key>Von Merveldt</Key>
+      <Forenames>J. D. M.</Forenames>
       <PageNumber>8579</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Preussen</Forenames>
-      <Text>, F. N</Text>
+      <Key>Von Preussen</Key>
+      <Forenames>F. N.</Forenames>
       <PageNumber>8577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1852,7 +1851,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Weston</Key>
-      <Text>D.L</Text>
+      <Text>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>9424</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1881,42 +1882,44 @@
       </Key>
       <Forenames>I.M.</Forenames>
       <Text>D.L</Text>
-      <PageNumber>8577</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ -—</KeyDitto>
-      </Key>
-      <Forenames>R.T.</Forenames>
-      <PageNumber>8302</PageNumber>
-      <PageNumber>8854</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>S. J.H .</Forenames>
-      <PageNumber>8024</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Westwell</Key>
-      <Forenames>D. K.</Forenames>
-      <PageNumber>10602</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Westwood</Key>
-      <Forenames>J. A. S.</Forenames>
-      <PageNumber>987</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>8577</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ -—</KeyDitto>
+        </Key>
+        <Forenames>R.T.</Forenames>
+        <PageNumber>8302</PageNumber>
+        <PageNumber>8854</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>S. J.H .</Forenames>
+        <PageNumber>8024</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Westwell</Key>
+        <Forenames>D. K.</Forenames>
+        <PageNumber>10602</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Westwood</Key>
+        <Forenames>J. A. S.</Forenames>
+        <PageNumber>987</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>

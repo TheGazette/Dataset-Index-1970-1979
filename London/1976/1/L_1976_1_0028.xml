@@ -493,8 +493,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, E</Text>
+      <Key>O'Connor</Key>
+      <Forenames>E.</Forenames>
       <PageNumber>2432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -647,7 +647,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Stirk</Key>
-      <Text>M.M</Text>
+      <Text>
+        <Honour>M.M</Honour>
+      </Text>
       <PageNumber>2432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -896,7 +898,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Adcock</Key>
-      <Text>C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>209</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1028,7 +1032,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M.C. S</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1521,7 +1527,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P.C</Text>
+      <Text>
+        <Honour>P.C</Honour>
+      </Text>
       <PageNumber>2801</PageNumber>
     </MainItem>
   </ItemGroup>

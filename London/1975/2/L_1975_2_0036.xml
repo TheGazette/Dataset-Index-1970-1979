@@ -57,7 +57,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>5513</PageNumber>
       <PageNumber>6830</PageNumber>
     </MainItem>
@@ -483,7 +485,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Trail</Key>
-      <Text>D.L</Text>
+      <Text>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>5520</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -854,9 +858,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Geene</Forenames>
-      <Text>, R. G</Text>
+      <Key>Van Geene</Key>
+      <Forenames>R. G.</Forenames>
       <PageNumber>7134</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1257,7 +1260,9 @@
     <MainItem>
       <Key>Walsh</Key>
       <Forenames>L.</Forenames>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>6834</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1400,9 +1405,11 @@
       </Key>
       <Forenames>K.</Forenames>
       <Text>M.P</Text>
-      <PageNumber>5161</PageNumber>
     </MainItem>
   </ItemGroup>
+  <Honour>
+    <PageNumber>5161</PageNumber>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -1951,7 +1958,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wells</Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>5160</PageNumber>
     </MainItem>
   </ItemGroup>

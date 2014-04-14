@@ -676,8 +676,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>R.</Forenames>
-      <Text>de L</Text>
+      <Forenames>R. de L</Forenames>
       <PageNumber>10531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1787,7 +1786,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collin</Key>
-      <Forenames>G. De E.</Forenames>
+      <Forenames>G. De E</Forenames>
       <PageNumber>9025</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2109,8 +2108,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coogan</Key>
-      <Forenames>J. S. V. St</Forenames>
-      <Text>. R</Text>
+      <Forenames>J. S. V. St. R</Forenames>
       <PageNumber>10050</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -54,17 +54,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Boinville</Forenames>
-      <Text>, N. V. G</Text>
+      <Key>De Boinville</Key>
+      <Forenames>N. V. G.</Forenames>
       <PageNumber>5983</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Burgh</Forenames>
-      <Text>, M</Text>
+      <Key>de Burgh</Key>
+      <Forenames>H. W.</Forenames>
+      <PageNumber>6564</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Burgh</Key>
+      <Forenames>M.</Forenames>
       <PageNumber>5393</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -88,6 +93,13 @@
       <Key>Dehaan</Key>
       <Forenames>P. J.</Forenames>
       <PageNumber>5982</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Halpert</Key>
+      <Forenames>J. M.</Forenames>
+      <PageNumber>5976</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -125,6 +137,13 @@
       </Key>
       <Forenames>T. J.</Forenames>
       <PageNumber>5976</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Nieffe</Key>
+      <Forenames>P. P.</Forenames>
+      <PageNumber>4436</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -208,10 +227,25 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Roeper</Key>
+      <Forenames>S. D. C.</Forenames>
+      <Text>.;</Text>
+      <PageNumber>7118</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Derrick</Key>
       <Forenames>M.</Forenames>
       <Text>...'</Text>
       <PageNumber>7714</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Salis</Key>
+      <Forenames>J. B. P. H.</Forenames>
+      <PageNumber>5677</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -260,9 +294,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wreede</Forenames>
-      <Text>, A. S. A</Text>
+      <Key>De Wreede</Key>
+      <Forenames>A. S. A.</Forenames>
       <PageNumber>6570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -985,8 +1018,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Durham</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J. L. '</Text>
+      <Forenames>A. St. J</Forenames>
+      <Text>. L. '</Text>
       <PageNumber>5388</PageNumber>
     </MainItem>
   </ItemGroup>

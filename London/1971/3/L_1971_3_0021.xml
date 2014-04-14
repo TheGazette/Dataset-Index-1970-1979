@@ -1372,7 +1372,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>7205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2384,8 +2386,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bromhead</Key>
-      <Forenames>D.</Forenames>
-      <Text>de G</Text>
+      <Forenames>D. de G</Forenames>
       <PageNumber>8337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2537,18 +2538,20 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Text>A.E</Text>
-      <PageNumber>9188</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>A.T.</Forenames>
-      <PageNumber>9900</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>9188</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>A.T.</Forenames>
+        <PageNumber>9900</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -2719,7 +2722,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>7213</PageNumber>
     </MainItem>
   </ItemGroup>

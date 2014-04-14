@@ -519,7 +519,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P.C</Text>
+      <Text>
+        <Honour>P.C</Honour>
+      </Text>
       <PageNumber>5162</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -982,7 +984,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>P.</Forenames>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>4209</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1515,8 +1519,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mooney</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>R. St. C</Forenames>
       <PageNumber>8043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1548,7 +1551,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>7750</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1696,7 +1701,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>5517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1860,7 +1867,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>8050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2142,8 +2151,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>P.O</Forenames>
-      <Text>'D</Text>
+      <Forenames>P.O'D</Forenames>
       <PageNumber>5514</PageNumber>
     </MainItem>
   </ItemGroup>

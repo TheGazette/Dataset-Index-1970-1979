@@ -105,8 +105,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cosby</Key>
-      <Forenames>R. A.</Forenames>
-      <Text>de S</Text>
+      <Forenames>R. A. de S</Forenames>
       <PageNumber>8531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -471,15 +470,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, A</Text>
+      <Key>O'Connor</Key>
+      <Forenames>A.</Forenames>
       <PageNumber>8532</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Driscoll, W</Text>
+      <Key>O'Driscoll</Key>
+      <Forenames>W.</Forenames>
       <PageNumber>12885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,8 +498,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rourke, B. A. M</Text>
+      <Key>O'Rourke</Key>
+      <Forenames>B. A. M.</Forenames>
       <PageNumber>8344</PageNumber>
     </MainItem>
   </ItemGroup>

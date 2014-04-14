@@ -2102,8 +2102,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitzpatrick</Key>
-      <Forenames>W. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>W. O'C</Forenames>
       <PageNumber>11761</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -160,8 +160,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Webster</Key>
-      <Forenames>A.</Forenames>
-      <Text>de G;</Text>
+      <Forenames>A. de G</Forenames>
+      <Text>;</Text>
       <PageNumber>119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,8 +534,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whidbbrne</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J.,</Text>
+      <Forenames>R. St. J</Forenames>
+      <Text>.,</Text>
       <PageNumber>121</PageNumber>
     </MainItem>
   </ItemGroup>

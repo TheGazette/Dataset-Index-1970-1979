@@ -2155,10 +2155,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bock Porter</Forenames>
+      <Key>De Bock</Key>
+      <Forenames>Porter</Forenames>
       <Text>, M. E</Text>
       <PageNumber>8579</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Buriatte</Key>
+      <Forenames>T. J.</Forenames>
+      <PageNumber>8286</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2191,16 +2198,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Foubert</Forenames>
-      <Text>, N. O. H</Text>
+      <Key>De Foubert</Key>
+      <Forenames>N. O. H.</Forenames>
       <PageNumber>9748</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Billiere</Forenames>
+      <Key>De La</Key>
+      <Forenames>Billiere</Forenames>
       <Text>, P..E. de la C</Text>
       <PageNumber>7977</PageNumber>
     </MainItem>
@@ -2221,9 +2227,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Leon</Forenames>
-      <Text>, A</Text>
+      <Key>De Leon</Key>
+      <Forenames>A</Forenames>
       <PageNumber>10305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2243,9 +2248,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Nahlik</Forenames>
-      <Text>, C. A. V. I. A. H</Text>
+      <Key>De Nahlik</Key>
+      <Forenames>C. A. V. I. A. H.</Forenames>
       <PageNumber>8858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2292,7 +2296,9 @@
       <Key>
         <KeyDitto>___ ___ -—</KeyDitto>
       </Key>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>8572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2328,9 +2334,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vecchis</Forenames>
-      <Text>, B</Text>
+      <Key>De Vecchis</Key>
+      <Forenames>B.</Forenames>
       <PageNumber>8864</PageNumber>
     </MainItem>
   </ItemGroup>

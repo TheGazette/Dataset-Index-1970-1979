@@ -1714,7 +1714,9 @@
         <KeyDitto>___ ___ -</KeyDitto>
       </Key>
       <Forenames>R.</Forenames>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>3636</PageNumber>
     </MainItem>
   </ItemGroup>

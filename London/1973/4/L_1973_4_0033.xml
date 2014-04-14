@@ -419,8 +419,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>N. A.</Forenames>
-      <Text>de C</Text>
+      <Forenames>N. A. de C</Forenames>
       <PageNumber>12870</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1362,8 +1361,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirke</Key>
-      <Forenames>R. M. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>R. M. St. G</Forenames>
       <PageNumber>13177</PageNumber>
     </MainItem>
   </ItemGroup>

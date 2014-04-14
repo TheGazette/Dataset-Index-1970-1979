@@ -186,7 +186,9 @@
       <Key>
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>10368</PageNumber>
     </MainItem>
   </ItemGroup>

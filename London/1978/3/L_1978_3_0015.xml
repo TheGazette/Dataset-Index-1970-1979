@@ -410,7 +410,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>D.</Forenames>
-      <Text>P.C</Text>
+      <Text>
+        <Honour>P.C</Honour>
+      </Text>
       <PageNumber>8625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2130,7 +2132,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Culley</Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>8626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2496,8 +2500,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davidson-Houston</Key>
-      <Forenames>P. E. O</Forenames>
-      <Text>'R. B</Text>
+      <Forenames>P. E. O'R</Forenames>
+      <Text>. B</Text>
       <PageNumber>10367</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -291,8 +291,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burden</Key>
-      <Forenames>G.H. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>G.H. St. J</Forenames>
       <PageNumber>8622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1240,7 +1239,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>8621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1364,8 +1365,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>D. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>D. St. G</Forenames>
       <PageNumber>8622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1730,8 +1730,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Channer</Key>
-      <Forenames>R. H.</Forenames>
-      <Text>de R</Text>
+      <Forenames>R. H. de R</Forenames>
       <PageNumber>7205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2080,7 +2079,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Clacey</Key>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>7495</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2403,8 +2404,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clayton</Key>
-      <Forenames>A. S. J.</Forenames>
-      <Text>de S</Text>
+      <Forenames>A. S. J. de S</Forenames>
       <PageNumber>9187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2866,8 +2866,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collin</Key>
-      <Forenames>G.</Forenames>
-      <Text>de E</Text>
+      <Forenames>G. de E</Forenames>
       <PageNumber>8618</PageNumber>
     </MainItem>
   </ItemGroup>

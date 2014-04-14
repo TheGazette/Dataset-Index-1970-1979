@@ -10,6 +10,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Montford</Key>
+      <Forenames>A. L.</Forenames>
+      <PageNumber>19</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dench</Key>
       <Forenames>P. G. R.</Forenames>
       <PageNumber>367</PageNumber>
@@ -193,6 +200,14 @@
       <Forenames>C. E.</Forenames>
       <Text>. ..'</Text>
       <PageNumber>1781</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Zalan</Key>
+      <Forenames>D.</Forenames>
+      <Text>-</Text>
+      <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -912,7 +927,9 @@
     <MainItem>
       <Key>Dunlop</Key>
       <Forenames>J.</Forenames>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1441,7 +1441,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>1988</PageNumber>
       <PageNumber>3701</PageNumber>
     </MainItem>
@@ -2082,7 +2084,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>3035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2143,9 +2147,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Aubin</Forenames>
-      <Text>, B. J</Text>
+      <Key>St. Aubin</Key>
+      <Forenames>B. J.</Forenames>
       <PageNumber>667</PageNumber>
     </MainItem>
   </ItemGroup>

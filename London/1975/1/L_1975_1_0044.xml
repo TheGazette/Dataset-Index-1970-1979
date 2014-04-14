@@ -99,7 +99,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,8 +259,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>G. St</Forenames>
-      <Text>. M</Text>
+      <Forenames>G. St. M</Forenames>
       <PageNumber>203</PageNumber>
       <PageNumber>204</PageNumber>
     </MainItem>
@@ -537,7 +538,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>2226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -985,8 +988,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mooney</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>R. St. C</Forenames>
       <PageNumber>2921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1510,7 +1512,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1941,7 +1945,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M.M</Text>
+      <Text>
+        <Honour>M.M</Honour>
+      </Text>
       <PageNumber>524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1994,8 +2000,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>M. I. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>M. I. St. C</Forenames>
       <PageNumber>1894</PageNumber>
     </MainItem>
   </ItemGroup>

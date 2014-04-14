@@ -884,7 +884,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>329</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2207,7 +2209,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>R.</Forenames>
-      <Text>C.B..:. I</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>1984</PageNumber>
     </MainItem>
   </ItemGroup>

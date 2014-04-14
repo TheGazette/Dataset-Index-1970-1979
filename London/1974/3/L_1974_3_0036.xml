@@ -1449,7 +1449,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burns</Key>
-      <Text>de Bono, P. J</Text>
+      <Forenames>de Bono</Forenames>
+      <Text>, P. J</Text>
       <PageNumber>12550</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1873,8 +1874,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Calderwood</Key>
-      <Forenames>D. K. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>D. K. O'D</Forenames>
       <PageNumber>10631</PageNumber>
     </MainItem>
   </ItemGroup>

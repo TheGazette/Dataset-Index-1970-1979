@@ -844,8 +844,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ramos</Key>
-      <Forenames>J. S.</Forenames>
-      <Text>de P</Text>
+      <Forenames>J. S. de P</Forenames>
       <PageNumber>2217</PageNumber>
     </MainItem>
   </ItemGroup>

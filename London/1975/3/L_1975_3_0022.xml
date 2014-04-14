@@ -997,10 +997,24 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Broe-Ferguson</Forenames>
-      <Text>, E. N. deB., B</Text>
+      <Key>De Broe-Ferguson</Key>
+      <Forenames>E. N.</Forenames>
+      <Text>deB., B</Text>
       <PageNumber>8371</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Burgh</Key>
+      <Forenames>R. U. P.</Forenames>
+      <PageNumber>8695</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Carle</Key>
+      <Forenames>G. S. B.</Forenames>
+      <PageNumber>11361</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1019,25 +1033,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Glanville</Forenames>
-      <Text>, P. M</Text>
+      <Key>De Glanville</Key>
+      <Forenames>P. M.</Forenames>
       <PageNumber>11111</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Hauteville Bell</Forenames>
+      <Key>De Hauteville</Key>
+      <Forenames>Bell</Forenames>
       <Text>, R. L</Text>
       <PageNumber>12240</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Labilliere</Forenames>
-      <Text>, A. M. D</Text>
+      <Key>de Klee</Key>
+      <Forenames>M. P.</Forenames>
+      <PageNumber>8369</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Labilliere</Key>
+      <Forenames>A. M. D.</Forenames>
       <PageNumber>9319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1155,9 +1174,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Sa</Forenames>
-      <Text>, P. J. :</Text>
+      <Key>De Sa</Key>
+      <Forenames>P. J.</Forenames>
+      <Text>:</Text>
       <PageNumber>11108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2143,8 +2162,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Durham</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J. L</Text>
+      <Forenames>A. St. J</Forenames>
+      <Text>. L</Text>
       <PageNumber>10567</PageNumber>
     </MainItem>
   </ItemGroup>

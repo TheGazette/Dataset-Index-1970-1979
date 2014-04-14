@@ -658,8 +658,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Simmons</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>C. St. C</Forenames>
       <PageNumber>91</PageNumber>
     </MainItem>
   </ItemGroup>

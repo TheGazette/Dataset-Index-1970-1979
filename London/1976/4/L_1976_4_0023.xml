@@ -213,7 +213,9 @@
     <MainItem>
       <Key>Hills</Key>
       <Forenames>D.</Forenames>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>13445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +361,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Holgate</Key>
-      <Text>T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>13766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,7 +591,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hopton</Key>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>14103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1801,7 +1807,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jeffrey</Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>15061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2467,7 +2475,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kedward</Key>
-      <Text>P.C</Text>
+      <Text>
+        <Honour>P.C</Honour>
+      </Text>
       <PageNumber>14100</PageNumber>
     </MainItem>
   </ItemGroup>

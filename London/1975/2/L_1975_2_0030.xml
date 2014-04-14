@@ -319,7 +319,9 @@
       <Key>
         <KeyDitto>— ___</KeyDitto>
       </Key>
-      <Text>M.C. G</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,8 +558,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Horsford</Key>
-      <Forenames>M. C. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>M. C. O'B</Forenames>
       <PageNumber>5160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1162,7 +1163,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutchinson</Key>
-      <Forenames>C. S. De M.</Forenames>
+      <Forenames>C. S. De M</Forenames>
       <PageNumber>4513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1434,7 +1435,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>4819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1612,7 +1615,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jebb</Key>
-      <Text>P.C</Text>
+      <Text>
+        <Honour>P.C</Honour>
+      </Text>
       <PageNumber>5517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1829,7 +1834,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>4813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2465,7 +2472,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>6830</PageNumber>
     </MainItem>
   </ItemGroup>

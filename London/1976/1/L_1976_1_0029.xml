@@ -559,7 +559,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bartley</Key>
-      <Text>G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -968,7 +970,9 @@
       <Key>
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>912</PageNumber>
     </MainItem>
   </ItemGroup>

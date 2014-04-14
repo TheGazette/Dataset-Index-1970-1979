@@ -16,9 +16,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Pon</Forenames>
-      <Text>, G. P</Text>
+      <Key>Du Pon</Key>
+      <Forenames>G. P.</Forenames>
       <PageNumber>12588</PageNumber>
     </MainItem>
   </ItemGroup>

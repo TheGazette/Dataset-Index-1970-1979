@@ -1042,8 +1042,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lash</Key>
-      <Forenames>W. R.</Forenames>
-      <Text>de W</Text>
+      <Forenames>W. R. de W</Forenames>
       <PageNumber>380</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2100,8 +2099,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>H. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>H. O'H</Forenames>
       <PageNumber>1779</PageNumber>
     </MainItem>
   </ItemGroup>

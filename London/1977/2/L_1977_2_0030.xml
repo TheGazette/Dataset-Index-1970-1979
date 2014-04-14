@@ -514,8 +514,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Filler</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. St. J</Forenames>
       <PageNumber>5624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1248,8 +1247,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gainher</Key>
-      <Forenames>R. J.</Forenames>
-      <Text>de M</Text>
+      <Forenames>R. J. de M</Forenames>
       <PageNumber>4642</PageNumber>
     </MainItem>
   </ItemGroup>

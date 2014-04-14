@@ -2577,7 +2577,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>13664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2902,7 +2904,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>11558</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -777,7 +777,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McNeil</Key>
-      <Text>M.M. F</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>11462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2459,7 +2461,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>T.</Forenames>
-      <Text>V.C</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>12054</PageNumber>
     </MainItem>
   </ItemGroup>

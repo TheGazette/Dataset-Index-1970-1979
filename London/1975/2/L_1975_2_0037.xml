@@ -260,80 +260,82 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Text>C.B</Text>
-      <PageNumber>5159</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>C.C.</Forenames>
-      <PageNumber>4815</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ -</KeyDitto>
-      </Key>
-      <Forenames>D.</Forenames>
-      <PageNumber>4210</PageNumber>
-      <PageNumber>7131</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___</KeyDitto>
-      </Key>
-      <Forenames>D.C.</Forenames>
-      <PageNumber>6523</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Wilson</Key>
-      <Forenames>F.K.</Forenames>
-      <PageNumber>6522</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>G</Forenames>
-      <PageNumber>5517</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>G. A</Forenames>
-      <PageNumber>6191</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>G.K</Forenames>
-      <PageNumber>7132</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>J.A</Forenames>
-      <PageNumber>6829</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>5159</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>C.C.</Forenames>
+        <PageNumber>4815</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ -</KeyDitto>
+        </Key>
+        <Forenames>D.</Forenames>
+        <PageNumber>4210</PageNumber>
+        <PageNumber>7131</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___</KeyDitto>
+        </Key>
+        <Forenames>D.C.</Forenames>
+        <PageNumber>6523</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Wilson</Key>
+        <Forenames>F.K.</Forenames>
+        <PageNumber>6522</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>G</Forenames>
+        <PageNumber>5517</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>G. A</Forenames>
+        <PageNumber>6191</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>G.K</Forenames>
+        <PageNumber>7132</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>J.A</Forenames>
+        <PageNumber>6829</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -449,7 +451,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Windsor</Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>4210</PageNumber>
     </MainItem>
   </ItemGroup>

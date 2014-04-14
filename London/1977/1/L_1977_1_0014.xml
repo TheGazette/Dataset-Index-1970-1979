@@ -457,8 +457,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Batty-Smith</Key>
-      <Forenames>W.</Forenames>
-      <Text>de B. P</Text>
+      <Forenames>W. de B</Forenames>
+      <Text>. P</Text>
       <PageNumber>19</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1216,8 +1216,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bosisto</Key>
-      <Forenames>G.</Forenames>
-      <Text>de V</Text>
+      <Forenames>G. de V</Forenames>
       <PageNumber>21</PageNumber>
     </MainItem>
   </ItemGroup>

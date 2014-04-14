@@ -436,7 +436,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaudin</Key>
-      <Forenames>P. De G.</Forenames>
+      <Forenames>P. De G</Forenames>
       <PageNumber>11771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2162,8 +2162,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J. P</Text>
+      <Forenames>A. St. J</Forenames>
+      <Text>. P</Text>
       <PageNumber>14597</PageNumber>
     </MainItem>
   </ItemGroup>

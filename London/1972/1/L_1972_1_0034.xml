@@ -2210,7 +2210,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelland</Key>
-      <Text>CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>2200</PageNumber>
     </MainItem>
   </ItemGroup>

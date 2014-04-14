@@ -1740,7 +1740,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>9588</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1919,7 +1921,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Taggart</Key>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>10917</PageNumber>
     </MainItem>
   </ItemGroup>

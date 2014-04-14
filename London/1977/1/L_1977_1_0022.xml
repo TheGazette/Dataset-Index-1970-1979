@@ -161,9 +161,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Paul</Forenames>
-      <Text>, L. J</Text>
+      <Key>St. Paul</Key>
+      <Forenames>L. J.</Forenames>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2416,8 +2415,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tabor</Key>
-      <Forenames>D. J. St</Forenames>
-      <Text>. M</Text>
+      <Forenames>D. J. St. M</Forenames>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -62,7 +62,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Baillie</Key>
-      <Text>A.E</Text>
+      <Text>
+        <Honour>A.E</Honour>
+      </Text>
       <PageNumber>10851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -977,7 +979,9 @@
       <Key>
         <KeyDitto>___ ___ ——</KeyDitto>
       </Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>12240</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1743,7 +1747,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Boddv</Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>8378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1901,7 +1907,9 @@
     <MainItem>
       <Key>Boon</Key>
       <Forenames>R.</Forenames>
-      <Text>CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>9641</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -2390,8 +2390,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John Lyle</Forenames>
+      <Key>St. John</Key>
+      <Forenames>Lyle</Forenames>
       <Text>, T P</Text>
       <PageNumber>7711</PageNumber>
     </MainItem>

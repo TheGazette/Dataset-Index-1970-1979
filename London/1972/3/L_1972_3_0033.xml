@@ -1868,8 +1868,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Messel</Key>
-      <Forenames>L. T.</Forenames>
-      <Text>de C</Text>
+      <Forenames>L. T. de C</Forenames>
       <PageNumber>8858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2792,8 +2791,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>D. P.</Forenames>
-      <Text>de C</Text>
+      <Forenames>D. P. de C</Forenames>
       <PageNumber>7978</PageNumber>
     </MainItem>
   </ItemGroup>

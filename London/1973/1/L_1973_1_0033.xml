@@ -1451,9 +1451,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Belder</Forenames>
-      <Text>, G. R</Text>
+      <Key>De Belder</Key>
+      <Forenames>G. R.</Forenames>
       <PageNumber>99</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1466,9 +1465,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Courcier</Forenames>
-      <Text>, M. H</Text>
+      <Key>De Courcier</Key>
+      <Forenames>M. H.</Forenames>
       <PageNumber>714</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1488,16 +1486,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Foubert</Forenames>
-      <Text>, N. O. H</Text>
+      <Key>De Foubert</Key>
+      <Forenames>N. O. H.</Forenames>
       <PageNumber>2025</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Hochepied Larpent</Forenames>
+      <Key>De Hochepied</Key>
+      <Forenames>Larpent</Forenames>
       <Text>, A. L. D</Text>
       <PageNumber>1348</PageNumber>
     </MainItem>
@@ -1597,9 +1594,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salis</Forenames>
-      <Text>, J. B. P. H</Text>
+      <Key>De Salis</Key>
+      <Forenames>J. B. P. H.</Forenames>
       <PageNumber>88</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2218,8 +2214,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dracopoli</Key>
-      <Forenames>M. P. St</Forenames>
-      <Text>. F</Text>
+      <Forenames>M. P. St. F</Forenames>
       <PageNumber>91</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2341,9 +2336,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Boulay</Forenames>
-      <Text>, C. M. H</Text>
+      <Key>Du Boulay</Key>
+      <Forenames>C. M. H.</Forenames>
       <PageNumber>1353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2600,8 +2594,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Durham</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J. L</Text>
+      <Forenames>A. St. J</Forenames>
+      <Text>. L</Text>
       <PageNumber>3642</PageNumber>
     </MainItem>
   </ItemGroup>

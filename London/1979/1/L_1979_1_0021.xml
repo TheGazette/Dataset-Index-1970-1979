@@ -794,7 +794,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>^P.C</Text>
+      <Text>
+        <Honour>P.C</Honour>
+      </Text>
       <PageNumber>3699</PageNumber>
     </MainItem>
   </ItemGroup>

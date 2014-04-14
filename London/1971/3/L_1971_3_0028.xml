@@ -829,7 +829,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kaye</Key>
-      <Text>P.C. C</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>7205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -961,7 +963,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>9658</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1145,7 +1149,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>B.</Forenames>
-      <Text>L.G</Text>
+      <Text>
+        <Honour>L.G</Honour>
+      </Text>
       <PageNumber>7204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1344,7 +1350,9 @@
     <MainItem>
       <Key>Kime</Key>
       <Forenames>D.</Forenames>
-      <Text>CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>8339</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1772,7 +1780,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>8896</PageNumber>
     </MainItem>
   </ItemGroup>

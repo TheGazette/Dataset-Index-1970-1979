@@ -157,7 +157,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P.C</Text>
+      <Text>
+        <Honour>P.C</Honour>
+      </Text>
       <PageNumber>6717</PageNumber>
       <PageNumber>8099</PageNumber>
     </MainItem>
@@ -1867,32 +1869,34 @@
     <MainItem>
       <Key>Hawkes</Key>
       <Text>R.D</Text>
-      <PageNumber>6718</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Hawkins</Key>
-      <Forenames>M. G. S.</Forenames>
-      <PageNumber>8103</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>R. J</Forenames>
-      <PageNumber>8694</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Hawkyard</Key>
-      <Forenames>N. J. K.</Forenames>
-      <PageNumber>7438</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>6718</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Hawkins</Key>
+        <Forenames>M. G. S.</Forenames>
+        <PageNumber>8103</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>R. J</Forenames>
+        <PageNumber>8694</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Hawkyard</Key>
+        <Forenames>N. J. K.</Forenames>
+        <PageNumber>7438</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Haworth</Key>
@@ -2536,7 +2540,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hillier</Key>
-      <Text>K.G</Text>
+      <Text>
+        <Honour>K.G</Honour>
+      </Text>
       <PageNumber>5466</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1430,8 +1430,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibbs</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. J. V</Text>
+      <Forenames>M. St. J</Forenames>
+      <Text>. V</Text>
       <PageNumber>15055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2526,8 +2526,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gribbon</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>N. St. G</Forenames>
       <PageNumber>14094</PageNumber>
     </MainItem>
   </ItemGroup>

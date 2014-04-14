@@ -377,7 +377,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>5465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -961,7 +963,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Croft</Key>
-      <Text>G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>8990</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1496,7 +1500,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>5473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1859,6 +1865,20 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Boyer</Key>
+      <Forenames>J. P.</Forenames>
+      <PageNumber>6717</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Chair</Key>
+      <Forenames>S. C.</Forenames>
+      <PageNumber>6718</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dedman</Key>
       <Forenames>N. J. K.</Forenames>
       <PageNumber>8099</PageNumber>
@@ -1887,11 +1907,31 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Giacomi</Forenames>
-      <Text>, A. H</Text>
+      <Key>de Gex</Key>
+      <Forenames>G. F.</Forenames>
+      <PageNumber>6041</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Giacomi</Key>
+      <Forenames>A. H.</Forenames>
       <PageNumber>7445</PageNumber>
       <PageNumber>8994</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Iongh</Key>
+      <Forenames>B. E.</Forenames>
+      <PageNumber>5059</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Kitchen</Key>
+      <Forenames>G. A.</Forenames>
+      <PageNumber>8099</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1910,9 +1950,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Marco</Forenames>
-      <Text>, M. L</Text>
+      <Key>De Marco</Key>
+      <Forenames>M. L.</Forenames>
       <PageNumber>8693</PageNumber>
     </MainItem>
   </ItemGroup>

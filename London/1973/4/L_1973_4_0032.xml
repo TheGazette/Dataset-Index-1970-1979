@@ -748,8 +748,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holbrook</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>A. St. C</Forenames>
       <PageNumber>15026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -765,8 +764,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holcroft</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>H. St. J</Forenames>
       <PageNumber>12242</PageNumber>
     </MainItem>
   </ItemGroup>

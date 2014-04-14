@@ -697,8 +697,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, J. J</Text>
+      <Key>O'Brien</Key>
+      <Forenames>J. J.</Forenames>
       <PageNumber>15750</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -731,15 +731,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, T. R</Text>
+      <Key>O'Connell</Key>
+      <Forenames>T. R.</Forenames>
       <PageNumber>14421</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, M. P</Text>
+      <Key>O'Connor</Key>
+      <Forenames>M. P.</Forenames>
       <PageNumber>15412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -754,8 +754,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, J. L. J</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>J. L. J.</Forenames>
       <PageNumber>17283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -792,8 +792,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gorman, A. P</Text>
+      <Key>O'Gorman</Key>
+      <Forenames>A. P.</Forenames>
       <PageNumber>13442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -831,8 +831,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, C. M. R</Text>
+      <Key>O'Leary</Key>
+      <Forenames>C. M. R.</Forenames>
       <PageNumber>13447</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -866,8 +866,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>S. W. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>S. W. St. J</Forenames>
       <PageNumber>15411</PageNumber>
       <PageNumber>16082</PageNumber>
     </MainItem>
@@ -888,22 +887,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mahoney.A</Text>
+      <Key>O'Mahoney</Key>
+      <Forenames>A.</Forenames>
       <PageNumber>15408</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Morchoe, The</Text>
+      <Key>O'Morchoe</Key>
+      <Title>The .</Title>
       <PageNumber>13442</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, D.W</Text>
+      <Key>O'Neill</Key>
+      <Forenames>D.W.</Forenames>
       <PageNumber>13762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1012,8 +1011,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea.S</Text>
+      <Key>O'Shea</Key>
+      <Forenames>S</Forenames>
       <PageNumber>16440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1026,8 +1025,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, J. J. M</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>J. J. M.</Forenames>
       <PageNumber>13762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1151,85 +1150,87 @@
     <MainItem>
       <Key>Packham</Key>
       <Text>M.C</Text>
-      <PageNumber>17089</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Padmore</Key>
-      <Forenames>M. J.</Forenames>
-      <PageNumber>16441</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Page</Key>
-      <Forenames>J.M</Forenames>
-      <PageNumber>13769</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>P.R</Forenames>
-      <PageNumber>15065</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Paget</Key>
-      <Forenames>R.H</Forenames>
-      <PageNumber>15062</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Paisley</Key>
-      <Forenames>S. R.</Forenames>
-      <PageNumber>13769</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Palfrey</Key>
-      <Forenames>M.J</Forenames>
-      <PageNumber>14104</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>PallantJ</Key>
-      <Forenames>N.</Forenames>
-      <PageNumber>14763</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Palmer</Key>
-      <Forenames>C. R</Forenames>
-      <PageNumber>15065</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>D.J</Forenames>
-      <PageNumber>14422</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>G.P</Forenames>
-      <PageNumber>13446</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>17089</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Padmore</Key>
+        <Forenames>M. J.</Forenames>
+        <PageNumber>16441</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Page</Key>
+        <Forenames>J.M</Forenames>
+        <PageNumber>13769</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>P.R</Forenames>
+        <PageNumber>15065</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Paget</Key>
+        <Forenames>R.H</Forenames>
+        <PageNumber>15062</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Paisley</Key>
+        <Forenames>S. R.</Forenames>
+        <PageNumber>13769</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Palfrey</Key>
+        <Forenames>M.J</Forenames>
+        <PageNumber>14104</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>PallantJ</Key>
+        <Forenames>N.</Forenames>
+        <PageNumber>14763</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Palmer</Key>
+        <Forenames>C. R</Forenames>
+        <PageNumber>15065</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>D.J</Forenames>
+        <PageNumber>14422</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>G.P</Forenames>
+        <PageNumber>13446</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>

@@ -69,7 +69,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>N.</Forenames>
-      <Text>M.M</Text>
+      <Text>
+        <Honour>M.M</Honour>
+      </Text>
       <PageNumber>2055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,7 +186,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Duff</Key>
-      <Text>L.T</Text>
+      <Text>
+        <Honour>L.T</Honour>
+      </Text>
       <PageNumber>3579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -875,7 +879,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>K.T</Text>
+      <Text>
+        <Honour>K.T</Honour>
+      </Text>
       <PageNumber>3583</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1258,7 +1264,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>O.M</Text>
+      <Text>
+        <Honour>O.M</Honour>
+      </Text>
       <PageNumber>1675</PageNumber>
     </MainItem>
   </ItemGroup>

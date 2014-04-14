@@ -587,8 +587,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Weldon</Key>
-      <Forenames>M. H.</Forenames>
-      <Text>de W</Text>
+      <Forenames>M. H. de W</Forenames>
       <PageNumber>12157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1780,8 +1779,7 @@
       <Key>
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
-      <Forenames>P.</Forenames>
-      <Text>de G</Text>
+      <Forenames>P. de G</Forenames>
       <PageNumber>11387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1869,8 +1867,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>7898</PageNumber>
       <PageNumber>12163</PageNumber>
     </MainItem>

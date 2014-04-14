@@ -253,7 +253,9 @@
       <Key>
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
-      <Text>D.L</Text>
+      <Text>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>7442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,8 +435,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>P. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>P. St. G</Forenames>
       <PageNumber>5469</PageNumber>
     </MainItem>
   </ItemGroup>

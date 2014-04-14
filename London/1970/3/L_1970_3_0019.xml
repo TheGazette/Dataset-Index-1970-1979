@@ -660,7 +660,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J.S.</Forenames>
-      <Text>V.C</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>9427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -822,243 +824,245 @@
       </Key>
       <Forenames>J.</Forenames>
       <Text>M.D</Text>
-      <PageNumber>9877</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Blad</Key>
-      <Forenames>T.J.</Forenames>
-      <PageNumber>9684</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Blagbrough</Key>
-      <Forenames>C. M.</Forenames>
-      <PageNumber>8860</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Blagg</Key>
-      <Forenames>J.</Forenames>
-      <PageNumber>8585</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Blain</Key>
-      <Forenames>J.W.</Forenames>
-      <PageNumber>9882</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Blair</Key>
-      <Forenames>D.H.</Forenames>
-      <PageNumber>8861</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___</KeyDitto>
-      </Key>
-      <Forenames>W.W .</Forenames>
-      <PageNumber>7475</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Blake</Key>
-      <Forenames>D.J.</Forenames>
-      <PageNumber>8027</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___</KeyDitto>
-      </Key>
-      <Forenames>J.R.</Forenames>
-      <PageNumber>7753</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>M.W.</Forenames>
-      <PageNumber>10346</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>V.A.</Forenames>
-      <PageNumber>8858</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Blakey</Key>
-      <Forenames>J. H. N. M.</Forenames>
-      <PageNumber>8306</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Blanche</Key>
-      <Forenames>J. B.</Forenames>
-      <PageNumber>10603</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>S.</Forenames>
-      <PageNumber>9880</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Blanckensee</Key>
-      <Forenames>B. J.</Forenames>
-      <PageNumber>10600</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bland</Key>
-      <Forenames>C. G.</Forenames>
-      <PageNumber>9683</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Blatch</Key>
-      <Forenames>J.P.J.</Forenames>
-      <PageNumber>9162</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Blatherwick</Key>
-      <Forenames>M.</Forenames>
-      <PageNumber>9426</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Blight</Key>
-      <Forenames>E.J.</Forenames>
-      <PageNumber>10346</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bliss</Key>
-      <Forenames>T.J.</Forenames>
-      <PageNumber>7754</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Blofeld</Key>
-      <Forenames>S. J. W.</Forenames>
-      <PageNumber>8578</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Blois-Brooke</Key>
-      <Forenames>A. J.</Forenames>
-      <PageNumber>7478</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Blow</Key>
-      <Forenames>D.M.</Forenames>
-      <PageNumber>10108</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bloxwich</Key>
-      <Forenames>J. S.</Forenames>
-      <PageNumber>9684</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bloye</Key>
-      <Forenames>D. C.</Forenames>
-      <PageNumber>10346</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Blundell</Key>
-      <Forenames>M.</Forenames>
-      <PageNumber>8853</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Blunden</Key>
-      <Forenames>R. F.</Forenames>
-      <PageNumber>7758</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Blyth</Key>
-      <Forenames>G. G .</Forenames>
-      <PageNumber>10107</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Blythe</Key>
-      <Forenames>S.J.</Forenames>
-      <PageNumber>9687</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Boanas</Key>
-      <Forenames>J. R.</Forenames>
-      <PageNumber>9688</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Boardman</Key>
-      <Forenames>C.</Forenames>
-      <PageNumber>7475</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bocking</Key>
-      <Forenames>A. W. M.</Forenames>
-      <PageNumber>10108</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Boden</Key>
-      <Forenames>J.</Forenames>
-      <PageNumber>9427</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>9877</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Blad</Key>
+        <Forenames>T.J.</Forenames>
+        <PageNumber>9684</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Blagbrough</Key>
+        <Forenames>C. M.</Forenames>
+        <PageNumber>8860</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Blagg</Key>
+        <Forenames>J.</Forenames>
+        <PageNumber>8585</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Blain</Key>
+        <Forenames>J.W.</Forenames>
+        <PageNumber>9882</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Blair</Key>
+        <Forenames>D.H.</Forenames>
+        <PageNumber>8861</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___</KeyDitto>
+        </Key>
+        <Forenames>W.W .</Forenames>
+        <PageNumber>7475</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Blake</Key>
+        <Forenames>D.J.</Forenames>
+        <PageNumber>8027</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___</KeyDitto>
+        </Key>
+        <Forenames>J.R.</Forenames>
+        <PageNumber>7753</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>M.W.</Forenames>
+        <PageNumber>10346</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>V.A.</Forenames>
+        <PageNumber>8858</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Blakey</Key>
+        <Forenames>J. H. N. M.</Forenames>
+        <PageNumber>8306</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Blanche</Key>
+        <Forenames>J. B.</Forenames>
+        <PageNumber>10603</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>S.</Forenames>
+        <PageNumber>9880</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Blanckensee</Key>
+        <Forenames>B. J.</Forenames>
+        <PageNumber>10600</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bland</Key>
+        <Forenames>C. G.</Forenames>
+        <PageNumber>9683</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Blatch</Key>
+        <Forenames>J.P.J.</Forenames>
+        <PageNumber>9162</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Blatherwick</Key>
+        <Forenames>M.</Forenames>
+        <PageNumber>9426</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Blight</Key>
+        <Forenames>E.J.</Forenames>
+        <PageNumber>10346</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bliss</Key>
+        <Forenames>T.J.</Forenames>
+        <PageNumber>7754</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Blofeld</Key>
+        <Forenames>S. J. W.</Forenames>
+        <PageNumber>8578</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Blois-Brooke</Key>
+        <Forenames>A. J.</Forenames>
+        <PageNumber>7478</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Blow</Key>
+        <Forenames>D.M.</Forenames>
+        <PageNumber>10108</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bloxwich</Key>
+        <Forenames>J. S.</Forenames>
+        <PageNumber>9684</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bloye</Key>
+        <Forenames>D. C.</Forenames>
+        <PageNumber>10346</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Blundell</Key>
+        <Forenames>M.</Forenames>
+        <PageNumber>8853</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Blunden</Key>
+        <Forenames>R. F.</Forenames>
+        <PageNumber>7758</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Blyth</Key>
+        <Forenames>G. G .</Forenames>
+        <PageNumber>10107</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Blythe</Key>
+        <Forenames>S.J.</Forenames>
+        <PageNumber>9687</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Boanas</Key>
+        <Forenames>J. R.</Forenames>
+        <PageNumber>9688</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Boardman</Key>
+        <Forenames>C.</Forenames>
+        <PageNumber>7475</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bocking</Key>
+        <Forenames>A. W. M.</Forenames>
+        <PageNumber>10108</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Boden</Key>
+        <Forenames>J.</Forenames>
+        <PageNumber>9427</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -2221,7 +2225,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>8579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2395,7 +2401,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>9424</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2715,8 +2723,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burnett</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>B. St. L</Forenames>
       <PageNumber>9883</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2727,23 +2734,25 @@
       </Key>
       <Forenames>I.</Forenames>
       <Text>G.M</Text>
-      <PageNumber>9421</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Burnett-Hitchcock</Key>
-      <Forenames>C. D.</Forenames>
-      <PageNumber>8579</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Burns</Key>
-      <Forenames>C. S.</Forenames>
-      <PageNumber>9426</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>9421</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Burnett-Hitchcock</Key>
+        <Forenames>C. D.</Forenames>
+        <PageNumber>8579</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Burns</Key>
+        <Forenames>C. S.</Forenames>
+        <PageNumber>9426</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>

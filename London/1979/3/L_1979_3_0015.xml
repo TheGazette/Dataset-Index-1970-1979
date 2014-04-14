@@ -209,8 +209,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Forenames>A. L. St</Forenames>
-      <Text>. G. S</Text>
+      <Forenames>A. L. St. G</Forenames>
+      <Text>. S</Text>
       <PageNumber>9350</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -845,8 +845,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cotton</Key>
-      <Forenames>S. D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>S. D. St. J</Forenames>
       <PageNumber>11217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2102,26 +2101,31 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Beaujeu</Forenames>
-      <Text>, D. L</Text>
+      <Key>De Beaujeu</Key>
+      <Forenames>D. L.</Forenames>
       <PageNumber>12046</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bretton Gordon</Forenames>
-      <Text>, A</Text>
+      <Key>de Boyer</Key>
+      <Forenames>J. P.</Forenames>
+      <Text>. N. De Bretton Gordon, A</Text>
       <PageNumber>9349</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Cordova</Forenames>
-      <Text>, J. G</Text>
+      <Key>De Cordova</Key>
+      <Forenames>J. G.</Forenames>
       <PageNumber>9695</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Fleury</Key>
+      <Forenames>J. C.</Forenames>
+      <PageNumber>10657</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2133,8 +2137,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Haye</Forenames>
+      <Key>De La</Key>
+      <Forenames>Haye</Forenames>
       <Text>, P</Text>
       <PageNumber>9350</PageNumber>
     </MainItem>

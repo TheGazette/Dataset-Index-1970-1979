@@ -1256,8 +1256,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Purves</Key>
-      <Forenames>M. E.</Forenames>
-      <Text>de B</Text>
+      <Forenames>M. E. de B</Forenames>
       <PageNumber>16</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1755,7 +1754,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>H. De W.</Forenames>
+      <Forenames>H. De W</Forenames>
       <PageNumber>3942</PageNumber>
     </MainItem>
   </ItemGroup>

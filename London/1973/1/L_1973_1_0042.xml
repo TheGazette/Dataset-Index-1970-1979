@@ -1451,8 +1451,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>T. O</Forenames>
-      <Text>'G</Text>
+      <Forenames>T. O'G</Forenames>
       <PageNumber>1348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2110,9 +2109,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Quinton</Forenames>
-      <Text>, E. A</Text>
+      <Key>St. Quinton</Key>
+      <Forenames>E. A.</Forenames>
       <PageNumber>1023</PageNumber>
     </MainItem>
   </ItemGroup>

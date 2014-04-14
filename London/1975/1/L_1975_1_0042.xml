@@ -278,8 +278,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>M.J. A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M.J. A. St. J</Forenames>
       <PageNumber>862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -638,7 +637,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>3290</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -807,7 +808,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>P.</Forenames>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2189,7 +2192,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>863</PageNumber>
     </MainItem>
   </ItemGroup>

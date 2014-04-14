@@ -410,7 +410,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>K.G. ... i</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+      </Text>
       <PageNumber>529</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,7 +680,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>L.G</Text>
+      <Text>
+        <Honour>L.G</Honour>
+      </Text>
       <PageNumber>865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1404,8 +1408,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaudin</Key>
-      <Forenames>P.</Forenames>
-      <Text>de G</Text>
+      <Forenames>P. de G</Forenames>
       <PageNumber>2928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1744,7 +1747,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>^—R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>1211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1978,7 +1983,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>A.E</Text>
+      <Text>
+        <Honour>A.E</Honour>
+      </Text>
       <PageNumber>862</PageNumber>
     </MainItem>
   </ItemGroup>

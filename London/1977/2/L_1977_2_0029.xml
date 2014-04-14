@@ -1069,9 +1069,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Buriatte</Forenames>
-      <Text>, T. J</Text>
+      <Key>de Burgh</Key>
+      <Forenames>C. D</Forenames>
+      <PageNumber>6963</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Buriatte</Key>
+      <Forenames>T. J.</Forenames>
       <PageNumber>6416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1235,9 +1241,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salis</Forenames>
-      <Text>, J. O</Text>
+      <Key>De Salis</Key>
+      <Forenames>J. O.</Forenames>
       <PageNumber>4641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1250,9 +1255,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vear</Forenames>
-      <Text>, H. W</Text>
+      <Key>De Vear</Key>
+      <Forenames>H. W.</Forenames>
       <PageNumber>5992</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1265,9 +1269,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vecchis</Forenames>
-      <Text>, B</Text>
+      <Key>De Vecchis</Key>
+      <Forenames>B.</Forenames>
       <PageNumber>5993</PageNumber>
     </MainItem>
   </ItemGroup>

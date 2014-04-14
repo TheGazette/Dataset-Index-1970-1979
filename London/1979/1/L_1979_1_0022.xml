@@ -531,7 +531,9 @@
     <MainItem>
       <Key>Bould</Key>
       <Forenames>A.</Forenames>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>648</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1426,7 +1428,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M.M. S</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2489,7 +2493,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D.L</Text>
+      <Text>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>1298</PageNumber>
     </MainItem>
   </ItemGroup>

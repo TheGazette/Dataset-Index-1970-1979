@@ -104,8 +104,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lytle</Key>
-      <Forenames>S. W. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>S. W. St. J</Forenames>
       <PageNumber>8325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,8 +571,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackaness</Key>
-      <Forenames>J. R. St</Forenames>
-      <Text>. D</Text>
+      <Forenames>J. R. St. D</Forenames>
       <PageNumber>9817</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2015,7 +2013,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>9490</PageNumber>
     </MainItem>
   </ItemGroup>

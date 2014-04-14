@@ -104,8 +104,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Longford</Key>
-      <Forenames>E.</Forenames>
-      <Text>de T. W</Text>
+      <Forenames>E. de T</Forenames>
+      <Text>. W</Text>
       <PageNumber>12552</PageNumber>
     </MainItem>
   </ItemGroup>

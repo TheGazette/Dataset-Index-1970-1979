@@ -961,8 +961,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Minogue</Key>
-      <Forenames>P. J. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>P. J. O'B</Forenames>
       <PageNumber>1263</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -735,8 +735,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, P. H. B</Text>
+      <Key>O'Meara</Key>
+      <Forenames>P. H. B.</Forenames>
       <PageNumber>11635</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1014,8 +1014,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ainslie</Key>
-      <Forenames>J. D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>J. D. St. J</Forenames>
       <PageNumber>14093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2306,8 +2305,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barkshire</Key>
-      <Forenames>R. R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. R. St. J</Forenames>
       <PageNumber>12808</PageNumber>
     </MainItem>
   </ItemGroup>

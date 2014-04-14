@@ -247,7 +247,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>D.L</Text>
+      <Text>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>15605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1454,108 +1456,110 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Text>R.D</Text>
-      <PageNumber>14590</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>R.H.</Forenames>
-      <PageNumber>15597</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>T. O. R.</Forenames>
-      <PageNumber>14592</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>W.L.</Forenames>
-      <PageNumber>13231</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Reeve</Key>
-      <Forenames>G. W .</Forenames>
-      <PageNumber>13578</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>N.P.</Forenames>
-      <PageNumber>14235</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <KeyDitto>___ ___ ___</KeyDitto>
-  <ItemGroup>
-    <MainItem>
-      <Key>Reffell</Key>
-      <Forenames>D. R.</Forenames>
-      <PageNumber>14593</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Reid</Key>
-      <Forenames>A.H.</Forenames>
-      <PageNumber>14244</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>A.J.</Forenames>
-      <PageNumber>13565</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>D.B.</Forenames>
-      <PageNumber>15939</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>R.J.S.</Forenames>
-      <PageNumber>15605</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Rejder</Key>
-      <Forenames>B.</Forenames>
-      <PageNumber>15604</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Relph</Key>
-      <Forenames>L.A.</Forenames>
-      <PageNumber>13567</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>14590</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>R.H.</Forenames>
+        <PageNumber>15597</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>T. O. R.</Forenames>
+        <PageNumber>14592</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>W.L.</Forenames>
+        <PageNumber>13231</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Reeve</Key>
+        <Forenames>G. W .</Forenames>
+        <PageNumber>13578</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>N.P.</Forenames>
+        <PageNumber>14235</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <KeyDitto>___ ___ ___</KeyDitto>
+    <ItemGroup>
+      <MainItem>
+        <Key>Reffell</Key>
+        <Forenames>D. R.</Forenames>
+        <PageNumber>14593</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Reid</Key>
+        <Forenames>A.H.</Forenames>
+        <PageNumber>14244</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>A.J.</Forenames>
+        <PageNumber>13565</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>D.B.</Forenames>
+        <PageNumber>15939</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>R.J.S.</Forenames>
+        <PageNumber>15605</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Rejder</Key>
+        <Forenames>B.</Forenames>
+        <PageNumber>15604</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Relph</Key>
+        <Forenames>L.A.</Forenames>
+        <PageNumber>13567</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -1852,7 +1856,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>13575</PageNumber>
       <PageNumber>15602</PageNumber>
     </MainItem>
@@ -2139,7 +2145,9 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>13565</PageNumber>
     </MainItem>
   </ItemGroup>

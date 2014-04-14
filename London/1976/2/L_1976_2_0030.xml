@@ -742,7 +742,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>7779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1498,51 +1500,53 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Text>M.M</Text>
-      <PageNumber>8990</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Cadman</Key>
-      <Forenames>M.A.</Forenames>
-      <PageNumber>7069</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Cadwallader</Key>
-      <Forenames>D. K. B.</Forenames>
-      <PageNumber>7779</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Calder</Key>
-      <Forenames>H.C.</Forenames>
-      <PageNumber>8102</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Calderley</Key>
-      <Forenames>P. R.</Forenames>
-      <PageNumber>6039</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Calderwood</Key>
-      <Forenames>J. C.</Forenames>
-      <PageNumber>8099</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Calvert</Key>
-      <Forenames>J.G.</Forenames>
-      <PageNumber>8104</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>8990</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Cadman</Key>
+        <Forenames>M.A.</Forenames>
+        <PageNumber>7069</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Cadwallader</Key>
+        <Forenames>D. K. B.</Forenames>
+        <PageNumber>7779</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Calder</Key>
+        <Forenames>H.C.</Forenames>
+        <PageNumber>8102</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Calderley</Key>
+        <Forenames>P. R.</Forenames>
+        <PageNumber>6039</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Calderwood</Key>
+        <Forenames>J. C.</Forenames>
+        <PageNumber>8099</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Calvert</Key>
+        <Forenames>J.G.</Forenames>
+        <PageNumber>8104</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -1939,7 +1943,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Casper</Key>
-      <Text>G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>8990</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -402,7 +402,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>13563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2413,7 +2415,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaynor</Key>
-      <Text>A.E</Text>
+      <Text>
+        <Honour>A.E</Honour>
+      </Text>
       <PageNumber>15938</PageNumber>
     </MainItem>
   </ItemGroup>

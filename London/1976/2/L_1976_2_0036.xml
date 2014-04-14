@@ -368,7 +368,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Maloney</Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>5472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1572,7 +1574,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Monk</Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>8689</PageNumber>
     </MainItem>
   </ItemGroup>

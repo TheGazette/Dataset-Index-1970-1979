@@ -784,7 +784,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Deebank</Key>
-      <Text>A.E</Text>
+      <Text>
+        <Honour>A.E</Honour>
+      </Text>
       <PageNumber>14935</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -906,6 +908,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Normann</Key>
+      <Forenames>J. R. C.</Forenames>
+      <PageNumber>13896</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Denson</Key>
       <Forenames>D. S.</Forenames>
       <PageNumber>16162</PageNumber>
@@ -938,6 +947,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Pledge</Key>
+      <Forenames>P.</Forenames>
+      <PageNumber>14930</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Derrick</Key>
       <Forenames>M. J.</Forenames>
       <PageNumber>15596</PageNumber>
@@ -948,6 +964,13 @@
       <Key>Derrington</Key>
       <Forenames>T. F.</Forenames>
       <PageNumber>13575</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Salis</Key>
+      <Forenames>J. B. P. H.</Forenames>
+      <PageNumber>12643</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1325,7 +1348,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dodson</Key>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>13897</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1711,9 +1736,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Boulay</Forenames>
-      <Text>, D. M. H</Text>
+      <Key>Du Boulay</Key>
+      <Forenames>D. M. H.</Forenames>
       <PageNumber>13228</PageNumber>
     </MainItem>
   </ItemGroup>

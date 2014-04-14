@@ -189,8 +189,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crow</Key>
-      <Forenames>J. T. M. D. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>J. T. M. D. O'D</Forenames>
       <PageNumber>7687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1132,9 +1131,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bass</Forenames>
-      <Text>, F. W. J</Text>
+      <Key>De Bass</Key>
+      <Forenames>F. W. J.</Forenames>
       <PageNumber>6811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1859,9 +1857,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Cann</Forenames>
-      <Text>, E</Text>
+      <Key>Du Cann</Key>
+      <Forenames>E.</Forenames>
       <PageNumber>4019</PageNumber>
     </MainItem>
   </ItemGroup>

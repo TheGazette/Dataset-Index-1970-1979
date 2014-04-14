@@ -2509,7 +2509,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Larthe</Key>
-      <Text>de Langladure, J. E. M</Text>
+      <Forenames>de Langladure</Forenames>
+      <Text>, J. E. M</Text>
       <PageNumber>9361</PageNumber>
     </MainItem>
   </ItemGroup>

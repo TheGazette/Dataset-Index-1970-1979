@@ -783,8 +783,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Filler</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. St. J</Forenames>
       <PageNumber>3695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1300,7 +1299,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>^-G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>2331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1656,7 +1657,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>1301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1879,7 +1882,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gadd</Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>652</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1893,8 +1898,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaillard</Key>
-      <Forenames>M. C.</Forenames>
-      <Text>de L</Text>
+      <Forenames>M. C. de L</Forenames>
       <PageNumber>653</PageNumber>
       <PageNumber>2329</PageNumber>
     </MainItem>

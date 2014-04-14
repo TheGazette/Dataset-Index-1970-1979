@@ -1111,8 +1111,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Randall</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>9422</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1431,7 +1430,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>8581</PageNumber>
     </MainItem>
   </ItemGroup>

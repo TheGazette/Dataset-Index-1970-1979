@@ -2085,8 +2085,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kitchen</Key>
-      <Forenames>G. A.</Forenames>
-      <Text>de G</Text>
+      <Forenames>G. A. de G</Forenames>
       <PageNumber>11362</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1246,6 +1246,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Bugh</Key>
+      <Forenames>Milne</Forenames>
+      <Text>, D. G.L</Text>
+      <PageNumber>14388</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Degnan</Key>
       <Forenames>O. J.</Forenames>
       <PageNumber>14391</PageNumber>
@@ -1983,9 +1991,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Boulay</Forenames>
-      <Text>, C. M. H</Text>
+      <Key>Du Boulay</Key>
+      <Forenames>C. M. H.</Forenames>
       <PageNumber>13773</PageNumber>
     </MainItem>
   </ItemGroup>

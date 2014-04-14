@@ -439,7 +439,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ambrose</Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>13173</PageNumber>
     </MainItem>
   </ItemGroup>

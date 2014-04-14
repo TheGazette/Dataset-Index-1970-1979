@@ -903,8 +903,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cussans</Key>
-      <Forenames>A. A.</Forenames>
-      <Text>de C</Text>
+      <Forenames>A. A. de C</Forenames>
       <PageNumber>10864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1662,17 +1661,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Foubert</Forenames>
-      <Text>, N. O. H</Text>
+      <Key>De Foubert</Key>
+      <Forenames>N. O. H.</Forenames>
       <PageNumber>11461</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Halpert</Forenames>
-      <Text>, J. M</Text>
+      <Key>De Halpert</Key>
+      <Forenames>J. M.</Forenames>
       <PageNumber>14054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1746,9 +1743,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pradines</Forenames>
-      <Text>, R. S</Text>
+      <Key>De Pradines</Key>
+      <Forenames>R. S.</Forenames>
       <PageNumber>11463</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2068,8 +2064,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>T. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>T. St. J</Forenames>
       <PageNumber>14055</PageNumber>
     </MainItem>
   </ItemGroup>

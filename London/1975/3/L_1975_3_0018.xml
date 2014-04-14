@@ -1433,8 +1433,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Armitage</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>A. St. C</Forenames>
       <PageNumber>12233</PageNumber>
     </MainItem>
   </ItemGroup>

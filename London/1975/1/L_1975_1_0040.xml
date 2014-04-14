@@ -174,7 +174,9 @@
       <Key>
         <KeyDitto>___ ___ -</KeyDitto>
       </Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>2560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1008,388 +1010,390 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Text>R.D</Text>
-      <PageNumber>535</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ -</KeyDitto>
-      </Key>
-      <Forenames>R. P. D.</Forenames>
-      <PageNumber>1216</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Hutchison</Key>
-      <Forenames>A. D.</Forenames>
-      <PageNumber>207</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>A. G. L.</Forenames>
-      <PageNumber>871</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>P.J.I.</Forenames>
-      <PageNumber>1221</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Hutt</Key>
-      <Forenames>H. G.</Forenames>
-      <PageNumber>219</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Hutton</Key>
-      <Forenames>J. M.</Forenames>
-      <PageNumber>874</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Hyde</Key>
-      <Forenames>O.L.</Forenames>
-      <PageNumber>2926</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>R.W.</Forenames>
-      <PageNumber>1895</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Hyland</Key>
-      <Forenames>C. V.</Forenames>
-      <PageNumber>858</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ -—</KeyDitto>
-      </Key>
-      <Forenames>D.M.</Forenames>
-      <PageNumber>873</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>G.J.</Forenames>
-      <PageNumber>865</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Hyslop</Key>
-      <Forenames>M. P.</Forenames>
-      <PageNumber>3288</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Iffla</Key>
-      <Forenames>H.A.</Forenames>
-      <PageNumber>219</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Ignatowski</Key>
-      <Forenames>K. Z.</Forenames>
-      <PageNumber>527</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>IUing</Key>
-      <Forenames>H.C.</Forenames>
-      <PageNumber>522</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Illingworth</Key>
-      <Forenames>A. W.</Forenames>
-      <PageNumber>510</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Ince</Key>
-      <Forenames>N. E.</Forenames>
-      <PageNumber>3288</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>R.P.P.</Forenames>
-      <PageNumber>1215</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Inches</Key>
-      <Forenames>R. M.</Forenames>
-      <PageNumber>203</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Ink</Key>
-      <Forenames>C.E.J.</Forenames>
-      <PageNumber>1218</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Ingall</Key>
-      <Forenames>M. A.</Forenames>
-      <PageNumber>868</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Ingham</Key>
-      <Forenames>B. C.</Forenames>
-      <PageNumber>2557</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Inman</Key>
-      <Forenames>P. G.</Forenames>
-      <PageNumber>865</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Innes</Key>
-      <Forenames>C. E.</Forenames>
-      <PageNumber>535</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>D. Rff</Forenames>
-      <PageNumber>3286</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>P. D.</Forenames>
-      <PageNumber>3287</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Innocent</Key>
-      <Forenames>P. T.</Forenames>
-      <PageNumber>860</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Ion</Key>
-      <Forenames>I. D.</Forenames>
-      <PageNumber>518</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Ireland</Key>
-      <Forenames>A. J.</Forenames>
-      <PageNumber>534</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___</KeyDitto>
-      </Key>
-      <Forenames>E.J.</Forenames>
-      <PageNumber>3617</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Iremonger</Key>
-      <Forenames>G. J.</Forenames>
-      <PageNumber>1559</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Ireton</Key>
-      <Forenames>J.G.</Forenames>
-      <PageNumber>876</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Ironside</Key>
-      <Forenames>E. A. C.</Forenames>
-      <PageNumber>515</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Irvine</Key>
-      <Forenames>P. D. T.</Forenames>
-      <PageNumber>3612</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>W.G.</Forenames>
-      <PageNumber>219</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Irwin</Key>
-      <Forenames>D.C.</Forenames>
-      <PageNumber>1563</PageNumber>
-      <PageNumber>2228</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>D.J.</Forenames>
-      <PageNumber>3290</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>— ___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>S.M.</Forenames>
-      <PageNumber>858</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Isaac</Key>
-      <Forenames>G. M. S.</Forenames>
-      <PageNumber>520</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Isham</Key>
-      <Forenames>L. J.</Forenames>
-      <PageNumber>3291</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Ismaili</Key>
-      <Forenames>N. A.</Forenames>
-      <PageNumber>1891</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Ivatt</Key>
-      <Forenames>S. C.</Forenames>
-      <PageNumber>1891</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Ive</Key>
-      <Forenames>K.C.P.</Forenames>
-      <PageNumber>3612</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Iwanek</Key>
-      <Forenames>R. M.</Forenames>
-      <PageNumber>2923</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Izod</Key>
-      <Forenames>E. R. C.</Forenames>
-      <PageNumber>3617</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Izzard</Key>
-      <Forenames>W. J.</Forenames>
-      <PageNumber>871</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Jack</Key>
-      <Forenames>D.C. L.</Forenames>
-      <PageNumber>1218</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Jackman</Key>
-      <Forenames>L. C.</Forenames>
-      <PageNumber>1895</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Jackson</Key>
-      <Forenames>A. G. W.</Forenames>
-      <PageNumber>867</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>A. R.N.</Forenames>
-      <PageNumber>861</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>535</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___ -</KeyDitto>
+        </Key>
+        <Forenames>R. P. D.</Forenames>
+        <PageNumber>1216</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Hutchison</Key>
+        <Forenames>A. D.</Forenames>
+        <PageNumber>207</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>A. G. L.</Forenames>
+        <PageNumber>871</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>P.J.I.</Forenames>
+        <PageNumber>1221</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Hutt</Key>
+        <Forenames>H. G.</Forenames>
+        <PageNumber>219</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Hutton</Key>
+        <Forenames>J. M.</Forenames>
+        <PageNumber>874</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Hyde</Key>
+        <Forenames>O.L.</Forenames>
+        <PageNumber>2926</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>R.W.</Forenames>
+        <PageNumber>1895</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Hyland</Key>
+        <Forenames>C. V.</Forenames>
+        <PageNumber>858</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ -—</KeyDitto>
+        </Key>
+        <Forenames>D.M.</Forenames>
+        <PageNumber>873</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>G.J.</Forenames>
+        <PageNumber>865</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Hyslop</Key>
+        <Forenames>M. P.</Forenames>
+        <PageNumber>3288</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Iffla</Key>
+        <Forenames>H.A.</Forenames>
+        <PageNumber>219</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Ignatowski</Key>
+        <Forenames>K. Z.</Forenames>
+        <PageNumber>527</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>IUing</Key>
+        <Forenames>H.C.</Forenames>
+        <PageNumber>522</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Illingworth</Key>
+        <Forenames>A. W.</Forenames>
+        <PageNumber>510</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Ince</Key>
+        <Forenames>N. E.</Forenames>
+        <PageNumber>3288</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>R.P.P.</Forenames>
+        <PageNumber>1215</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Inches</Key>
+        <Forenames>R. M.</Forenames>
+        <PageNumber>203</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Ink</Key>
+        <Forenames>C.E.J.</Forenames>
+        <PageNumber>1218</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Ingall</Key>
+        <Forenames>M. A.</Forenames>
+        <PageNumber>868</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Ingham</Key>
+        <Forenames>B. C.</Forenames>
+        <PageNumber>2557</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Inman</Key>
+        <Forenames>P. G.</Forenames>
+        <PageNumber>865</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Innes</Key>
+        <Forenames>C. E.</Forenames>
+        <PageNumber>535</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>D. Rff</Forenames>
+        <PageNumber>3286</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>P. D.</Forenames>
+        <PageNumber>3287</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Innocent</Key>
+        <Forenames>P. T.</Forenames>
+        <PageNumber>860</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Ion</Key>
+        <Forenames>I. D.</Forenames>
+        <PageNumber>518</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Ireland</Key>
+        <Forenames>A. J.</Forenames>
+        <PageNumber>534</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___</KeyDitto>
+        </Key>
+        <Forenames>E.J.</Forenames>
+        <PageNumber>3617</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Iremonger</Key>
+        <Forenames>G. J.</Forenames>
+        <PageNumber>1559</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Ireton</Key>
+        <Forenames>J.G.</Forenames>
+        <PageNumber>876</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Ironside</Key>
+        <Forenames>E. A. C.</Forenames>
+        <PageNumber>515</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Irvine</Key>
+        <Forenames>P. D. T.</Forenames>
+        <PageNumber>3612</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>W.G.</Forenames>
+        <PageNumber>219</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Irwin</Key>
+        <Forenames>D.C.</Forenames>
+        <PageNumber>1563</PageNumber>
+        <PageNumber>2228</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>D.J.</Forenames>
+        <PageNumber>3290</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>— ___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>S.M.</Forenames>
+        <PageNumber>858</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Isaac</Key>
+        <Forenames>G. M. S.</Forenames>
+        <PageNumber>520</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Isham</Key>
+        <Forenames>L. J.</Forenames>
+        <PageNumber>3291</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Ismaili</Key>
+        <Forenames>N. A.</Forenames>
+        <PageNumber>1891</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Ivatt</Key>
+        <Forenames>S. C.</Forenames>
+        <PageNumber>1891</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Ive</Key>
+        <Forenames>K.C.P.</Forenames>
+        <PageNumber>3612</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Iwanek</Key>
+        <Forenames>R. M.</Forenames>
+        <PageNumber>2923</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Izod</Key>
+        <Forenames>E. R. C.</Forenames>
+        <PageNumber>3617</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Izzard</Key>
+        <Forenames>W. J.</Forenames>
+        <PageNumber>871</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Jack</Key>
+        <Forenames>D.C. L.</Forenames>
+        <PageNumber>1218</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Jackman</Key>
+        <Forenames>L. C.</Forenames>
+        <PageNumber>1895</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Jackson</Key>
+        <Forenames>A. G. W.</Forenames>
+        <PageNumber>867</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>A. R.N.</Forenames>
+        <PageNumber>861</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -1732,7 +1736,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>N.</Forenames>
-      <Text>CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>203</PageNumber>
     </MainItem>
   </ItemGroup>

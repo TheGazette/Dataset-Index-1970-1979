@@ -1124,8 +1124,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomson</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>B. St. C</Forenames>
       <PageNumber>4934</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2294,17 +2293,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Baumann</Forenames>
-      <Text>, A. G</Text>
+      <Key>Von Baumann</Key>
+      <Forenames>A. G.</Forenames>
       <PageNumber>7263</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Megyesi</Forenames>
-      <Text>, T. P. C. S</Text>
+      <Key>Von Megyesi</Key>
+      <Forenames>T. P. C. S.</Forenames>
       <PageNumber>4935</PageNumber>
     </MainItem>
   </ItemGroup>

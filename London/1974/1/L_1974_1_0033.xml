@@ -1151,8 +1151,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barkshire</Key>
-      <Forenames>R. R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. R. St. J</Forenames>
       <PageNumber>581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1382,8 +1381,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barttelot</Key>
-      <Forenames>B. W.</Forenames>
-      <Text>de S</Text>
+      <Forenames>B. W. de S</Forenames>
       <PageNumber>269</PageNumber>
     </MainItem>
   </ItemGroup>

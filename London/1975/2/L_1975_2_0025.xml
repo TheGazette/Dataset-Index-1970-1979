@@ -971,9 +971,11 @@
     <MainItem>
       <Key>Bennett</Key>
       <Text>A.E</Text>
-      <PageNumber>4822</PageNumber>
     </MainItem>
   </ItemGroup>
+  <Honour>
+    <PageNumber>4822</PageNumber>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -1749,7 +1751,9 @@
       <Key>
         <KeyDitto>___ ___ ___ -</KeyDitto>
       </Key>
-      <Text>K.G</Text>
+      <Text>
+        <Honour>K.G</Honour>
+      </Text>
       <PageNumber>5520</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -93,7 +93,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>7760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -168,7 +170,9 @@
     <MainItem>
       <Key>Harron</Key>
       <Forenames>S.</Forenames>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>9682</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -645,9 +649,11 @@
       </Key>
       <Forenames>S.</Forenames>
       <Text>A.E</Text>
-      <PageNumber>9683</PageNumber>
     </MainItem>
   </ItemGroup>
+  <Honour>
+    <PageNumber>9683</PageNumber>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Hearn</Key>
@@ -1474,7 +1480,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hiskins</Key>
-      <Text>K.T</Text>
+      <Text>
+        <Honour>K.T</Honour>
+      </Text>
       <PageNumber>10600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1675,8 +1683,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holbrook</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>N. St. C</Forenames>
       <PageNumber>9680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1797,7 +1804,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>K.G</Text>
+      <Text>
+        <Honour>K.G</Honour>
+      </Text>
       <PageNumber>10601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2028,39 +2037,41 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Text>M.P</Text>
-      <PageNumber>9878</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Hook</Key>
-      <Forenames>K.B.</Forenames>
-      <PageNumber>10346</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ -</KeyDitto>
-      </Key>
-      <Forenames>P.</Forenames>
-      <PageNumber>9428</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Hooker</Key>
-      <Forenames>G. H.</Forenames>
-      <PageNumber>7757</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Hooper</Key>
-      <Forenames>C. C. J. T.</Forenames>
-      <PageNumber>8027</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>9878</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Hook</Key>
+        <Forenames>K.B.</Forenames>
+        <PageNumber>10346</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ -</KeyDitto>
+        </Key>
+        <Forenames>P.</Forenames>
+        <PageNumber>9428</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Hooker</Key>
+        <Forenames>G. H.</Forenames>
+        <PageNumber>7757</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Hooper</Key>
+        <Forenames>C. C. J. T.</Forenames>
+        <PageNumber>8027</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>

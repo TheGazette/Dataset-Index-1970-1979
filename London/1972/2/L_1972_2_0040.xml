@@ -180,8 +180,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bury</Key>
-      <Title>St.</Title>
-      <Forenames>Edmunds Industrial Co-operative Provision Society</Forenames>
+      <Forenames>St. Edmunds Industrial Co-operative Provision Society</Forenames>
       <Text>, cancelling notice</Text>
       <PageNumber>7343</PageNumber>
     </MainItem>
@@ -189,21 +188,27 @@
   <ItemGroup>
     <MainItem>
       <Key>C</Key>
-      <Text>D.F.C. International, exemption under Moneylenders' Acts</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>7227</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>C</Key>
-      <Text>D.F.C. (Malaysia), exemption under Moneylenders' Acts</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>7227</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>C</Key>
-      <Text>D.F.C. (Ceylon), exemption under Moneylenders' Acts</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>7227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +382,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Companhia</Key>
-      <Text>de Mocambique, notice of Annual General Meeting</Text>
+      <Forenames>de Mocambique</Forenames>
+      <Text>, notice of Annual General Meeting</Text>
       <PageNumber>5907</PageNumber>
     </MainItem>
   </ItemGroup>

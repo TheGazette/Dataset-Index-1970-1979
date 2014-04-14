@@ -65,8 +65,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>P.</Forenames>
-      <Text>de L</Text>
+      <Forenames>P. de L</Forenames>
       <PageNumber>8572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2631,8 +2630,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coogan</Key>
-      <Forenames>J. S. V. St</Forenames>
-      <Text>. R</Text>
+      <Forenames>J. S. V. St. R</Forenames>
       <PageNumber>9748</PageNumber>
     </MainItem>
   </ItemGroup>

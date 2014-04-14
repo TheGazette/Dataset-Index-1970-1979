@@ -1417,7 +1417,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Darell</Key>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>3951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2035,6 +2037,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Carteret</Key>
+      <Forenames>M. A.</Forenames>
+      <PageNumber>3583</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dee</Key>
       <Forenames>J</Forenames>
       <PageNumber>2052</PageNumber>
@@ -2077,9 +2086,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Mendonca</Forenames>
-      <Text>, R. A. J</Text>
+      <Key>de Mello</Key>
+      <Forenames>W. F.</Forenames>
+      <PageNumber>2797</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Mendonca</Key>
+      <Forenames>R. A. J.</Forenames>
       <PageNumber>206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2361,7 +2376,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Diprose</Key>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>912</PageNumber>
     </MainItem>
   </ItemGroup>

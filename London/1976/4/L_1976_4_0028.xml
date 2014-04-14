@@ -21,7 +21,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P.C</Text>
+      <Text>
+        <Honour>P.C</Honour>
+      </Text>
       <PageNumber>15748</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -732,7 +734,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>G.</Forenames>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>15412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1143,7 +1147,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>15064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2322,68 +2328,70 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Text>M.P</Text>
-      <PageNumber>17085</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Swinnerton</Key>
-      <Forenames>D. G.</Forenames>
-      <PageNumber>15068</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Swinscoe</Key>
-      <Forenames>B. D.</Forenames>
-      <PageNumber>14762</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Swinton</Key>
-      <Forenames>J</Forenames>
-      <PageNumber>13763</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Syers</Key>
-      <Forenames>P.J.</Forenames>
-      <PageNumber>15413</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Sykes</Key>
-      <Forenames>R.</Forenames>
-      <Text>M.M</Text>
-      <PageNumber>15409</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Symonds</Key>
-      <Forenames>J.A.</Forenames>
-      <PageNumber>14761</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Text>M.D</Text>
-      <PageNumber>14100</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Symons</Key>
-      <Forenames>A. J. P.</Forenames>
-      <PageNumber>13769</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>17085</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Swinnerton</Key>
+        <Forenames>D. G.</Forenames>
+        <PageNumber>15068</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Swinscoe</Key>
+        <Forenames>B. D.</Forenames>
+        <PageNumber>14762</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Swinton</Key>
+        <Forenames>J</Forenames>
+        <PageNumber>13763</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Syers</Key>
+        <Forenames>P.J.</Forenames>
+        <PageNumber>15413</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Sykes</Key>
+        <Forenames>R.</Forenames>
+        <Text>M.M</Text>
+        <PageNumber>15409</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Symonds</Key>
+        <Forenames>J.A.</Forenames>
+        <PageNumber>14761</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Text>M.D</Text>
+        <PageNumber>14100</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Symons</Key>
+        <Forenames>A. J. P.</Forenames>
+        <PageNumber>13769</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Taberham</Key>

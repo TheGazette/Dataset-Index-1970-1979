@@ -337,8 +337,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cazenove</Key>
-      <Forenames>B. M.</Forenames>
-      <Text>de L</Text>
+      <Forenames>B. M. de L</Forenames>
       <PageNumber>1022</PageNumber>
     </MainItem>
   </ItemGroup>

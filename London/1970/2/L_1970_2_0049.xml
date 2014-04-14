@@ -219,7 +219,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Companhia</Key>
-      <Text>de Mocambique, ndliice of Annual General Meeting</Text>
+      <Forenames>de Mocambique</Forenames>
+      <Text>, ndliice of Annual General Meeting</Text>
       <PageNumber>5880</PageNumber>
     </MainItem>
   </ItemGroup>

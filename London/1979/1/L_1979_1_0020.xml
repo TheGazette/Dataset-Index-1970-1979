@@ -38,7 +38,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>G.</Forenames>
-      <Text>G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,7 +686,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wolfe</Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>22</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -963,7 +967,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>L.G</Text>
+      <Text>
+        <Honour>L.G</Honour>
+      </Text>
       <PageNumber>36</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1082,7 +1088,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M.M</Text>
+      <Text>
+        <Honour>M.M</Honour>
+      </Text>
       <PageNumber>41</PageNumber>
     </MainItem>
   </ItemGroup>

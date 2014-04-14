@@ -63,8 +63,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collin</Key>
-      <Forenames>G.</Forenames>
-      <Text>de E</Text>
+      <Forenames>G. de E</Forenames>
       <PageNumber>17083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -139,7 +138,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Collyer</Key>
-      <Text>^D.F.M</Text>
+      <Text>
+        <Honour>D.F.M</Honour>
+      </Text>
       <PageNumber>16767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -814,8 +815,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cranfield</Key>
-      <Forenames>J.T.O</Forenames>
-      <Text>'B</Text>
+      <Forenames>J.T.O'B</Forenames>
       <PageNumber>15751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1860,8 +1860,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Haye</Forenames>
+      <Key>De La</Key>
+      <Forenames>Haye</Forenames>
       <Text>, B. G</Text>
       <PageNumber>15064</PageNumber>
     </MainItem>
@@ -1970,9 +1970,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Stackpoole</Forenames>
-      <Text>, D. H. O</Text>
+      <Key>De Stackpoole</Key>
+      <Forenames>D. H. O.</Forenames>
       <PageNumber>15064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2175,7 +2174,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>14761</PageNumber>
     </MainItem>
   </ItemGroup>

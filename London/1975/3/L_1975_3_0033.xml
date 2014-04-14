@@ -1521,7 +1521,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>A.</Forenames>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>8695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1855,8 +1857,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>P.S.O</Forenames>
-      <Text>'C</Text>
+      <Forenames>P.S.O'C</Forenames>
       <PageNumber>11935</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1889,7 +1890,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>M.</Forenames>
-      <Text>G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>9320</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2206,106 +2209,108 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Text>R.D</Text>
-      <PageNumber>8375</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>R.H.</Forenames>
-      <PageNumber>10568</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>R.J.</Forenames>
-      <PageNumber>9648</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>R.W.</Forenames>
-      <PageNumber>8372</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>T.N.</Forenames>
-      <PageNumber>11111</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>W.D.</Forenames>
-      <PageNumber>9327</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Teager</Key>
-      <Forenames>J. E. W.</Forenames>
-      <PageNumber>8692</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Tebb</Key>
-      <Forenames>E. R.</Forenames>
-      <PageNumber>9326</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Tebbenham</Key>
-      <Forenames>R. L.</Forenames>
-      <PageNumber>11938</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Tebboth</Key>
-      <Forenames>J. G.</Forenames>
-      <PageNumber>10850</PageNumber>
-      <PageNumber>11641</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Teeling</Key>
-      <Forenames>W. G.</Forenames>
-      <PageNumber>11108</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Telford</Key>
-      <Forenames>A. D.</Forenames>
-      <PageNumber>8374</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___</KeyDitto>
-      </Key>
-      <Forenames>E.R.</Forenames>
-      <PageNumber>11365</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>8375</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>R.H.</Forenames>
+        <PageNumber>10568</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>R.J.</Forenames>
+        <PageNumber>9648</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>R.W.</Forenames>
+        <PageNumber>8372</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>T.N.</Forenames>
+        <PageNumber>11111</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>W.D.</Forenames>
+        <PageNumber>9327</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Teager</Key>
+        <Forenames>J. E. W.</Forenames>
+        <PageNumber>8692</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Tebb</Key>
+        <Forenames>E. R.</Forenames>
+        <PageNumber>9326</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Tebbenham</Key>
+        <Forenames>R. L.</Forenames>
+        <PageNumber>11938</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Tebboth</Key>
+        <Forenames>J. G.</Forenames>
+        <PageNumber>10850</PageNumber>
+        <PageNumber>11641</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Teeling</Key>
+        <Forenames>W. G.</Forenames>
+        <PageNumber>11108</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Telford</Key>
+        <Forenames>A. D.</Forenames>
+        <PageNumber>8374</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___</KeyDitto>
+        </Key>
+        <Forenames>E.R.</Forenames>
+        <PageNumber>11365</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>

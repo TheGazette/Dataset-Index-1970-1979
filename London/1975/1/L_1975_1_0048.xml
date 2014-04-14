@@ -45,16 +45,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clair</Forenames>
-      <Text>, B. E</Text>
+      <Key>St. Clair</Key>
+      <Forenames>B. E.</Forenames>
       <PageNumber>871</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John Brown</Forenames>
+      <Key>St. John</Key>
+      <Forenames>Brown</Forenames>
       <Text>, T</Text>
       <PageNumber>218</PageNumber>
     </MainItem>

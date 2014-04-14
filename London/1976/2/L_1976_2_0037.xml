@@ -458,15 +458,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brian, D. C. T</Text>
+      <Key>O'Brian</Key>
+      <Forenames>D. C. T.</Forenames>
       <PageNumber>7068</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, F.C</Text>
+      <Key>O'Brien</Key>
+      <Forenames>F.C.</Forenames>
       <PageNumber>5474</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,22 +499,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Carroll, B. R</Text>
+      <Key>O'Carroll</Key>
+      <Forenames>B. R.</Forenames>
       <PageNumber>6717</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Collard, S. K</Text>
+      <Key>O'Collard</Key>
+      <Forenames>S. K.</Forenames>
       <PageNumber>6040</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, B. M. L</Text>
+      <Key>O'Connor</Key>
+      <Forenames>B. M. L.</Forenames>
       <PageNumber>5060</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -536,8 +536,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dwyer-Russell, T. D</Text>
+      <Key>O'Dwyer-Russell</Key>
+      <Forenames>T. D.</Forenames>
       <PageNumber>7443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,8 +557,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, J</Text>
+      <Key>O'Hara</Key>
+      <Forenames>J</Forenames>
       <PageNumber>5470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -635,8 +635,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mahony, J. P. S</Text>
+      <Key>O'Mahony</Key>
+      <Forenames>J. P. S</Forenames>
       <PageNumber>5664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -679,8 +679,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Riordan, G. J</Text>
+      <Key>O'Riordan</Key>
+      <Forenames>G. J.</Forenames>
       <PageNumber>5466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -700,8 +700,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rourke, D. C. ... ,</Text>
+      <Key>O'Rourke</Key>
+      <Forenames>D. C.</Forenames>
+      <Text>... ,</Text>
       <PageNumber>8992</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1141,7 +1142,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>8103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1383,7 +1386,9 @@
       <Key>
         <KeyDitto>___ —</KeyDitto>
       </Key>
-      <Text>^-R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>5472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1486,7 +1491,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pell</Key>
-      <Text>G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>6718</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1713,7 +1720,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>A.E</Text>
+      <Text>
+        <Honour>A.E</Honour>
+      </Text>
       <PageNumber>8692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1922,7 +1931,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pitt</Key>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>6046</PageNumber>
     </MainItem>
   </ItemGroup>

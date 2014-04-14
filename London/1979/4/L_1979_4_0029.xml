@@ -333,7 +333,9 @@
     <MainItem>
       <Key>Soar</Key>
       <Forenames>P.</Forenames>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>14930</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -744,7 +746,9 @@
     <MainItem>
       <Key>Stamp</Key>
       <Forenames>E.</Forenames>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>16168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2317,106 +2321,108 @@
     <MainItem>
       <Key>Tebbutt</Key>
       <Text>D.L</Text>
-      <PageNumber>15598</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Teesdale</Key>
-      <Forenames>G.W.</Forenames>
-      <PageNumber>16162</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Teller</Key>
-      <Forenames>M.R.</Forenames>
-      <PageNumber>13228</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Tempest</Key>
-      <Forenames>P.M.</Forenames>
-      <PageNumber>13571</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Temple</Key>
-      <Forenames>C.W. J.</Forenames>
-      <PageNumber>14248</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>G.F.B</Forenames>
-      <PageNumber>13894</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ -</KeyDitto>
-      </Key>
-      <Forenames>J.H</Forenames>
-      <PageNumber>12348</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>P.H</Forenames>
-      <PageNumber>13890</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Templeman</Key>
-      <Forenames>R. M.</Forenames>
-      <PageNumber>15600</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Templer</Key>
-      <Forenames>J.R.</Forenames>
-      <PageNumber>14239</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Tench</Key>
-      <Forenames>I. R</Forenames>
-      <PageNumber>16160</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Ternan</Key>
-      <Forenames>B.W.</Forenames>
-      <PageNumber>15941</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Terrey</Key>
-      <Forenames>A. S</Forenames>
-      <PageNumber>16161</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Terrington</Key>
-      <Forenames>J. A.</Forenames>
-      <PageNumber>16162</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>15598</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Teesdale</Key>
+        <Forenames>G.W.</Forenames>
+        <PageNumber>16162</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Teller</Key>
+        <Forenames>M.R.</Forenames>
+        <PageNumber>13228</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Tempest</Key>
+        <Forenames>P.M.</Forenames>
+        <PageNumber>13571</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Temple</Key>
+        <Forenames>C.W. J.</Forenames>
+        <PageNumber>14248</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>G.F.B</Forenames>
+        <PageNumber>13894</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ -</KeyDitto>
+        </Key>
+        <Forenames>J.H</Forenames>
+        <PageNumber>12348</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>P.H</Forenames>
+        <PageNumber>13890</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Templeman</Key>
+        <Forenames>R. M.</Forenames>
+        <PageNumber>15600</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Templer</Key>
+        <Forenames>J.R.</Forenames>
+        <PageNumber>14239</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Tench</Key>
+        <Forenames>I. R</Forenames>
+        <PageNumber>16160</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Ternan</Key>
+        <Forenames>B.W.</Forenames>
+        <PageNumber>15941</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Terrey</Key>
+        <Forenames>A. S</Forenames>
+        <PageNumber>16161</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Terrington</Key>
+        <Forenames>J. A.</Forenames>
+        <PageNumber>16162</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Tetlow</Key>

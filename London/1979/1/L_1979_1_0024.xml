@@ -313,8 +313,7 @@
   <ItemGroup>
     <MainItem>
       <Key>DArcy</Key>
-      <Forenames>A. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>A. O'C</Forenames>
       <PageNumber>669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,65 +676,67 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Text>G.M</Text>
-      <PageNumber>3036</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Davison</Key>
-      <Forenames>M. F. L.</Forenames>
-      <PageNumber>1984</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>W.</Forenames>
-      <PageNumber>333</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Dawes</Key>
-      <Forenames>E. L.</Forenames>
-      <PageNumber>665</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Dawson</Key>
-      <Forenames>C. E.</Forenames>
-      <PageNumber>4053</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>R.J.C.</Forenames>
-      <PageNumber>669</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <KeyDitto>___ ___</KeyDitto>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>W. E.</Forenames>
-      <PageNumber>1987</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Day</Key>
-      <Forenames>D.C.</Forenames>
-      <PageNumber>1984</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>3036</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Davison</Key>
+        <Forenames>M. F. L.</Forenames>
+        <PageNumber>1984</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>W.</Forenames>
+        <PageNumber>333</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Dawes</Key>
+        <Forenames>E. L.</Forenames>
+        <PageNumber>665</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Dawson</Key>
+        <Forenames>C. E.</Forenames>
+        <PageNumber>4053</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>R.J.C.</Forenames>
+        <PageNumber>669</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <KeyDitto>___ ___</KeyDitto>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>W. E.</Forenames>
+        <PageNumber>1987</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Day</Key>
+        <Forenames>D.C.</Forenames>
+        <PageNumber>1984</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -924,9 +925,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Brunner</Forenames>
-      <Text>, N. G. W</Text>
+      <Key>De Brunner</Key>
+      <Forenames>N. G. W.</Forenames>
       <PageNumber>328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -939,9 +939,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Buriatte</Forenames>
-      <Text>, A. H</Text>
+      <Key>de Burgh</Key>
+      <Forenames>H. W.</Forenames>
+      <PageNumber>332</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Buriatte</Key>
+      <Forenames>A. H.</Forenames>
       <PageNumber>2335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -961,9 +967,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Foubert</Forenames>
-      <Text>, N. O. H</Text>
+      <Key>De Foubert</Key>
+      <Forenames>N. O. H.</Forenames>
       <PageNumber>654</PageNumber>
       <PageNumber>2330</PageNumber>
     </MainItem>
@@ -977,9 +982,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Montoya</Forenames>
-      <Text>, Y. Y. R</Text>
+      <Key>de La</Key>
+      <Forenames>Billiere</Forenames>
+      <Text>, P. E. de la C</Text>
+      <PageNumber>651</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Montoya</Key>
+      <Forenames>Y. Y. R.</Forenames>
       <PageNumber>338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1040,9 +1052,11 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Planta De Wildenburg</Forenames>
-      <Text>, C.M.G</Text>
+      <Key>De Planta</Key>
+      <Forenames>De Wildenburg</Forenames>
+      <Text>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>652</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1263,7 +1277,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dingle</Key>
-      <Text>K.G</Text>
+      <Text>
+        <Honour>K.G</Honour>
+      </Text>
       <PageNumber>652</PageNumber>
       <PageNumber>2329</PageNumber>
     </MainItem>
@@ -1698,7 +1714,9 @@
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>N.</Forenames>
-      <Text>M.M</Text>
+      <Text>
+        <Honour>M.M</Honour>
+      </Text>
       <PageNumber>658</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2092,8 +2110,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Durham</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J. L</Text>
+      <Forenames>A. St. J</Forenames>
+      <Text>. L</Text>
       <PageNumber>1302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2329,7 +2347,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Edmond</Key>
-      <Text>K.T</Text>
+      <Text>
+        <Honour>K.T</Honour>
+      </Text>
       <PageNumber>1301</PageNumber>
       <PageNumber>2658</PageNumber>
     </MainItem>

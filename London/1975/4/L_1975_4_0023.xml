@@ -40,7 +40,9 @@
       <Key>
         <KeyDitto>___ -</KeyDitto>
       </Key>
-      <Text>^S.M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>13543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +113,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>14948</PageNumber>
       <PageNumber>16377</PageNumber>
     </MainItem>
@@ -384,75 +388,77 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Text>M.M</Text>
-      <PageNumber>15649</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>—— ___ ___</KeyDitto>
-      </Key>
-      <Forenames>P. R</Forenames>
-      <PageNumber>14213</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>—— ___ ___</KeyDitto>
-      </Key>
-      <Forenames>R. E.</Forenames>
-      <PageNumber>13544</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Cartlett</Key>
-      <Forenames>G. E.</Forenames>
-      <PageNumber>16371</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Cartlidge</Key>
-      <Forenames>J. A. H.</Forenames>
-      <PageNumber>13540</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Cartwright</Key>
-      <Forenames>A. M.</Forenames>
-      <PageNumber>14212</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>B.A.</Forenames>
-      <PageNumber>14948</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ -</KeyDitto>
-      </Key>
-      <Forenames>C.</Forenames>
-      <PageNumber>15977</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Text>G.M</Text>
-      <PageNumber>15979</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>15649</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>—— ___ ___</KeyDitto>
+        </Key>
+        <Forenames>P. R</Forenames>
+        <PageNumber>14213</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>—— ___ ___</KeyDitto>
+        </Key>
+        <Forenames>R. E.</Forenames>
+        <PageNumber>13544</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Cartlett</Key>
+        <Forenames>G. E.</Forenames>
+        <PageNumber>16371</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Cartlidge</Key>
+        <Forenames>J. A. H.</Forenames>
+        <PageNumber>13540</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Cartwright</Key>
+        <Forenames>A. M.</Forenames>
+        <PageNumber>14212</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>B.A.</Forenames>
+        <PageNumber>14948</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ -</KeyDitto>
+        </Key>
+        <Forenames>C.</Forenames>
+        <PageNumber>15977</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Text>G.M</Text>
+        <PageNumber>15979</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -599,7 +605,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>14948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -685,8 +693,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>16300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1059,7 +1066,9 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>G.M. ... -</Text>
+      <Text>
+        <Honour>G.M.</Honour>
+      </Text>
       <PageNumber>12541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1569,7 +1578,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>15981</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1889,7 +1900,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cort</Key>
-      <Text>P.C</Text>
+      <Text>
+        <Honour>P.C</Honour>
+      </Text>
       <PageNumber>14212</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2129,7 +2142,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Crammer</Key>
-      <Text>M.D. i</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>13541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2150,8 +2165,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cranfield</Key>
-      <Forenames>J.T.O</Forenames>
-      <Text>'B</Text>
+      <Forenames>J.T.O'B</Forenames>
       <PageNumber>14570</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1362,7 +1362,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirkbridge</Key>
-      <Text>PC</Text>
+      <Text>
+        <Honour>PC</Honour>
+      </Text>
       <PageNumber>2588</PageNumber>
     </MainItem>
   </ItemGroup>

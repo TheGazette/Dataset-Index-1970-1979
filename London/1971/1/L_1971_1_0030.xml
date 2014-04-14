@@ -2002,7 +2002,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>2626</PageNumber>
     </MainItem>
   </ItemGroup>

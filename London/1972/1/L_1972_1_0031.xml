@@ -32,9 +32,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Courcier</Forenames>
-      <Text>, M. H</Text>
+      <Key>De Courcier</Key>
+      <Forenames>M. H.</Forenames>
       <PageNumber>1900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -47,9 +46,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lacy</Forenames>
-      <Text>, G. E</Text>
+      <Key>De Lacy</Key>
+      <Forenames>G. E.</Forenames>
       <PageNumber>350</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -178,9 +176,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Rothschild</Forenames>
-      <Text>, L. D</Text>
+      <Key>De Rothschild</Key>
+      <Forenames>L. D.</Forenames>
       <PageNumber>1580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -193,9 +190,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Ruyter</Forenames>
-      <Text>, J. C</Text>
+      <Key>De Ruyter</Key>
+      <Forenames>J. C.</Forenames>
       <PageNumber>2197</PageNumber>
       <PageNumber>2812</PageNumber>
     </MainItem>
@@ -933,9 +929,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Boulay</Forenames>
-      <Text>, C. M. H</Text>
+      <Key>Du Boulay</Key>
+      <Forenames>C. M. H.</Forenames>
       <PageNumber>95</PageNumber>
     </MainItem>
   </ItemGroup>

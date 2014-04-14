@@ -1418,17 +1418,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Merwe</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Merwe</Forenames>
       <Text>, J. H. P</Text>
       <PageNumber>10894</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Deventer</Forenames>
-      <Text>, G</Text>
+      <Key>Van Deventer</Key>
+      <Forenames>G.</Forenames>
       <PageNumber>10895</PageNumber>
     </MainItem>
   </ItemGroup>

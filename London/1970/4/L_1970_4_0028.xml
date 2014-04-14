@@ -56,8 +56,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scobie</Key>
-      <Forenames>E.</Forenames>
-      <Text>de C. M</Text>
+      <Forenames>E. de C</Forenames>
+      <Text>. M</Text>
       <PageNumber>12860</PageNumber>
     </MainItem>
   </ItemGroup>

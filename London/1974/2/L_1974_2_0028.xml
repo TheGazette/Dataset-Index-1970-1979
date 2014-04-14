@@ -433,8 +433,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cartwright</Key>
-      <Forenames>H.</Forenames>
-      <Text>de C</Text>
+      <Forenames>H. de C</Forenames>
       <PageNumber>4283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,8 +579,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Caulfield</Key>
-      <Forenames>T. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>T. St. G</Forenames>
       <PageNumber>5844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2341,8 +2339,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>P. O</Forenames>
-      <Text>'K</Text>
+      <Forenames>P. O'K</Forenames>
       <PageNumber>7120</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -2220,8 +2220,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collin</Key>
-      <Forenames>G.</Forenames>
-      <Text>de E</Text>
+      <Forenames>G. de E</Forenames>
       <PageNumber>11850</PageNumber>
     </MainItem>
   </ItemGroup>

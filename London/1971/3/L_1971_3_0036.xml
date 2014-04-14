@@ -407,7 +407,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>9665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,7 +529,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>9657</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,55 +568,57 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Text>M.P</Text>
-      <PageNumber>7497</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Welham</Key>
-      <Forenames>G. M.</Forenames>
-      <PageNumber>8049</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Weller</Key>
-      <Forenames>P. J. N.</Forenames>
-      <PageNumber>7206</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Wells</Key>
-      <Forenames>D.E.</Forenames>
-      <PageNumber>7494</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ -—</KeyDitto>
-      </Key>
-      <Forenames>L.A.</Forenames>
-      <PageNumber>9659</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ ___ -</KeyDitto>
-      </Key>
-      <Forenames>T. J. G.</Forenames>
-      <PageNumber>10417</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Welsh</Key>
-      <Forenames>A. C.</Forenames>
-      <PageNumber>9900</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>7497</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Welham</Key>
+        <Forenames>G. M.</Forenames>
+        <PageNumber>8049</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Weller</Key>
+        <Forenames>P. J. N.</Forenames>
+        <PageNumber>7206</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Wells</Key>
+        <Forenames>D.E.</Forenames>
+        <PageNumber>7494</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ -—</KeyDitto>
+        </Key>
+        <Forenames>L.A.</Forenames>
+        <PageNumber>9659</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___ ___ -</KeyDitto>
+        </Key>
+        <Forenames>T. J. G.</Forenames>
+        <PageNumber>10417</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Welsh</Key>
+        <Forenames>A. C.</Forenames>
+        <PageNumber>9900</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>

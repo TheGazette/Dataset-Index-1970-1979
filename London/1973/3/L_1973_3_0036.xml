@@ -1375,8 +1375,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunt</Key>
-      <Forenames>A. W.</Forenames>
-      <Text>de V</Text>
+      <Forenames>A. W. de V</Forenames>
       <PageNumber>9390</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1867,8 +1866,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>M. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>M. St. G</Forenames>
       <PageNumber>9390</PageNumber>
     </MainItem>
   </ItemGroup>

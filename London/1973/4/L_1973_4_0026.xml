@@ -249,8 +249,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, T. M</Text>
+      <Key>O'Brien</Key>
+      <Forenames>T. M.</Forenames>
       <PageNumber>15035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -537,8 +537,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>S. M. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>S. M. O'H</Forenames>
       <PageNumber>14083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -732,8 +731,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Aitchison</Key>
-      <Forenames>C. W.</Forenames>
-      <Text>de L</Text>
+      <Forenames>C. W. de L</Forenames>
       <PageNumber>13177</PageNumber>
     </MainItem>
   </ItemGroup>

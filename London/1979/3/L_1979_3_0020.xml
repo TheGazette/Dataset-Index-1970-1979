@@ -1734,8 +1734,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, L. E</Text>
+      <Key>O'Brien</Key>
+      <Forenames>L. E.</Forenames>
       <PageNumber>11218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1748,8 +1748,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flynn, P</Text>
+      <Key>O'Flynn</Key>
+      <Forenames>P</Forenames>
       <PageNumber>11222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1769,8 +1769,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, AC</Text>
+      <Key>O'Hara</Key>
+      <Text>AC</Text>
       <PageNumber>10924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1800,8 +1800,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, D. O</Text>
+      <Key>O'Leary</Key>
+      <Forenames>D. O.</Forenames>
       <PageNumber>10351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1878,8 +1878,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, C</Text>
+      <Key>O'Neill</Key>
+      <Forenames>C</Forenames>
       <PageNumber>9354</PageNumber>
     </MainItem>
   </ItemGroup>

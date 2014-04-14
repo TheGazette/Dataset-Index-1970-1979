@@ -1804,7 +1804,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bramwell</Key>
-      <Text>D.C.B</Text>
+      <Text>
+        <Honour>D.C.B</Honour>
+      </Text>
       <PageNumber>12875</PageNumber>
     </MainItem>
   </ItemGroup>

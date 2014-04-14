@@ -185,7 +185,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M.M</Text>
+      <Text>
+        <Honour>M.M</Honour>
+      </Text>
       <PageNumber>6255</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -867,7 +869,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>6263</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1694,7 +1698,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>4419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2096,8 +2102,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>M. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>M. St. C</Forenames>
       <PageNumber>5887</PageNumber>
     </MainItem>
   </ItemGroup>

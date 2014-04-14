@@ -138,7 +138,9 @@
     <MainItem>
       <Key>Beard</Key>
       <Forenames>M. J.</Forenames>
-      <Text>(R:M.P.)</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>5059</PageNumber>
     </MainItem>
   </ItemGroup>

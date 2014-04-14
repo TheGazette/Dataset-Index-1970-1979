@@ -1172,8 +1172,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackaness</Key>
-      <Forenames>J. R. St</Forenames>
-      <Text>. D</Text>
+      <Forenames>J. R. St. D</Forenames>
       <PageNumber>5210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1206,8 +1205,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacKay-Scobie</Key>
-      <Forenames>E.</Forenames>
-      <Text>de C</Text>
+      <Forenames>E. de C</Forenames>
       <PageNumber>4645</PageNumber>
     </MainItem>
   </ItemGroup>

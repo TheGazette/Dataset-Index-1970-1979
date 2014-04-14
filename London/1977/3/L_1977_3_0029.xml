@@ -600,8 +600,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorburn</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. J. D. A</Text>
+      <Forenames>M. St. J</Forenames>
+      <Text>. D. A</Text>
       <PageNumber>8743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1376,17 +1376,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Rees</Forenames>
-      <Text>, C. N</Text>
+      <Key>Van Rees</Key>
+      <Forenames>C. N.</Forenames>
       <PageNumber>11394</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Straubenzee</Forenames>
-      <Text>, A. H</Text>
+      <Key>Van Straubenzee</Key>
+      <Forenames>A. H.</Forenames>
       <PageNumber>9975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1581,8 +1579,7 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Forenames>R. N. H. A.</Forenames>
-      <Text>de V</Text>
+      <Forenames>R. N. H. A. de V</Forenames>
       <PageNumber>11939</PageNumber>
     </MainItem>
   </ItemGroup>

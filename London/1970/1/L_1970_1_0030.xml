@@ -679,8 +679,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaisford</Key>
-      <Forenames>R. D.</Forenames>
-      <Text>de V</Text>
+      <Forenames>R. D.de V</Forenames>
       <PageNumber>2848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2100,8 +2099,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gribbon</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>N. St. G</Forenames>
       <PageNumber>2253</PageNumber>
     </MainItem>
   </ItemGroup>

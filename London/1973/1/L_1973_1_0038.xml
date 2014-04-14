@@ -433,8 +433,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kitchin</Key>
-      <Forenames>G. A.</Forenames>
-      <Text>de G</Text>
+      <Forenames>G. A. de G</Forenames>
       <PageNumber>369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -895,8 +894,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lash</Key>
-      <Forenames>J. N.</Forenames>
-      <Text>de W</Text>
+      <Forenames>J. N. de W</Forenames>
       <PageNumber>94</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1042,7 +1040,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>K.G</Text>
+      <Text>
+        <Honour>K.G</Honour>
+      </Text>
       <PageNumber>2340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2335,8 +2335,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lytle</Key>
-      <Forenames>S. W. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>S. W. St. J</Forenames>
       <PageNumber>92</PageNumber>
     </MainItem>
   </ItemGroup>

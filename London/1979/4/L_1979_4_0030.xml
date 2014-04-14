@@ -728,7 +728,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Trueman</Key>
-      <Text>G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>15599</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -941,7 +943,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>M.</Forenames>
-      <Text>A.E</Text>
+      <Text>
+        <Honour>A.E</Honour>
+      </Text>
       <PageNumber>14928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1222,8 +1226,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Den Burg</Forenames>
+      <Key>Van Den</Key>
+      <Forenames>Burg</Forenames>
       <Text>, J. S</Text>
       <PageNumber>12646</PageNumber>
     </MainItem>
@@ -1452,6 +1456,13 @@
       <Key>Voltzenlogel</Key>
       <Forenames>P.N.</Forenames>
       <PageNumber>14245</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Bertele</Key>
+      <Forenames>M. J.</Forenames>
+      <PageNumber>14237</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2126,7 +2137,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>14243</PageNumber>
     </MainItem>
   </ItemGroup>

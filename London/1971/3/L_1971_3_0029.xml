@@ -146,7 +146,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>O.M</Text>
+      <Text>
+        <Honour>O.M</Honour>
+      </Text>
       <PageNumber>7492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,109 +597,111 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Text>R.D</Text>
-      <PageNumber>9663</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>R.J.C.</Forenames>
-      <PageNumber>9452</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Lloyd-James</Key>
-      <Forenames>J. F. E.</Forenames>
-      <PageNumber>8052</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Lloyd-Jones</Key>
-      <Forenames>P. A.</Forenames>
-      <PageNumber>8336</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Lloyd-Roberts</Key>
-      <Forenames>R. E. L.</Forenames>
-      <PageNumber>8897</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Lloyds</Key>
-      <Forenames>T. R.</Forenames>
-      <PageNumber>9186</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Loades</Key>
-      <Forenames>A. A.</Forenames>
-      <PageNumber>9658</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Lochead</Key>
-      <Forenames>A. S.</Forenames>
-      <PageNumber>9656</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Lock</Key>
-      <Forenames>E.M.</Forenames>
-      <PageNumber>8895</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Locke</Key>
-      <Forenames>G. N. W.</Forenames>
-      <PageNumber>8336</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>H. K.</Forenames>
-      <PageNumber>9660</PageNumber>
-      <PageNumber>10416</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>N.J.</Forenames>
-      <PageNumber>7489</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Lockwood</Key>
-      <Forenames>A. J.</Forenames>
-      <PageNumber>10417</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>G.</Forenames>
-      <PageNumber>10417</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>9663</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>R.J.C.</Forenames>
+        <PageNumber>9452</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Lloyd-James</Key>
+        <Forenames>J. F. E.</Forenames>
+        <PageNumber>8052</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Lloyd-Jones</Key>
+        <Forenames>P. A.</Forenames>
+        <PageNumber>8336</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Lloyd-Roberts</Key>
+        <Forenames>R. E. L.</Forenames>
+        <PageNumber>8897</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Lloyds</Key>
+        <Forenames>T. R.</Forenames>
+        <PageNumber>9186</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Loades</Key>
+        <Forenames>A. A.</Forenames>
+        <PageNumber>9658</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Lochead</Key>
+        <Forenames>A. S.</Forenames>
+        <PageNumber>9656</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Lock</Key>
+        <Forenames>E.M.</Forenames>
+        <PageNumber>8895</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Locke</Key>
+        <Forenames>G. N. W.</Forenames>
+        <PageNumber>8336</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>H. K.</Forenames>
+        <PageNumber>9660</PageNumber>
+        <PageNumber>10416</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>N.J.</Forenames>
+        <PageNumber>7489</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Lockwood</Key>
+        <Forenames>A. J.</Forenames>
+        <PageNumber>10417</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>G.</Forenames>
+        <PageNumber>10417</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -745,8 +749,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Logan</Key>
-      <Forenames>H.O</Forenames>
-      <Text>'H</Text>
+      <Forenames>H.O'H</Forenames>
       <PageNumber>9187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1448,7 +1451,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McCann</Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>7212</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2573,7 +2578,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McShane</Key>
-      <Text>C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>8338</PageNumber>
     </MainItem>
   </ItemGroup>

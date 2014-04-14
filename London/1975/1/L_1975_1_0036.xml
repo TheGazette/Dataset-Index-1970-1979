@@ -28,8 +28,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Duvoisin</Key>
-      <Forenames>J. F.</Forenames>
-      <Text>de W</Text>
+      <Forenames>J. F. de W</Forenames>
       <PageNumber>2224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -748,7 +747,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Elford</Key>
-      <Text>C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1347,7 +1348,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D.L</Text>
+      <Text>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1557,7 +1560,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Eves</Key>
-      <Text>V.C</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>1897</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1855,7 +1860,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>522</PageNumber>
     </MainItem>
   </ItemGroup>

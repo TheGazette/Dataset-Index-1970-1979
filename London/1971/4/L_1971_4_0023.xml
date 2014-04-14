@@ -1490,17 +1490,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Fleury</Forenames>
-      <Text>, C. G</Text>
+      <Key>De Fleury</Key>
+      <Forenames>C. G.</Forenames>
       <PageNumber>10682</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Garis</Forenames>
-      <Text>, M. G</Text>
+      <Key>De Garis</Key>
+      <Forenames>M. G.</Forenames>
       <PageNumber>12149</PageNumber>
     </MainItem>
   </ItemGroup>

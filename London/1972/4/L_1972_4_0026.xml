@@ -205,8 +205,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>S. A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>S. A. St. J</Forenames>
       <PageNumber>12806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1959,8 +1958,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, D</Text>
+      <Key>O'Brien</Key>
+      <Forenames>D</Forenames>
       <PageNumber>14093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1985,15 +1984,15 @@
   <KeyDitto>___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, E. G</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>E. G.</Forenames>
       <PageNumber>11638</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, T</Text>
+      <Key>O'Connor</Key>
+      <Forenames>T.</Forenames>
       <PageNumber>12209</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2013,8 +2012,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, G. F. L</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>G. F. L.</Forenames>
       <PageNumber>13118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2046,36 +2045,36 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flinn, P</Text>
+      <Key>O'Flinn</Key>
+      <Forenames>P</Forenames>
       <PageNumber>12516</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flynn, B. B</Text>
+      <Key>O'Flynn</Key>
+      <Forenames>B. B.</Forenames>
       <PageNumber>11913</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, J</Text>
+      <Key>O'Grady</Key>
+      <Forenames>J</Forenames>
       <PageNumber>12513</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hanlon, J. L</Text>
+      <Key>O'Hanlon</Key>
+      <Forenames>J. L.</Forenames>
       <PageNumber>13114</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, A. M</Text>
+      <Key>O'Hara</Key>
+      <Forenames>A. M.</Forenames>
       <PageNumber>12810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2097,8 +2096,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kelly, K. P</Text>
+      <Key>O'Kelly</Key>
+      <Forenames>K. P.</Forenames>
       <PageNumber>15058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2173,8 +2172,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, J. B</Text>
+      <Key>O'Meara</Key>
+      <Forenames>J. B.</Forenames>
       <PageNumber>11633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2193,8 +2192,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, B</Text>
+      <Key>O'Neill</Key>
+      <Forenames>B .</Forenames>
       <PageNumber>14739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2288,8 +2287,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, G. M</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>G. M.</Forenames>
       <PageNumber>14097</PageNumber>
     </MainItem>
   </ItemGroup>

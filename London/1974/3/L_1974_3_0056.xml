@@ -342,8 +342,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Troubridge</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. V</Text>
+      <Forenames>E. St. V</Forenames>
       <PageNumber>11367</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -884,8 +883,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Gucht</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Gucht</Forenames>
       <Text>, M</Text>
       <PageNumber>9536</PageNumber>
     </MainItem>

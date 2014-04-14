@@ -230,58 +230,60 @@
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
       <Text>G.M</Text>
-      <PageNumber>5476</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Loweth</Key>
-      <Forenames>J. W. F.</Forenames>
-      <PageNumber>6556</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Lowndes</Key>
-      <Forenames>P. D.</Forenames>
-      <PageNumber>6290</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Lowrie</Key>
-      <Forenames>B.</Forenames>
-      <PageNumber>6291</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Lowry</Key>
-      <Forenames>R.</Forenames>
-      <PageNumber>4728</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Lowther</Key>
-      <Forenames>R. J.</Forenames>
-      <PageNumber>6288</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Loyn</Key>
-      <Forenames>W. G. G.</Forenames>
-      <PageNumber>4407</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Lucas</Key>
-      <Forenames>L.V.</Forenames>
-      <PageNumber>4420</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>5476</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Loweth</Key>
+        <Forenames>J. W. F.</Forenames>
+        <PageNumber>6556</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Lowndes</Key>
+        <Forenames>P. D.</Forenames>
+        <PageNumber>6290</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Lowrie</Key>
+        <Forenames>B.</Forenames>
+        <PageNumber>6291</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Lowry</Key>
+        <Forenames>R.</Forenames>
+        <PageNumber>4728</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Lowther</Key>
+        <Forenames>R. J.</Forenames>
+        <PageNumber>6288</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Loyn</Key>
+        <Forenames>W. G. G.</Forenames>
+        <PageNumber>4407</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Lucas</Key>
+        <Forenames>L.V.</Forenames>
+        <PageNumber>4420</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -1209,7 +1211,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>4407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1429,7 +1433,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McNicol</Key>
-      <Text>G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>7136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1657,7 +1663,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M.C. D</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1717,7 +1725,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>4419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2037,8 +2047,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>P. L.</Forenames>
-      <Text>de C</Text>
+      <Forenames>P. L. de C</Forenames>
       <PageNumber>4406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2286,7 +2295,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>7756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2363,8 +2374,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Melhuish</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. J. M</Text>
+      <Forenames>G. St. J</Forenames>
+      <Text>. M</Text>
       <PageNumber>4421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2437,7 +2448,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>7458</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -57,8 +57,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Fitzgerald-O</Key>
-      <Text>'Connor, A. F</Text>
+      <Key>Fitzgerald-O'Connor</Key>
+      <Forenames>A. F.</Forenames>
       <PageNumber>14612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1429,185 +1429,187 @@
     <MainItem>
       <Key>Gilyeat</Key>
       <Text>M.C</Text>
-      <PageNumber>15891</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Gittins</Key>
-      <Forenames>C. D.</Forenames>
-      <PageNumber>14612</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Gjertsen</Key>
-      <Forenames>A. B.</Forenames>
-      <PageNumber>14324</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Glanton</Key>
-      <Forenames>C</Forenames>
-      <PageNumber>13424</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Glen</Key>
-      <Forenames>M. T. A.</Forenames>
-      <PageNumber>12788</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Glenn</Key>
-      <Forenames>J.C</Forenames>
-      <PageNumber>12505</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Glossop</Key>
-      <Forenames>D.J.</Forenames>
-      <PageNumber>13731</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Glover</Key>
-      <Forenames>G</Forenames>
-      <PageNumber>15889</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>R. K.W.</Forenames>
-      <PageNumber>14028</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Goatley</Key>
-      <Forenames>B.J</Forenames>
-      <PageNumber>15893</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Goddard</Key>
-      <Forenames>J.D.</Forenames>
-      <PageNumber>14934</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>W.L</Forenames>
-      <PageNumber>13100</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Godden</Key>
-      <Forenames>M. J.</Forenames>
-      <PageNumber>12794</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Goddison</Key>
-      <Forenames>R. L.</Forenames>
-      <PageNumber>14615</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Godeseth</Key>
-      <Forenames>T. O.</Forenames>
-      <PageNumber>14021</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Godridge</Key>
-      <Forenames>J. W.</Forenames>
-      <PageNumber>14325</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Goldsmith</Key>
-      <Forenames>E.</Forenames>
-      <PageNumber>13733</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>T.R</Forenames>
-      <PageNumber>12784</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Goldson</Key>
-      <Forenames>A.P.</Forenames>
-      <PageNumber>13428</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Gomez</Key>
-      <Forenames>B. S.</Forenames>
-      <PageNumber>15889</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Good</Key>
-      <Forenames>M. A. T.</Forenames>
-      <PageNumber>15572</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>R.J</Forenames>
-      <PageNumber>14023</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Goodale</Key>
-      <Forenames>V</Forenames>
-      <PageNumber>13732</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Gbodenough</Key>
-      <Forenames>N. J.</Forenames>
-      <PageNumber>13734</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Goodhead</Key>
-      <Forenames>R. A.</Forenames>
-      <PageNumber>12783</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>15891</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Gittins</Key>
+        <Forenames>C. D.</Forenames>
+        <PageNumber>14612</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Gjertsen</Key>
+        <Forenames>A. B.</Forenames>
+        <PageNumber>14324</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Glanton</Key>
+        <Forenames>C</Forenames>
+        <PageNumber>13424</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Glen</Key>
+        <Forenames>M. T. A.</Forenames>
+        <PageNumber>12788</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Glenn</Key>
+        <Forenames>J.C</Forenames>
+        <PageNumber>12505</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Glossop</Key>
+        <Forenames>D.J.</Forenames>
+        <PageNumber>13731</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Glover</Key>
+        <Forenames>G</Forenames>
+        <PageNumber>15889</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>R. K.W.</Forenames>
+        <PageNumber>14028</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Goatley</Key>
+        <Forenames>B.J</Forenames>
+        <PageNumber>15893</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Goddard</Key>
+        <Forenames>J.D.</Forenames>
+        <PageNumber>14934</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>W.L</Forenames>
+        <PageNumber>13100</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Godden</Key>
+        <Forenames>M. J.</Forenames>
+        <PageNumber>12794</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Goddison</Key>
+        <Forenames>R. L.</Forenames>
+        <PageNumber>14615</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Godeseth</Key>
+        <Forenames>T. O.</Forenames>
+        <PageNumber>14021</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Godridge</Key>
+        <Forenames>J. W.</Forenames>
+        <PageNumber>14325</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Goldsmith</Key>
+        <Forenames>E.</Forenames>
+        <PageNumber>13733</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>T.R</Forenames>
+        <PageNumber>12784</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Goldson</Key>
+        <Forenames>A.P.</Forenames>
+        <PageNumber>13428</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Gomez</Key>
+        <Forenames>B. S.</Forenames>
+        <PageNumber>15889</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Good</Key>
+        <Forenames>M. A. T.</Forenames>
+        <PageNumber>15572</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>R.J</Forenames>
+        <PageNumber>14023</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Goodale</Key>
+        <Forenames>V</Forenames>
+        <PageNumber>13732</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Gbodenough</Key>
+        <Forenames>N. J.</Forenames>
+        <PageNumber>13734</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Goodhead</Key>
+        <Forenames>R. A.</Forenames>
+        <PageNumber>12783</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Goodier</Key>

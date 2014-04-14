@@ -1316,6 +1316,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Candole</Key>
+      <Forenames>N. V.</Forenames>
+      <PageNumber>6120</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deeks</Key>
       <Forenames>N. B.</Forenames>
       <PageNumber>4471</PageNumber>
@@ -1331,9 +1338,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Hartog</Forenames>
-      <Text>, N. J</Text>
+      <Key>De Hartog</Key>
+      <Forenames>N. J.</Forenames>
       <PageNumber>5038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1346,25 +1352,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Klee</Forenames>
-      <Text>, M. P</Text>
+      <Key>De Klee</Key>
+      <Forenames>M. P.</Forenames>
       <PageNumber>7187</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Perelle</Forenames>
+      <Key>De La</Key>
+      <Forenames>Perelle</Forenames>
       <Text>, J. P</Text>
       <PageNumber>6119</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Marco</Forenames>
-      <Text>, M. L</Text>
+      <Key>De Marco</Key>
+      <Forenames>M. L.</Forenames>
       <PageNumber>4176</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1373,6 +1377,13 @@
       <Key>Dempsey</Key>
       <Forenames>P. W. W.</Forenames>
       <PageNumber>6935</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Naeyer</Key>
+      <Forenames>R. E. S.</Forenames>
+      <PageNumber>5337</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1451,9 +1462,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pree</Forenames>
-      <Text>, R. M. J</Text>
+      <Key>De Pree</Key>
+      <Forenames>R. M. J.</Forenames>
       <PageNumber>5040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2505,8 +2515,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Duvoisin</Key>
-      <Forenames>J. F.</Forenames>
-      <Text>de W</Text>
+      <Forenames>J. F. de W</Forenames>
       <PageNumber>5040</PageNumber>
     </MainItem>
   </ItemGroup>

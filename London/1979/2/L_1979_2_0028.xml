@@ -190,8 +190,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Levinge</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. St. J</Forenames>
       <PageNumber>5976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +403,7 @@
     <KeyDitto>___ ___</KeyDitto>
     <KeyDitto>___</KeyDitto>
     <SubItem>
-      <Text>T. P. H.</Text>
+      <Text>T. P. H</Text>
       <PageNumber>7110</PageNumber>
     </SubItem>
   </ItemGroup>

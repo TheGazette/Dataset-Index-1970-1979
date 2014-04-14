@@ -2587,8 +2587,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sweet</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>P. St. A</Forenames>
       <PageNumber>5038</PageNumber>
     </MainItem>
   </ItemGroup>

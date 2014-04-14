@@ -1346,41 +1346,37 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Beek</Forenames>
-      <Text>, L</Text>
+      <Key>Van Beek</Key>
+      <Forenames>L.</Forenames>
       <PageNumber>11639</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Gught</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Gught</Forenames>
       <Text>, M</Text>
       <PageNumber>8996</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Kempen</Forenames>
-      <Text>, R. E</Text>
+      <Key>Van Kempen</Key>
+      <Forenames>R. E.</Forenames>
       <PageNumber>11639</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Orden</Forenames>
-      <Text>, W. T</Text>
+      <Key>Van Orden</Key>
+      <Forenames>W. T.</Forenames>
       <PageNumber>8371</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Orton</Forenames>
-      <Text>, C. E</Text>
+      <Key>Van Orton</Key>
+      <Forenames>C. E.</Forenames>
       <PageNumber>8371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2032,7 +2028,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wand</Key>
-      <Text>L.G. R</Text>
+      <Text>
+        <Honour>L.G.</Honour>
+      </Text>
       <PageNumber>9325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2095,7 +2093,7 @@
     <KeyDitto>___</KeyDitto>
     <KeyDitto>___ ___ ...</KeyDitto>
     <SubItem>
-      <Text>J.R</Text>
+      <Text>J.R.</Text>
       <PageNumber>9641</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -2266,7 +2264,7 @@
     <KeyDitto>___ ___ —</KeyDitto>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>C. S. H</Text>
+      <Text>C. S. H.</Text>
       <PageNumber>8695</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -2321,36 +2319,38 @@
         <KeyDitto>___ ___ ___ ——</KeyDitto>
       </Key>
       <Text>G.M</Text>
-      <PageNumber>8695</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ ---</KeyDitto>
-      </Key>
-      <Forenames>J.A</Forenames>
-      <PageNumber>11935</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ —</KeyDitto>
-      </Key>
-      <Forenames>J. N. E.</Forenames>
-      <PageNumber>10854</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>M.</Forenames>
-      <PageNumber>8372</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>8695</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___ ---</KeyDitto>
+        </Key>
+        <Forenames>J.A</Forenames>
+        <PageNumber>11935</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ —</KeyDitto>
+        </Key>
+        <Forenames>J. N. E.</Forenames>
+        <PageNumber>10854</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>M.</Forenames>
+        <PageNumber>8372</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>

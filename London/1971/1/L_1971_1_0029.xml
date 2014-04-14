@@ -17,8 +17,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Filliter</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>E. St. J</Forenames>
       <PageNumber>913</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1489,8 +1488,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gethin</Key>
-      <Forenames>R. J. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>R. J. St. L</Forenames>
       <PageNumber>123</PageNumber>
       <PageNumber>918</PageNumber>
     </MainItem>

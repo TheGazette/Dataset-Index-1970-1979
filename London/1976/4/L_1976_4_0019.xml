@@ -493,7 +493,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>13447</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1405,7 +1407,7 @@
     <KeyDitto>___ ___ ___</KeyDitto>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>W.A.D.</Text>
+      <Text>W.A.D</Text>
       <PageNumber>17084</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1537,7 +1539,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cate</Key>
-      <Text>L.G</Text>
+      <Text>
+        <Honour>L.G</Honour>
+      </Text>
       <PageNumber>15406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2297,7 +2301,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Clifton</Key>
-      <Text>T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>15063</PageNumber>
     </MainItem>
   </ItemGroup>

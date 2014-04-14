@@ -1891,8 +1891,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, J. .;</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>J.</Forenames>
+      <Text>.;</Text>
       <PageNumber>38</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1914,15 +1915,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Higgins, E</Text>
+      <Key>O'Higgins</Key>
+      <Forenames>E.</Forenames>
       <PageNumber>24</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, D. F</Text>
+      <Key>O'Leary</Key>
+      <Forenames>D. F.</Forenames>
       <PageNumber>3230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1994,15 +1995,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mahoney, E. R</Text>
+      <Key>O'Mahoney</Key>
+      <Forenames>E. R.</Forenames>
       <PageNumber>28</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, M</Text>
+      <Key>O'Malley</Key>
+      <Forenames>M.</Forenames>
       <PageNumber>1784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2084,8 +2085,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, MI-J. .;</Text>
+      <Key>O'Shea</Key>
+      <Text>MI-J. .;</Text>
       <PageNumber>16</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2105,15 +2106,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullevan, P, J. i</Text>
+      <Key>O'Sullevan</Key>
+      <Forenames>P</Forenames>
+      <Text>, J. i</Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, M. L. G</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>M. L. G.</Forenames>
       <PageNumber>3230</PageNumber>
     </MainItem>
   </ItemGroup>

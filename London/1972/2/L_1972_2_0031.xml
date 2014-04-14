@@ -2754,8 +2754,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holcroft</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>H. St. J</Forenames>
       <PageNumber>5854</PageNumber>
     </MainItem>
   </ItemGroup>

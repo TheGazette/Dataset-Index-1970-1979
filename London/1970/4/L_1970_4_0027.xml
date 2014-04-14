@@ -2391,9 +2391,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Martin</Forenames>
-      <Text>, M. O. ..:</Text>
+      <Key>St. Martin</Key>
+      <Forenames>M. O.</Forenames>
+      <Text>..:</Text>
       <PageNumber>14054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2668,8 +2668,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Savill</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. St. G</Forenames>
       <PageNumber>10863</PageNumber>
     </MainItem>
   </ItemGroup>

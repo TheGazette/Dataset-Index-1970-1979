@@ -248,7 +248,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>R.</Forenames>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>5219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2179,8 +2181,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bruton</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. C. O</Text>
+      <Forenames>D. St. C</Forenames>
+      <Text>. O</Text>
       <PageNumber>6813</PageNumber>
     </MainItem>
   </ItemGroup>

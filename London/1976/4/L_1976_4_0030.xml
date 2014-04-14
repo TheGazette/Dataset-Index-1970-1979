@@ -140,61 +140,63 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Text>C.H</Text>
-      <PageNumber>16079</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>D.</Forenames>
-      <PageNumber>16080</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>D.A.</Forenames>
-      <PageNumber>13763</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>D. R. L.</Forenames>
-      <PageNumber>15409</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>P. R. W.</Forenames>
-      <PageNumber>16440</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>R.A.</Forenames>
-      <PageNumber>14099</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Whitehead</Key>
-      <Forenames>L. S.</Forenames>
-      <PageNumber>14763</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>16079</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>D.</Forenames>
+        <PageNumber>16080</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>D.A.</Forenames>
+        <PageNumber>13763</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>D. R. L.</Forenames>
+        <PageNumber>15409</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>P. R. W.</Forenames>
+        <PageNumber>16440</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>R.A.</Forenames>
+        <PageNumber>14099</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Whitehead</Key>
+        <Forenames>L. S.</Forenames>
+        <PageNumber>14763</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -582,7 +584,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C.G.M</Text>
+      <Text>
+        <Honour>C.G.M</Honour>
+      </Text>
       <PageNumber>15746</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -923,25 +927,27 @@
     <MainItem>
       <Key>Willson</Key>
       <Text>L.T</Text>
-      <PageNumber>17284</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Wilson</Key>
-      <Forenames>A. B.</Forenames>
-      <PageNumber>16439</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ -</KeyDitto>
-      </Key>
-      <Forenames>A. H.M.</Forenames>
-      <PageNumber>15407</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>17284</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Wilson</Key>
+        <Forenames>A. B.</Forenames>
+        <PageNumber>16439</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ -</KeyDitto>
+        </Key>
+        <Forenames>A. H.M.</Forenames>
+        <PageNumber>15407</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -1801,8 +1807,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>A. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>A. St. C</Forenames>
       <PageNumber>13446</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -125,8 +125,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Salisbury</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>5171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,8 +330,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sansom</Key>
-      <Forenames>A. C. St</Forenames>
-      <Text>. Q</Text>
+      <Forenames>A. C. St. Q</Forenames>
       <PageNumber>6722</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2336,8 +2334,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Steiner</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>6717</PageNumber>
     </MainItem>
   </ItemGroup>

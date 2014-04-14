@@ -101,8 +101,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leathes</Key>
-      <Forenames>R. C.</Forenames>
-      <Text>de M</Text>
+      <Forenames>R. C. de M</Forenames>
       <PageNumber>9878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,18 +388,20 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Text>M.C</Text>
-      <PageNumber>10349</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>M.H.</Forenames>
-      <PageNumber>8027</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>10349</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>M.H.</Forenames>
+        <PageNumber>8027</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -453,7 +454,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>=—-T.C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>8301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -635,7 +638,9 @@
       <Key>
         <KeyDitto>___ ___ :—-</KeyDitto>
       </Key>
-      <Text>M.M. ..:</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>10107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1006,7 +1011,9 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>8856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1359,7 +1366,9 @@
       <Key>
         <KeyDitto>___ ___ -</KeyDitto>
       </Key>
-      <Text>+—M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>9684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1890,7 +1899,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McHale</Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>7477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2239,7 +2250,9 @@
   <ItemGroup>
     <MainItem>
       <Key>MacLeod</Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>8302</PageNumber>
     </MainItem>
   </ItemGroup>

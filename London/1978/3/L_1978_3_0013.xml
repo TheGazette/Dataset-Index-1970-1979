@@ -283,7 +283,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Text>A.E</Text>
+      <Text>
+        <Honour>A.E</Honour>
+      </Text>
       <PageNumber>9499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -666,7 +668,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Adlard</Key>
-      <Text>A.E</Text>
+      <Text>
+        <Honour>A.E</Honour>
+      </Text>
       <PageNumber>8322</PageNumber>
     </MainItem>
   </ItemGroup>

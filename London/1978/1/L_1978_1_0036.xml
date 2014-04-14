@@ -505,8 +505,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Severne</Key>
-      <Forenames>J.</Forenames>
-      <Text>de M</Text>
+      <Forenames>J. de M</Forenames>
       <PageNumber>2903</PageNumber>
     </MainItem>
   </ItemGroup>

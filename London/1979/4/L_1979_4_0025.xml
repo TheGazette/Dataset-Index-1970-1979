@@ -142,7 +142,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McTeer</Key>
-      <Text>M.M</Text>
+      <Text>
+        <Honour>M.M</Honour>
+      </Text>
       <PageNumber>14245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -285,7 +287,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P.C. A</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>13903</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1059,7 +1063,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M.M</Text>
+      <Text>
+        <Honour>M.M</Honour>
+      </Text>
       <PageNumber>15599</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1504,7 +1510,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P.C</Text>
+      <Text>
+        <Honour>P.C</Honour>
+      </Text>
       <PageNumber>13900</PageNumber>
     </MainItem>
   </ItemGroup>

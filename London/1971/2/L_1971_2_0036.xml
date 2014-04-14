@@ -124,16 +124,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Aubyn</Forenames>
-      <Text>, S. G. M</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>S. G. M.</Forenames>
       <PageNumber>6946</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clair Sproul-Bolton</Forenames>
+      <Key>St. Clair</Key>
+      <Forenames>Sproul-Bolton</Forenames>
       <Text>, R. R. J</Text>
       <PageNumber>3583</PageNumber>
     </MainItem>

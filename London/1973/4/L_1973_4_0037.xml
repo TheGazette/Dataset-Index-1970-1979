@@ -954,9 +954,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John</Forenames>
-      <Text>, J. W</Text>
+      <Key>St. John</Key>
+      <Forenames>J. W.</Forenames>
       <PageNumber>14729</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1305,8 +1304,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scobie</Key>
-      <Forenames>E.</Forenames>
-      <Text>de C. M</Text>
+      <Forenames>E. de C</Forenames>
+      <Text>. M</Text>
       <PageNumber>12870</PageNumber>
     </MainItem>
   </ItemGroup>

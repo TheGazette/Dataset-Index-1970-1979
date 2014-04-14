@@ -1079,7 +1079,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>MB</Text>
+      <Text>
+        <Honour>MB</Honour>
+      </Text>
       <PageNumber>916</PageNumber>
     </MainItem>
   </ItemGroup>

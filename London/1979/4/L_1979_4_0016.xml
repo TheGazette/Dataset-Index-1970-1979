@@ -85,7 +85,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashdown</Key>
-      <Text>P.C</Text>
+      <Text>
+        <Honour>P.C</Honour>
+      </Text>
       <PageNumber>14247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -548,216 +550,218 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Text>D.C.B</Text>
-      <PageNumber>13895</PageNumber>
-      <PageNumber>15936</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>P.H</Forenames>
-      <PageNumber>14592</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>R.A.</Forenames>
-      <PageNumber>14931</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>R.C</Forenames>
-      <PageNumber>14589</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Balchin</Key>
-      <Forenames>D.J</Forenames>
-      <PageNumber>13565</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Balden</Key>
-      <Forenames>W.J</Forenames>
-      <PageNumber>12348</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Baldry</Key>
-      <Forenames>R.F</Forenames>
-      <PageNumber>15934</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Baldwin</Key>
-      <Forenames>F. W. K.</Forenames>
-      <PageNumber>14930</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>P</Forenames>
-      <PageNumber>13575</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>P.A.C.</Forenames>
-      <PageNumber>15933</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>R.N</Forenames>
-      <PageNumber>15935</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Balfour</Key>
-      <Forenames>H. E. O.</Forenames>
-      <PageNumber>13228</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Balgue</Key>
-      <Forenames>I.C.</Forenames>
-      <PageNumber>12648</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Ball</Key>
-      <Forenames>J. A</Forenames>
-      <PageNumber>16163</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>J.C</Forenames>
-      <PageNumber>14935</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>M.L.</Forenames>
-      <PageNumber>15940</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Ball</Key>
-      <Forenames>P. A</Forenames>
-      <PageNumber>13570</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>P. G</Forenames>
-      <PageNumber>13574</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>R.G</Forenames>
-      <PageNumber>15944</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>R.M</Forenames>
-      <PageNumber>13228</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>W.J</Forenames>
-      <PageNumber>15595</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Ballard</Key>
-      <Forenames>B. F. W.</Forenames>
-      <PageNumber>14237</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Balme</Key>
-      <Forenames>J. G</Forenames>
-      <PageNumber>13894</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Balmforth</Key>
-      <Forenames>A. J.</Forenames>
-      <PageNumber>14248</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bamford</Key>
-      <Forenames>I. M.</Forenames>
-      <PageNumber>14236</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bamforth</Key>
-      <Forenames>P. F.</Forenames>
-      <PageNumber>13895</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Band</Key>
-      <Forenames>J</Forenames>
-      <PageNumber>16159</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>13895</PageNumber>
+    <PageNumber>15936</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>P.H</Forenames>
+        <PageNumber>14592</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>R.A.</Forenames>
+        <PageNumber>14931</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>R.C</Forenames>
+        <PageNumber>14589</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Balchin</Key>
+        <Forenames>D.J</Forenames>
+        <PageNumber>13565</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Balden</Key>
+        <Forenames>W.J</Forenames>
+        <PageNumber>12348</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Baldry</Key>
+        <Forenames>R.F</Forenames>
+        <PageNumber>15934</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Baldwin</Key>
+        <Forenames>F. W. K.</Forenames>
+        <PageNumber>14930</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>P</Forenames>
+        <PageNumber>13575</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>P.A.C.</Forenames>
+        <PageNumber>15933</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>R.N</Forenames>
+        <PageNumber>15935</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Balfour</Key>
+        <Forenames>H. E. O.</Forenames>
+        <PageNumber>13228</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Balgue</Key>
+        <Forenames>I.C.</Forenames>
+        <PageNumber>12648</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Ball</Key>
+        <Forenames>J. A</Forenames>
+        <PageNumber>16163</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>J.C</Forenames>
+        <PageNumber>14935</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>M.L.</Forenames>
+        <PageNumber>15940</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Ball</Key>
+        <Forenames>P. A</Forenames>
+        <PageNumber>13570</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>P. G</Forenames>
+        <PageNumber>13574</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>R.G</Forenames>
+        <PageNumber>15944</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>R.M</Forenames>
+        <PageNumber>13228</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>W.J</Forenames>
+        <PageNumber>15595</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Ballard</Key>
+        <Forenames>B. F. W.</Forenames>
+        <PageNumber>14237</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Balme</Key>
+        <Forenames>J. G</Forenames>
+        <PageNumber>13894</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Balmforth</Key>
+        <Forenames>A. J.</Forenames>
+        <PageNumber>14248</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bamford</Key>
+        <Forenames>I. M.</Forenames>
+        <PageNumber>14236</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bamforth</Key>
+        <Forenames>P. F.</Forenames>
+        <PageNumber>13895</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Band</Key>
+        <Forenames>J</Forenames>
+        <PageNumber>16159</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Banham</Key>

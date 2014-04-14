@@ -1429,8 +1429,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Fitzgerald-O</Key>
-      <Text>'Connor, A. F</Text>
+      <Key>Fitzgerald-O'Connor</Key>
+      <Forenames>A. F.</Forenames>
       <PageNumber>11109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2308,7 +2308,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fripp</Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>9327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2382,8 +2384,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fry</Key>
-      <Forenames>A. A. St</Forenames>
-      <Text>. Q</Text>
+      <Forenames>A. A. St. Q</Forenames>
       <PageNumber>9953</PageNumber>
     </MainItem>
   </ItemGroup>

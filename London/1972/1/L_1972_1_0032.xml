@@ -183,8 +183,7 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Forenames>W. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>W. O'C</Forenames>
       <PageNumber>3123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1778,7 +1777,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gomes</Key>
-      <Text>de Mesquita, D. J</Text>
+      <Forenames>de Mesquita</Forenames>
+      <Text>, D. J</Text>
       <PageNumber>1585</PageNumber>
     </MainItem>
   </ItemGroup>

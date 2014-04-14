@@ -422,7 +422,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Brett</Key>
-      <Text>P.C</Text>
+      <Text>
+        <Honour>P.C</Honour>
+      </Text>
       <PageNumber>8997</PageNumber>
       <PageNumber>11363</PageNumber>
     </MainItem>
@@ -1994,7 +1996,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>8370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2352,7 +2356,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Carrell</Key>
-      <Text>P.C</Text>
+      <Text>
+        <Honour>P.C</Honour>
+      </Text>
       <PageNumber>8379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2465,8 +2471,7 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Forenames>D. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>D. St. G</Forenames>
       <PageNumber>10568</PageNumber>
     </MainItem>
   </ItemGroup>

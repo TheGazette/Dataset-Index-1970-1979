@@ -93,7 +93,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>8582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,7 +659,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>P.</Forenames>
-      <Text>G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>10105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1118,7 +1122,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Millar</Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>8583</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1726,7 +1732,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>10106</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ___ ...</KeyDitto>
@@ -1876,7 +1884,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>9883</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1960,18 +1970,20 @@
       </Key>
       <Forenames>A.</Forenames>
       <Text>P.C</Text>
-      <PageNumber>10350</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>C.D.E.</Forenames>
-      <PageNumber>8861</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>10350</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>C.D.E.</Forenames>
+        <PageNumber>8861</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>

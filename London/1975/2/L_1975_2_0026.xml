@@ -544,7 +544,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cafe</Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>6520</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -709,7 +711,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>7751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1077,7 +1081,9 @@
       <Key>
         <KeyDitto>___ —--</KeyDitto>
       </Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>4211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1147,8 +1153,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cazenove</Key>
-      <Forenames>B. M.</Forenames>
-      <Text>de L</Text>
+      <Forenames>B. M. de L</Forenames>
       <PageNumber>4821</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1978,7 +1983,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cock</Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>7454</PageNumber>
     </MainItem>
   </ItemGroup>

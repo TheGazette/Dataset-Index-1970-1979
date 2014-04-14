@@ -203,8 +203,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cranmer</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>D. St. G</Forenames>
       <PageNumber>10051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1612,17 +1611,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bass</Forenames>
-      <Text>, F. W. J</Text>
+      <Key>De Bass</Key>
+      <Forenames>F. W. J.</Forenames>
       <PageNumber>9402</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Belder</Forenames>
-      <Text>, M. J. K</Text>
+      <Key>De Belder</Key>
+      <Forenames>M. J. K.</Forenames>
       <PageNumber>9391</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1635,9 +1632,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Boinville</Forenames>
-      <Text>, N. V. C</Text>
+      <Key>De Boinville</Key>
+      <Forenames>N. V. C</Forenames>
       <PageNumber>9400</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1650,9 +1646,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Fleury</Forenames>
-      <Text>, C. G</Text>
+      <Key>De Fleury</Key>
+      <Forenames>C. G.</Forenames>
       <PageNumber>9390</PageNumber>
     </MainItem>
   </ItemGroup>

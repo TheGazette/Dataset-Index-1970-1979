@@ -1573,8 +1573,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hare, J</Text>
+      <Key>O'Hare</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>9934</PageNumber>
     </MainItem>
   </ItemGroup>

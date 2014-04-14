@@ -2850,8 +2850,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Forenames>A. R. E.</Forenames>
-      <Text>de C</Text>
+      <Forenames>A. R. E. de C</Forenames>
       <PageNumber>10838</PageNumber>
     </MainItem>
   </ItemGroup>

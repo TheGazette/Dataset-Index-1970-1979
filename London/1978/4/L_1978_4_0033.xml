@@ -1838,17 +1838,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clair SproulBoulton</Forenames>
+      <Key>St. Clair</Key>
+      <Forenames>SproulBoulton</Forenames>
       <Text>, R. R. J</Text>
       <PageNumber>11761</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Paul</Forenames>
-      <Text>, S. R. W</Text>
+      <Key>St. Paul</Key>
+      <Forenames>S. R. W.</Forenames>
       <PageNumber>11766</PageNumber>
     </MainItem>
   </ItemGroup>

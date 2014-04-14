@@ -279,7 +279,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>7766</PageNumber>
       <PageNumber>8341</PageNumber>
     </MainItem>
@@ -961,7 +963,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Spendlow</Key>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>10415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1778,7 +1782,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Storey</Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>7767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2858,8 +2864,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Templeman-Sherlock</Key>
-      <Forenames>R.St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R.St. J</Forenames>
       <PageNumber>9905</PageNumber>
     </MainItem>
   </ItemGroup>

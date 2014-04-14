@@ -1523,7 +1523,9 @@
     <MainItem>
       <Key>Hopper</Key>
       <Forenames>P.</Forenames>
-      <Text>D.L</Text>
+      <Text>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>13289</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2090,8 +2092,7 @@
       <Key>
         <KeyDitto>-— ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>C. T.</Forenames>
-      <Text>de V</Text>
+      <Forenames>C. T. de V</Forenames>
       <PageNumber>11143</PageNumber>
     </MainItem>
   </ItemGroup>

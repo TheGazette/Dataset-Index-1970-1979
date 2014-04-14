@@ -87,7 +87,9 @@
     <MainItem>
       <Key>Raker</Key>
       <Forenames>H.</Forenames>
-      <Text>A.E</Text>
+      <Text>
+        <Honour>A.E</Honour>
+      </Text>
       <PageNumber>5861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -717,7 +719,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Richley</Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>4818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -990,7 +994,9 @@
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>4512</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1410,54 +1416,56 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Text>C.H</Text>
-      <PageNumber>7745</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Rogers</Key>
-      <Forenames>A. G.</Forenames>
-      <PageNumber>4513</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>A. P.</Forenames>
-      <PageNumber>5862</PageNumber>
-      <PageNumber>7455</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>C.</Forenames>
-      <Text>M.C</Text>
-      <PageNumber>7132</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>G.A.</Forenames>
-      <PageNumber>4824</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>J.</Forenames>
-      <PageNumber>6186</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>7745</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Rogers</Key>
+        <Forenames>A. G.</Forenames>
+        <PageNumber>4513</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>A. P.</Forenames>
+        <PageNumber>5862</PageNumber>
+        <PageNumber>7455</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>C.</Forenames>
+        <Text>M.C</Text>
+        <PageNumber>7132</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>G.A.</Forenames>
+        <PageNumber>4824</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>J.</Forenames>
+        <PageNumber>6186</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -1853,17 +1861,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John</Forenames>
-      <Text>, C</Text>
+      <Key>St. John</Key>
+      <Forenames>C.</Forenames>
       <PageNumber>7133</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Quinton</Forenames>
-      <Text>, E. A</Text>
+      <Key>St. Quinton</Key>
+      <Forenames>E. A.</Forenames>
       <PageNumber>4822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1939,7 +1945,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>r-M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>4212</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2197,8 +2205,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scobie</Key>
-      <Forenames>E.</Forenames>
-      <Text>de C. M</Text>
+      <Forenames>E. de C</Forenames>
+      <Text>. M</Text>
       <PageNumber>7744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2401,7 +2409,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Secular</Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>6523</PageNumber>
     </MainItem>
   </ItemGroup>

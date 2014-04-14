@@ -2140,7 +2140,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>9284</PageNumber>
     </MainItem>
   </ItemGroup>

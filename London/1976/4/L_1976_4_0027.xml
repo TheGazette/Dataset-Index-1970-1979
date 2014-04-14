@@ -722,7 +722,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>13445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1089,7 +1091,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>D.L</Text>
+      <Text>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>13768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1392,7 +1396,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>P.C</Text>
+      <Text>
+        <Honour>P.C</Honour>
+      </Text>
       <PageNumber>15065</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2603,7 +2609,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>C.M.G</Text>
+      <Text>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>15410</PageNumber>
     </MainItem>
   </ItemGroup>

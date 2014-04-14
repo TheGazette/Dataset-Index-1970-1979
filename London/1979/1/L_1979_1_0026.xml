@@ -368,8 +368,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>J. St. J</Forenames>
       <PageNumber>330</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1036,8 +1035,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J. P</Text>
+      <Forenames>A. St. J</Forenames>
+      <Text>. P</Text>
       <PageNumber>3034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1519,7 +1518,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M.C. S</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1987</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1674,7 +1674,9 @@
     <MainItem>
       <Key>Gilham</Key>
       <Forenames>M.C.</Forenames>
-      <Text>D.L</Text>
+      <Text>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>16370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1979,55 +1981,57 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Text>M.M</Text>
-      <PageNumber>13543</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>S.R. J.</Forenames>
-      <PageNumber>15643</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Goodwill</Key>
-      <Forenames>S. L.</Forenames>
-      <PageNumber>13540</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Goodwin</Key>
-      <Forenames>R. A. C.</Forenames>
-      <PageNumber>16373</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Gopsill</Key>
-      <Forenames>F.P.</Forenames>
-      <PageNumber>14216</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>W. G.</Forenames>
-      <PageNumber>14214</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Gordon</Key>
-      <Forenames>A. L.</Forenames>
-      <PageNumber>16373</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>13543</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>S.R. J.</Forenames>
+        <PageNumber>15643</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Goodwill</Key>
+        <Forenames>S. L.</Forenames>
+        <PageNumber>13540</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Goodwin</Key>
+        <Forenames>R. A. C.</Forenames>
+        <PageNumber>16373</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Gopsill</Key>
+        <Forenames>F.P.</Forenames>
+        <PageNumber>14216</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>W. G.</Forenames>
+        <PageNumber>14214</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Gordon</Key>
+        <Forenames>A. L.</Forenames>
+        <PageNumber>16373</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -2349,7 +2353,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>13176</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2435,7 +2441,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>12542</PageNumber>
     </MainItem>
   </ItemGroup>

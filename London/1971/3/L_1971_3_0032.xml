@@ -347,72 +347,74 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Text>R.D</Text>
-      <PageNumber>8339</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Player</Key>
-      <Forenames>H. H.</Forenames>
-      <PageNumber>7491</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Plester</Key>
-      <Forenames>F.</Forenames>
-      <PageNumber>7492</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Plowden</Key>
-      <Forenames>R. B. C.</Forenames>
-      <PageNumber>7203</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Plumb</Key>
-      <Forenames>T. W.</Forenames>
-      <PageNumber>9185</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Plummer</Key>
-      <Forenames>R. C.</Forenames>
-      <PageNumber>7204</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Podmore</Key>
-      <Forenames>M. F.</Forenames>
-      <PageNumber>9661</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Polden</Key>
-      <Forenames>C. D.N.</Forenames>
-      <PageNumber>9661</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Polhill</Key>
-      <Forenames>H. W.</Forenames>
-      <PageNumber>9655</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Pollard</Key>
-      <Forenames>A. W.</Forenames>
-      <PageNumber>7494</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>8339</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Player</Key>
+        <Forenames>H. H.</Forenames>
+        <PageNumber>7491</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Plester</Key>
+        <Forenames>F.</Forenames>
+        <PageNumber>7492</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Plowden</Key>
+        <Forenames>R. B. C.</Forenames>
+        <PageNumber>7203</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Plumb</Key>
+        <Forenames>T. W.</Forenames>
+        <PageNumber>9185</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Plummer</Key>
+        <Forenames>R. C.</Forenames>
+        <PageNumber>7204</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Podmore</Key>
+        <Forenames>M. F.</Forenames>
+        <PageNumber>9661</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Polden</Key>
+        <Forenames>C. D.N.</Forenames>
+        <PageNumber>9661</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Polhill</Key>
+        <Forenames>H. W.</Forenames>
+        <PageNumber>9655</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Pollard</Key>
+        <Forenames>A. W.</Forenames>
+        <PageNumber>7494</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -467,7 +469,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R.D. G</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>8340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -831,7 +835,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>D.L</Text>
+      <Text>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>8342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1071,8 +1077,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Purcell</Key>
-      <Forenames>A. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>A. O'C</Forenames>
       <PageNumber>8897</PageNumber>
     </MainItem>
   </ItemGroup>

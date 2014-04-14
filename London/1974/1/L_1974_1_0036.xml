@@ -166,8 +166,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crow</Key>
-      <Forenames>J. T. M. D. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>J. T. M. D. O'D</Forenames>
       <PageNumber>587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1282,9 +1281,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Belder</Forenames>
-      <Text>, K. R. J</Text>
+      <Key>De Belder</Key>
+      <Forenames>K. R. J.</Forenames>
       <PageNumber>287</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1297,11 +1295,25 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Candole</Key>
+      <Forenames>J. A. V.</Forenames>
+      <PageNumber>268</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>N. V.</Forenames>
       <PageNumber>264</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Carteret</Key>
+      <Forenames>M. A.</Forenames>
+      <PageNumber>2221</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1320,8 +1332,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Haye</Forenames>
+      <Key>De La</Key>
+      <Forenames>Haye</Forenames>
       <Text>, P</Text>
       <PageNumber>268</PageNumber>
     </MainItem>
@@ -1453,9 +1465,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pree</Forenames>
-      <Text>, R. M. J</Text>
+      <Key>De Pree</Key>
+      <Forenames>R. M. J.</Forenames>
       <PageNumber>2554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1490,8 +1501,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dewar</Key>
-      <Forenames>M. K. O</Forenames>
-      <Text>'M</Text>
+      <Forenames>M. K. O'M</Forenames>
       <PageNumber>269</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2375,9 +2385,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Vallon-Lohan</Forenames>
-      <Text>, M. D</Text>
+      <Key>Du Vallon-Lohan</Key>
+      <Forenames>M. D.</Forenames>
       <PageNumber>272</PageNumber>
     </MainItem>
   </ItemGroup>

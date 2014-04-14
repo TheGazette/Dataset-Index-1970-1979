@@ -406,8 +406,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tabor</Key>
-      <Forenames>D. J. St</Forenames>
-      <Text>. M</Text>
+      <Forenames>D. J. St. M</Forenames>
       <PageNumber>13099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -698,7 +697,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tebbutt</Key>
-      <Text>D.L</Text>
+      <Text>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>15570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2213,7 +2214,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>N.</Forenames>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>12503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2502,7 +2505,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Warnes</Key>
-      <Text>A.E</Text>
+      <Text>
+        <Honour>A.E</Honour>
+      </Text>
       <PageNumber>13103</PageNumber>
     </MainItem>
   </ItemGroup>

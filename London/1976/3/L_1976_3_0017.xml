@@ -2021,7 +2021,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Boyce</Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>9281</PageNumber>
     </MainItem>
   </ItemGroup>

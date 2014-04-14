@@ -805,8 +805,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tabor</Key>
-      <Forenames>D. J. St</Forenames>
-      <Text>. M</Text>
+      <Forenames>D. J. St. M</Forenames>
       <PageNumber>11359</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1741,8 +1740,7 @@
       <Key>
         <KeyDitto>___ -— ___</KeyDitto>
       </Key>
-      <Forenames>J. A.</Forenames>
-      <Text>de M</Text>
+      <Forenames>J. A. de M</Forenames>
       <PageNumber>10839</PageNumber>
     </MainItem>
   </ItemGroup>

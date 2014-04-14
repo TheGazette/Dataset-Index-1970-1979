@@ -1056,7 +1056,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stacpoole</Key>
-      <Text>de D. H. O</Text>
+      <Title>de D.</Title>
+      <Forenames>H. O.</Forenames>
       <PageNumber>7747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1092,7 +1093,9 @@
     <MainItem>
       <Key>Stamp</Key>
       <Forenames>E.</Forenames>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>7746</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1386,7 +1389,9 @@
       <Key>
         <KeyDitto>___ -—</KeyDitto>
       </Key>
-      <Text>L.G. S</Text>
+      <Text>
+        <Honour>L.G.</Honour>
+      </Text>
       <PageNumber>5514</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1995,8 +2000,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tandy</Key>
-      <Forenames>P. S. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>P. S. O'C</Forenames>
       <PageNumber>5160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2341,7 +2345,9 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>D.L. ... :</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>4215</PageNumber>
     </MainItem>
   </ItemGroup>

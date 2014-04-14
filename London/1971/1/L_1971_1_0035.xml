@@ -49,8 +49,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pallot</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>M. St. G</Forenames>
       <PageNumber>120</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1148,7 +1147,7 @@
     <KeyDitto>___ ___ ...</KeyDitto>
     <KeyDitto>___ ___ ___</KeyDitto>
     <SubItem>
-      <Text>S.G.</Text>
+      <Text>S.G</Text>
       <PageNumber>1787</PageNumber>
       <PageNumber>2941</PageNumber>
     </SubItem>

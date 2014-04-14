@@ -24,8 +24,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Killick</Key>
-      <Forenames>R. V. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. V. St. J</Forenames>
       <PageNumber>5858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -909,7 +908,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Legge</Key>
-      <Text>K.G</Text>
+      <Text>
+        <Honour>K.G</Honour>
+      </Text>
       <PageNumber>5160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -966,8 +967,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lemon</Key>
-      <Forenames>M. J. A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. J. A. St. J</Forenames>
       <PageNumber>7747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1594,7 +1594,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lott</Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>6520</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1774,7 +1776,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lygo</Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>4209</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1932,32 +1936,34 @@
         <KeyDitto>___ ___ -</KeyDitto>
       </Key>
       <Text>M.C</Text>
-      <PageNumber>7456</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>McCallum</Key>
-      <Forenames>W. D.</Forenames>
-      <PageNumber>7132</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>McCann</Key>
-      <Text>K.G</Text>
-      <PageNumber>6832</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>P.J</Forenames>
-      <PageNumber>5861</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>7456</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>McCallum</Key>
+        <Forenames>W. D.</Forenames>
+        <PageNumber>7132</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>McCann</Key>
+        <Text>K.G</Text>
+        <PageNumber>6832</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>P.J</Forenames>
+        <PageNumber>5861</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>McCarthy</Key>
@@ -2454,114 +2460,116 @@
       </Key>
       <Forenames>D.</Forenames>
       <Text>A.E</Text>
-      <PageNumber>8050</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>McKenzie</Key>
-      <Forenames>L. E.</Forenames>
-      <PageNumber>8049</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Mackersie</Key>
-      <Forenames>J. A.</Forenames>
-      <PageNumber>7454</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Mackie</Key>
-      <Forenames>C. G. B. H.</Forenames>
-      <PageNumber>5514</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>E. D</Forenames>
-      <PageNumber>7453</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>J.T</Forenames>
-      <PageNumber>7744</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>McKie-Smith</Key>
-      <Forenames>S</Forenames>
-      <PageNumber>7134</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>McKinney</Key>
-      <Forenames>S. M. T.</Forenames>
-      <PageNumber>5518</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Mackintosh</Key>
-      <Forenames>K. S. F.</Forenames>
-      <PageNumber>6835</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>McKnight</Key>
-      <Forenames>W.C.</Forenames>
-      <PageNumber>6829</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Maclean</Key>
-      <Forenames>J.</Forenames>
-      <PageNumber>6520</PageNumber>
-      <PageNumber>8050</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>McLeod</Key>
-      <Text>K.G</Text>
-      <PageNumber>5862</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>McLoughlin</Key>
-      <Forenames>A. G.</Forenames>
-      <PageNumber>4815</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>J. A.</Forenames>
-      <PageNumber>4825</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>McLuckie</Key>
-      <Forenames>R.</Forenames>
-      <PageNumber>7751</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>8050</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>McKenzie</Key>
+        <Forenames>L. E.</Forenames>
+        <PageNumber>8049</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Mackersie</Key>
+        <Forenames>J. A.</Forenames>
+        <PageNumber>7454</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Mackie</Key>
+        <Forenames>C. G. B. H.</Forenames>
+        <PageNumber>5514</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>E. D</Forenames>
+        <PageNumber>7453</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>J.T</Forenames>
+        <PageNumber>7744</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>McKie-Smith</Key>
+        <Forenames>S</Forenames>
+        <PageNumber>7134</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>McKinney</Key>
+        <Forenames>S. M. T.</Forenames>
+        <PageNumber>5518</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Mackintosh</Key>
+        <Forenames>K. S. F.</Forenames>
+        <PageNumber>6835</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>McKnight</Key>
+        <Forenames>W.C.</Forenames>
+        <PageNumber>6829</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Maclean</Key>
+        <Forenames>J.</Forenames>
+        <PageNumber>6520</PageNumber>
+        <PageNumber>8050</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>McLeod</Key>
+        <Text>K.G</Text>
+        <PageNumber>5862</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>McLoughlin</Key>
+        <Forenames>A. G.</Forenames>
+        <PageNumber>4815</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>J. A.</Forenames>
+        <PageNumber>4825</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>McLuckie</Key>
+        <Forenames>R.</Forenames>
+        <PageNumber>7751</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>

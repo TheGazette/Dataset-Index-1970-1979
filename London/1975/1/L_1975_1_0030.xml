@@ -142,142 +142,144 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Text>D.L</Text>
-      <PageNumber>528</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ——</KeyDitto>
-      </Key>
-      <Forenames>E.J .</Forenames>
-      <PageNumber>3611</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ — ___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>M.K .</Forenames>
-      <PageNumber>871</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ —-</KeyDitto>
-      </Key>
-      <Text>M.P</Text>
-      <PageNumber>1225</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ —-</KeyDitto>
-      </Key>
-      <Forenames>P.G.</Forenames>
-      <PageNumber>3289</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>R.J.</Forenames>
-      <PageNumber>517</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>R.M.</Forenames>
-      <PageNumber>1221</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Adams-Cairns</Key>
-      <Forenames>I. M</Forenames>
-      <PageNumber>3287</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Adamson</Key>
-      <Forenames>G. A.</Forenames>
-      <PageNumber>506</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>R. V.</Forenames>
-      <PageNumber>204</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Addison</Key>
-      <Forenames>W.</Forenames>
-      <PageNumber>3970</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Addy</Key>
-      <Forenames>S.H.</Forenames>
-      <PageNumber>1213</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Adkins</Key>
-      <Forenames>D. W.</Forenames>
-      <PageNumber>506</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Adolph</Key>
-      <Forenames>M. P. N.</Forenames>
-      <PageNumber>216</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Afrin</Key>
-      <Forenames>M. M.</Forenames>
-      <PageNumber>518</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Agate</Key>
-      <Forenames>J. D.</Forenames>
-      <PageNumber>3969</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Ager</Key>
-      <Forenames>K. G.</Forenames>
-      <PageNumber>204</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Ahern</Key>
-      <Forenames>D. M.</Forenames>
-      <PageNumber>3612</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>528</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ——</KeyDitto>
+        </Key>
+        <Forenames>E.J .</Forenames>
+        <PageNumber>3611</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ — ___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>M.K .</Forenames>
+        <PageNumber>871</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ —-</KeyDitto>
+        </Key>
+        <Text>M.P</Text>
+        <PageNumber>1225</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ —-</KeyDitto>
+        </Key>
+        <Forenames>P.G.</Forenames>
+        <PageNumber>3289</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>R.J.</Forenames>
+        <PageNumber>517</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>R.M.</Forenames>
+        <PageNumber>1221</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Adams-Cairns</Key>
+        <Forenames>I. M</Forenames>
+        <PageNumber>3287</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Adamson</Key>
+        <Forenames>G. A.</Forenames>
+        <PageNumber>506</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>R. V.</Forenames>
+        <PageNumber>204</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Addison</Key>
+        <Forenames>W.</Forenames>
+        <PageNumber>3970</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Addy</Key>
+        <Forenames>S.H.</Forenames>
+        <PageNumber>1213</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Adkins</Key>
+        <Forenames>D. W.</Forenames>
+        <PageNumber>506</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Adolph</Key>
+        <Forenames>M. P. N.</Forenames>
+        <PageNumber>216</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Afrin</Key>
+        <Forenames>M. M.</Forenames>
+        <PageNumber>518</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Agate</Key>
+        <Forenames>J. D.</Forenames>
+        <PageNumber>3969</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Ager</Key>
+        <Forenames>K. G.</Forenames>
+        <PageNumber>204</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Ahern</Key>
+        <Forenames>D. M.</Forenames>
+        <PageNumber>3612</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -341,7 +343,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Aitchison</Key>
-      <Forenames>C. W. De L.</Forenames>
+      <Forenames>C. W. De L</Forenames>
       <PageNumber>535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -358,7 +360,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D.L. ... .;</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1608,7 +1612,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ayee</Key>
-      <Text>P.C</Text>
+      <Text>
+        <Honour>P.C</Honour>
+      </Text>
       <PageNumber>2224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2280,7 +2286,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P.C</Text>
+      <Text>
+        <Honour>P.C</Honour>
+      </Text>
       <PageNumber>1558</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -386,9 +386,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Fraine</Forenames>
-      <Text>, F. W</Text>
+      <Key>De Fraine</Key>
+      <Forenames>F. W.</Forenames>
       <PageNumber>120</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,9 +400,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Garis</Forenames>
-      <Text>, D. R. W</Text>
+      <Key>De Garis</Key>
+      <Forenames>D. R. W.</Forenames>
       <PageNumber>124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,9 +431,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Malpas-Finlay</Forenames>
-      <Text>, M</Text>
+      <Key>De Malpas-Finlay</Key>
+      <Forenames>M.</Forenames>
       <PageNumber>381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,9 +487,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Rohan</Forenames>
-      <Text>, L. F</Text>
+      <Key>de Remusat</Key>
+      <Forenames>P. J. F. F. A.</Forenames>
+      <PageNumber>119</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Rohan</Key>
+      <Forenames>L. F.</Forenames>
       <PageNumber>921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -854,8 +857,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dodgson</Key>
-      <Forenames>H.</Forenames>
-      <Text>de S</Text>
+      <Forenames>H. de S</Forenames>
       <PageNumber>1216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2545,8 +2547,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fancourt</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. St. J</Forenames>
       <PageNumber>380</PageNumber>
     </MainItem>
   </ItemGroup>

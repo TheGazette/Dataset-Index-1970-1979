@@ -1042,7 +1042,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>P.C</Text>
+      <Text>
+        <Honour>P.C</Honour>
+      </Text>
       <PageNumber>9957</PageNumber>
       <PageNumber>11365</PageNumber>
     </MainItem>

@@ -515,7 +515,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodley</Key>
-      <Forenames>F. W. De M.</Forenames>
+      <Forenames>F. W. De M</Forenames>
       <PageNumber>21</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1064,6 +1064,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Berry</Key>
+      <Forenames>D. E.</Forenames>
+      <PageNumber>32</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Douglas</Key>
       <Forenames>S</Forenames>
       <PageNumber>3534</PageNumber>
@@ -1221,8 +1228,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leask</Key>
-      <Forenames>A.</Forenames>
-      <Text>de C. L</Text>
+      <Forenames>A. de C</Forenames>
+      <Text>. L</Text>
       <PageNumber>3534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1319,8 +1326,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, T. P</Text>
+      <Key>O'Brien</Key>
+      <Forenames>T. P.</Forenames>
       <PageNumber>31</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1465,8 +1472,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abraham</Key>
-      <Forenames>S. M. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>S. M. O'H</Forenames>
       <PageNumber>847</PageNumber>
     </MainItem>
   </ItemGroup>

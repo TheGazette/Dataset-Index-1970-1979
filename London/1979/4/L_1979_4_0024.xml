@@ -651,7 +651,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>N.</Forenames>
-      <Text>A.E</Text>
+      <Text>
+        <Honour>A.E</Honour>
+      </Text>
       <PageNumber>13566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -789,8 +791,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>M.St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M.St. J</Forenames>
       <PageNumber>15595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1008,8 +1009,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>H. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>H. O'H</Forenames>
       <PageNumber>12345</PageNumber>
     </MainItem>
   </ItemGroup>

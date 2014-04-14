@@ -1133,9 +1133,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Beer</Forenames>
-      <Text>, F. B. C</Text>
+      <Key>De Beer</Key>
+      <Forenames>F. B. C.</Forenames>
       <PageNumber>4612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1148,25 +1147,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Halpert</Forenames>
-      <Text>, J. M</Text>
+      <Key>De Halpert</Key>
+      <Forenames>J. M.</Forenames>
       <PageNumber>7259</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Hartog</Forenames>
-      <Text>, N. J</Text>
+      <Key>De Hartog</Key>
+      <Forenames>N. J.</Forenames>
       <PageNumber>7259</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Kruiff</Forenames>
-      <Text>, J</Text>
+      <Key>De Kruiff</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>7411</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1236,9 +1232,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vecchis</Forenames>
-      <Text>, B</Text>
+      <Key>De Vecchis</Key>
+      <Forenames>B.</Forenames>
       <PageNumber>7561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1961,8 +1956,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Drewitt</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. G. N</Text>
+      <Forenames>M. St. G</Forenames>
+      <Text>. N</Text>
       <PageNumber>5724</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -2444,8 +2444,8 @@
   <ItemGroup>
     <MainItem>
       <Key>More</Key>
-      <Forenames>O</Forenames>
-      <Text>'Ferrall, R. L. D. J</Text>
+      <Forenames>O'Ferrall</Forenames>
+      <Text>, R. L. D. J</Text>
       <PageNumber>1949</PageNumber>
     </MainItem>
   </ItemGroup>

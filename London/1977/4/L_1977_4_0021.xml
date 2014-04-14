@@ -648,106 +648,108 @@
     <MainItem>
       <Key>Haydock</Key>
       <Text>D.L</Text>
-      <PageNumber>13732</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Hayes</Key>
-      <Forenames>F. A.M.</Forenames>
-      <PageNumber>12783</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>G.J</Forenames>
-      <PageNumber>15888</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Hayman</Key>
-      <Forenames>E. I.</Forenames>
-      <PageNumber>13733</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>M.J</Forenames>
-      <PageNumber>13104</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Haynes</Key>
-      <Forenames>V.A.</Forenames>
-      <PageNumber>14022</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Hayward</Key>
-      <Forenames>W.J.</Forenames>
-      <PageNumber>13103</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Haywood</Key>
-      <Forenames>J. W.</Forenames>
-      <PageNumber>14934</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>N.R</Forenames>
-      <PageNumber>14026</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Hazel</Key>
-      <Forenames>D</Forenames>
-      <PageNumber>15570</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Hazlewood</Key>
-      <Forenames>H. G.</Forenames>
-      <PageNumber>14325</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Head</Key>
-      <Forenames>G.J. A.</Forenames>
-      <PageNumber>14618</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Headland</Key>
-      <Forenames>M. G.</Forenames>
-      <PageNumber>12506</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Heal</Key>
-      <Forenames>W.F.S.</Forenames>
-      <PageNumber>13104</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>13732</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Hayes</Key>
+        <Forenames>F. A.M.</Forenames>
+        <PageNumber>12783</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>G.J</Forenames>
+        <PageNumber>15888</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Hayman</Key>
+        <Forenames>E. I.</Forenames>
+        <PageNumber>13733</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>M.J</Forenames>
+        <PageNumber>13104</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Haynes</Key>
+        <Forenames>V.A.</Forenames>
+        <PageNumber>14022</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Hayward</Key>
+        <Forenames>W.J.</Forenames>
+        <PageNumber>13103</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Haywood</Key>
+        <Forenames>J. W.</Forenames>
+        <PageNumber>14934</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>N.R</Forenames>
+        <PageNumber>14026</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Hazel</Key>
+        <Forenames>D</Forenames>
+        <PageNumber>15570</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Hazlewood</Key>
+        <Forenames>H. G.</Forenames>
+        <PageNumber>14325</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Head</Key>
+        <Forenames>G.J. A.</Forenames>
+        <PageNumber>14618</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Headland</Key>
+        <Forenames>M. G.</Forenames>
+        <PageNumber>12506</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Heal</Key>
+        <Forenames>W.F.S.</Forenames>
+        <PageNumber>13104</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Hearmon</Key>
@@ -862,7 +864,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Heffill</Key>
-      <Text>D.L</Text>
+      <Text>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>12783</PageNumber>
     </MainItem>
   </ItemGroup>

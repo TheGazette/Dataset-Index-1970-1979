@@ -22,7 +22,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>^—R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,7 +391,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>K.G</Text>
+      <Text>
+        <Honour>K.G</Honour>
+      </Text>
       <PageNumber>653</PageNumber>
       <PageNumber>2330</PageNumber>
     </MainItem>
@@ -1004,7 +1008,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Khan</Key>
-      <Text>M.M</Text>
+      <Text>
+        <Honour>M.M</Honour>
+      </Text>
       <PageNumber>333</PageNumber>
       <PageNumber>989</PageNumber>
     </MainItem>
@@ -1056,8 +1062,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Killick</Key>
-      <Forenames>R. V. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. V. St. J</Forenames>
       <PageNumber>336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1240,8 +1245,8 @@
   <ItemGroup>
     <MainItem>
       <Key>King-Fretts</Key>
-      <Forenames>P. D. King-Harman</Forenames>
-      <Text>, A. W</Text>
+      <Forenames>P. D.</Forenames>
+      <Text>King-Harman, A. W</Text>
       <PageNumber>653</PageNumber>
       <PageNumber>2329</PageNumber>
     </MainItem>

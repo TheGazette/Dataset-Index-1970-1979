@@ -2133,17 +2133,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Maur Sheil</Forenames>
+      <Key>St. Maur</Key>
+      <Forenames>Sheil</Forenames>
       <Text>, J. W. M</Text>
       <PageNumber>8573</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Quinton</Forenames>
-      <Text>, E. A</Text>
+      <Key>St. Quinton</Key>
+      <Forenames>E. A.</Forenames>
       <PageNumber>11111</PageNumber>
     </MainItem>
   </ItemGroup>

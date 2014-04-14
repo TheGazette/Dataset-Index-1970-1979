@@ -1263,8 +1263,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coles</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>R. St. A</Forenames>
       <PageNumber>14022</PageNumber>
     </MainItem>
   </ItemGroup>

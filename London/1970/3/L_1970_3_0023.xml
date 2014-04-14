@@ -324,7 +324,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G.C. A</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>10347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -812,7 +814,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gorey</Key>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>8304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1775,102 +1779,104 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Text>M.D</Text>
-      <PageNumber>9422</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Guy</Key>
-      <Forenames>M. R.</Forenames>
-      <PageNumber>9680</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>R.C.</Forenames>
-      <PageNumber>9422</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>R. L.</Forenames>
-      <PageNumber>10345</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>R.N.</Forenames>
-      <PageNumber>8578</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Gwyn</Key>
-      <Forenames>R. T.</Forenames>
-      <PageNumber>9423</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Gwyther</Key>
-      <Forenames>H. L.</Forenames>
-      <PageNumber>7756</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Haden</Key>
-      <Forenames>A.P.</Forenames>
-      <PageNumber>9683</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Hadfield</Key>
-      <Forenames>J. M.</Forenames>
-      <PageNumber>9422</PageNumber>
-      <PageNumber>10346</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Hagen</Key>
-      <Forenames>M. C.</Forenames>
-      <PageNumber>10346</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Haggarth</Key>
-      <Forenames>B.</Forenames>
-      <PageNumber>10106</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Haigh</Key>
-      <Forenames>A.J.</Forenames>
-      <PageNumber>8303</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>A. P.</Forenames>
-      <PageNumber>10349</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>9422</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Guy</Key>
+        <Forenames>M. R.</Forenames>
+        <PageNumber>9680</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>R.C.</Forenames>
+        <PageNumber>9422</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>R. L.</Forenames>
+        <PageNumber>10345</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>R.N.</Forenames>
+        <PageNumber>8578</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Gwyn</Key>
+        <Forenames>R. T.</Forenames>
+        <PageNumber>9423</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Gwyther</Key>
+        <Forenames>H. L.</Forenames>
+        <PageNumber>7756</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Haden</Key>
+        <Forenames>A.P.</Forenames>
+        <PageNumber>9683</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Hadfield</Key>
+        <Forenames>J. M.</Forenames>
+        <PageNumber>9422</PageNumber>
+        <PageNumber>10346</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Hagen</Key>
+        <Forenames>M. C.</Forenames>
+        <PageNumber>10346</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Haggarth</Key>
+        <Forenames>B.</Forenames>
+        <PageNumber>10106</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Haigh</Key>
+        <Forenames>A.J.</Forenames>
+        <PageNumber>8303</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>A. P.</Forenames>
+        <PageNumber>10349</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>

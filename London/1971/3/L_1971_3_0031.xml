@@ -526,7 +526,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Nichols</Key>
-      <Text>L.G</Text>
+      <Text>
+        <Honour>L.G</Honour>
+      </Text>
       <PageNumber>10133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -940,8 +942,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, B</Text>
+      <Key>O'Brien</Key>
+      <Forenames>B.</Forenames>
       <PageNumber>7211</PageNumber>
       <PageNumber>8622</PageNumber>
     </MainItem>
@@ -975,22 +977,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, R</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>R.</Forenames>
       <PageNumber>8899</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, C. D</Text>
+      <Key>O'Connell</Key>
+      <Forenames>C. D.</Forenames>
       <PageNumber>8340</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, A. P</Text>
+      <Key>O'Connor</Key>
+      <Forenames>A. P.</Forenames>
       <PageNumber>9449</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1047,8 +1049,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Doherty, P. J</Text>
+      <Key>O'Doherty</Key>
+      <Forenames>P. J.</Forenames>
       <PageNumber>9663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1063,8 +1065,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, H. R</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>H. R.</Forenames>
       <PageNumber>8056</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1088,8 +1090,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dwyer, D</Text>
+      <Key>O'Dwyer</Key>
+      <Forenames>D.</Forenames>
       <PageNumber>8055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1125,30 +1127,31 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gorman, P. D. H</Text>
+      <Key>O'Gorman</Key>
+      <Forenames>P. D. H.</Forenames>
       <PageNumber>7497</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, A. P</Text>
+      <Key>O'Grady</Key>
+      <Forenames>A. P.</Forenames>
       <PageNumber>8054</PageNumber>
       <PageNumber>10131</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kelly, F. J</Text>
+      <Key>O'Kelly</Key>
+      <Forenames>F. J.</Forenames>
       <PageNumber>7490</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kelly de Conejera, P. T</Text>
+      <Key>O'Kelly</Key>
+      <Forenames>de Conejera</Forenames>
+      <Text>, P. T</Text>
       <PageNumber>7207</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1228,30 +1231,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Lone, R. D</Text>
+      <Key>O'Lone</Key>
+      <Forenames>R. D.</Forenames>
       <PageNumber>8337</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Morchoe, The</Text>
+      <Key>O'Morchoe</Key>
+      <Title>The</Title>
       <PageNumber>7203</PageNumber>
       <PageNumber>9658</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neil, T. N</Text>
+      <Key>O'Neil</Key>
+      <Forenames>T. N.</Forenames>
       <PageNumber>7206</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, Lord</Text>
+      <Key>O'Neill</Key>
+      <Title>Lord .</Title>
       <PageNumber>9657</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1275,8 +1278,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Prey, R. G</Text>
+      <Key>O'Prey</Key>
+      <Forenames>R. G.</Forenames>
       <PageNumber>9902</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1296,8 +1299,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Riordan, A. C</Text>
+      <Key>O'Riordan</Key>
+      <Forenames>A. C.</Forenames>
       <PageNumber>8617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1319,8 +1322,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rorke, B. R</Text>
+      <Key>O'Rorke</Key>
+      <Forenames>B. R.</Forenames>
       <PageNumber>7204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1402,15 +1405,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shaughnessy, F. W. G</Text>
+      <Key>O'Shaughnessy</Key>
+      <Forenames>F. W. G.</Forenames>
       <PageNumber>9186</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, D. K</Text>
+      <Key>O'Shea</Key>
+      <Forenames>D. K.</Forenames>
       <PageNumber>9659</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1744,7 +1747,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>O.M</Text>
+      <Text>
+        <Honour>O.M</Honour>
+      </Text>
       <PageNumber>8053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2009,7 +2014,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>8340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2399,7 +2406,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P.C</Text>
+      <Text>
+        <Honour>P.C</Honour>
+      </Text>
       <PageNumber>8051</PageNumber>
     </MainItem>
   </ItemGroup>

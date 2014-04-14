@@ -2283,8 +2283,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Ballance, M</Text>
+      <Key>O'Ballance</Key>
+      <Forenames>M.</Forenames>
       <PageNumber>371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2311,8 +2311,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, D. C. T</Text>
+      <Key>O'Brien</Key>
+      <Forenames>D. C. T.</Forenames>
       <PageNumber>375</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2336,8 +2336,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, M. R</Text>
+      <Key>O'Connell</Key>
+      <Forenames>M. R.</Forenames>
       <PageNumber>3635</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2352,8 +2352,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, G</Text>
+      <Key>O'Connor</Key>
+      <Forenames>G.</Forenames>
       <PageNumber>97</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2391,36 +2391,36 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donaghue, M</Text>
+      <Key>O'Donaghue</Key>
+      <Forenames>M.</Forenames>
       <PageNumber>93</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, T. E</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>T. E.</Forenames>
       <PageNumber>2985</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donovan, J. P. J</Text>
+      <Key>O'Donovan</Key>
+      <Forenames>J. P. J.</Forenames>
       <PageNumber>3639</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Driscoll, D</Text>
+      <Key>O'Driscoll</Key>
+      <Forenames>D.</Forenames>
       <PageNumber>2026</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dwyer-Russell, J. D</Text>
+      <Key>O'Dwyer-Russell</Key>
+      <Forenames>J. D.</Forenames>
       <PageNumber>102</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2447,8 +2447,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gorman, D. K. P</Text>
+      <Key>O'Gorman</Key>
+      <Forenames>D. K. P.</Forenames>
       <PageNumber>92</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2463,15 +2463,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gowan, C. D</Text>
+      <Key>O'Gowan</Key>
+      <Forenames>C. D.</Forenames>
       <PageNumber>371</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, D. P. C</Text>
+      <Key>O'Hagan</Key>
+      <Forenames>D. P. C.</Forenames>
       <PageNumber>1022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2484,8 +2484,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, J. D</Text>
+      <Key>O'Leary</Key>
+      <Forenames>J. D.</Forenames>
       <PageNumber>2987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2532,8 +2532,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, C</Text>
+      <Key>O'Neill</Key>
+      <Forenames>C.</Forenames>
       <PageNumber>2025</PageNumber>
       <PageNumber>3638</PageNumber>
     </MainItem>
@@ -2574,8 +2574,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, C</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>C</Forenames>
       <PageNumber>373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2690,8 +2690,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, S. E</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>S. E.</Forenames>
       <PageNumber>96</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2704,8 +2704,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Toole, E. H</Text>
+      <Key>O'Toole</Key>
+      <Forenames>E. H.</Forenames>
       <PageNumber>713</PageNumber>
     </MainItem>
   </ItemGroup>

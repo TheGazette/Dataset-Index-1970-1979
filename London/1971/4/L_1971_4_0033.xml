@@ -132,9 +132,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Merveldt</Forenames>
-      <Text>, J-D. M</Text>
+      <Key>Von Merveldt</Key>
+      <Text>J-D. M</Text>
       <PageNumber>12756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,8 +479,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waller</Key>
-      <Forenames>D.</Forenames>
-      <Text>de W</Text>
+      <Forenames>D. de W</Forenames>
       <PageNumber>11265</PageNumber>
     </MainItem>
   </ItemGroup>

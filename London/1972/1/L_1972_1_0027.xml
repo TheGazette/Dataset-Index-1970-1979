@@ -62,7 +62,9 @@
     <MainItem>
       <Key>Young</Key>
       <Forenames>John</Forenames>
-      <Text>(M.B.E.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>18</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -461,8 +463,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, J</Text>
+      <Key>O'Brien</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>1896</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -477,8 +479,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, M. J</Text>
+      <Key>O'Shea</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>1896</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1548,8 +1550,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Angel</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. St. J</Forenames>
       <PageNumber>2814</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2188,8 +2189,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bainbrigge</Key>
-      <Forenames>P.</Forenames>
-      <Text>de L</Text>
+      <Forenames>P. de L</Forenames>
       <PageNumber>2503</PageNumber>
     </MainItem>
   </ItemGroup>

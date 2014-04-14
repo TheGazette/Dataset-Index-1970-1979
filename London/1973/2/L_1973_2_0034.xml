@@ -335,8 +335,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Noot</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Noot</Forenames>
       <Text>, C. H</Text>
       <PageNumber>5459</PageNumber>
     </MainItem>
@@ -746,7 +746,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J. W.</Forenames>
-      <Text>, D.S.O., D.F.C, A.F.C</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6390</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2221,8 +2223,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnetson</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>R. St. C</Forenames>
       <PageNumber>4607</PageNumber>
     </MainItem>
   </ItemGroup>

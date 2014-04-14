@@ -356,7 +356,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>P.</Forenames>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>11559</PageNumber>
     </MainItem>
   </ItemGroup>

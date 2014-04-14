@@ -161,8 +161,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R. N. H. A.</Forenames>
-      <Text>de V</Text>
+      <Forenames>R. N. H. A. de V</Forenames>
       <PageNumber>5470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -591,164 +590,166 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Text>P.C</Text>
-      <PageNumber>5469</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>P.R.</Forenames>
-      <PageNumber>4416</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>R.M.</Forenames>
-      <PageNumber>6549</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>S.B.</Forenames>
-      <PageNumber>7756</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>W. G. C.</Forenames>
-      <PageNumber>5890</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Watts</Key>
-      <Forenames>J. G.</Forenames>
-      <PageNumber>5476</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>J.H.</Forenames>
-      <PageNumber>5896</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>J.W.</Forenames>
-      <PageNumber>4416</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>R.N.</Forenames>
-      <PageNumber>4727</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>T. E. A.</Forenames>
-      <PageNumber>4725</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Waugh</Key>
-      <Forenames>P.</Forenames>
-      <PageNumber>5470</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Wavell</Key>
-      <Forenames>M. D.</Forenames>
-      <PageNumber>5464</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Waygood</Key>
-      <Forenames>L. A.</Forenames>
-      <PageNumber>6835</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Weare</Key>
-      <Forenames>R. M.</Forenames>
-      <PageNumber>4725</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Weaver</Key>
-      <Forenames>J. C.</Forenames>
-      <PageNumber>7142</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Weavill</Key>
-      <Forenames>A. D.</Forenames>
-      <PageNumber>5896</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Webb</Key>
-      <Forenames>A. J.</Forenames>
-      <PageNumber>7139</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>A.K.</Forenames>
-      <PageNumber>4407</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>B.M.</Forenames>
-      <PageNumber>5465</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Text>K.T</Text>
-      <PageNumber>4730</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>5469</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>P.R.</Forenames>
+        <PageNumber>4416</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>R.M.</Forenames>
+        <PageNumber>6549</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>S.B.</Forenames>
+        <PageNumber>7756</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>W. G. C.</Forenames>
+        <PageNumber>5890</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Watts</Key>
+        <Forenames>J. G.</Forenames>
+        <PageNumber>5476</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>J.H.</Forenames>
+        <PageNumber>5896</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>J.W.</Forenames>
+        <PageNumber>4416</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>R.N.</Forenames>
+        <PageNumber>4727</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>T. E. A.</Forenames>
+        <PageNumber>4725</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Waugh</Key>
+        <Forenames>P.</Forenames>
+        <PageNumber>5470</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Wavell</Key>
+        <Forenames>M. D.</Forenames>
+        <PageNumber>5464</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Waygood</Key>
+        <Forenames>L. A.</Forenames>
+        <PageNumber>6835</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Weare</Key>
+        <Forenames>R. M.</Forenames>
+        <PageNumber>4725</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Weaver</Key>
+        <Forenames>J. C.</Forenames>
+        <PageNumber>7142</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Weavill</Key>
+        <Forenames>A. D.</Forenames>
+        <PageNumber>5896</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Webb</Key>
+        <Forenames>A. J.</Forenames>
+        <PageNumber>7139</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>A.K.</Forenames>
+        <PageNumber>4407</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>B.M.</Forenames>
+        <PageNumber>5465</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Text>K.T</Text>
+        <PageNumber>4730</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -786,8 +787,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Webster</Key>
-      <Forenames>A.</Forenames>
-      <Text>de G</Text>
+      <Forenames>A. de G</Forenames>
       <PageNumber>5473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2277,7 +2277,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Worden</Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>6554</PageNumber>
     </MainItem>
   </ItemGroup>

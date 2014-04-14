@@ -1083,7 +1083,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Messel</Key>
-      <Text>L.T. DeC</Text>
+      <Text>
+        <Honour>L.T.</Honour>
+      </Text>
       <PageNumber>9396</PageNumber>
     </MainItem>
   </ItemGroup>

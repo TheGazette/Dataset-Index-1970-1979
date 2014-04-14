@@ -642,7 +642,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Goodger</Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>7145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1424,7 +1426,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gyde</Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>7454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1724,7 +1728,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>4404</PageNumber>
     </MainItem>
   </ItemGroup>

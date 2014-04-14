@@ -2071,7 +2071,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sneller</Key>
-      <Text>KG</Text>
+      <Text>
+        <Honour>KG</Honour>
+      </Text>
       <PageNumber>5212</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2555,8 +2557,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>J. G.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>G.</Forenames>
       <PageNumber>6972</PageNumber>
     </MainItem>
   </ItemGroup>

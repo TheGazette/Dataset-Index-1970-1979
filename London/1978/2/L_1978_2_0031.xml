@@ -429,7 +429,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowe</Key>
-      <Text>G.C. K</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>4403</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -541,7 +543,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>D.</Forenames>
-      <Text>P.C</Text>
+      <Text>
+        <Honour>P.C</Honour>
+      </Text>
       <PageNumber>7453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2114,7 +2118,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M.C. K</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7134</PageNumber>
     </MainItem>
   </ItemGroup>

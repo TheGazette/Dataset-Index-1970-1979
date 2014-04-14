@@ -164,8 +164,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rooke</Key>
-      <Forenames>P. B.</Forenames>
-      <Text>de T</Text>
+      <Forenames>P. B. de T</Forenames>
       <PageNumber>9448</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -784,17 +783,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Aubyn</Forenames>
-      <Text>, B. J</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>B. J.</Forenames>
       <PageNumber>7208</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Aubyn-Sayer</Forenames>
-      <Text>, J. H</Text>
+      <Key>St. Aubyn-Sayer</Key>
+      <Forenames>J. H.</Forenames>
       <PageNumber>7489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1249,7 +1246,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>10129</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -139,7 +139,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Darell</Key>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>15574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,6 +546,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Beaufort</Key>
+      <Forenames>Suchlick</Forenames>
+      <Text>, J</Text>
+      <PageNumber>12781</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Debenham</Key>
       <Forenames>B. C.</Forenames>
       <PageNumber>13104</PageNumber>
@@ -609,17 +619,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Mattos</Forenames>
-      <Text>, C. R</Text>
+      <Key>De Mattos</Key>
+      <Forenames>C. R.</Forenames>
       <PageNumber>13732</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Mendonca</Forenames>
-      <Text>, R. A. J</Text>
+      <Key>De Mendonca</Key>
+      <Forenames>R. A. J.</Forenames>
       <PageNumber>13731</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -688,9 +696,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Stacpoole</Forenames>
-      <Text>, D. H</Text>
+      <Key>De Stacpoole</Key>
+      <Forenames>D. H.</Forenames>
       <PageNumber>15227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -889,7 +896,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Diprose</Key>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>15892</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2274,8 +2283,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Feeney</Key>
-      <Forenames>E. J. O</Forenames>
-      <Text>'R</Text>
+      <Forenames>E. J. O'R</Forenames>
       <PageNumber>13426</PageNumber>
     </MainItem>
   </ItemGroup>

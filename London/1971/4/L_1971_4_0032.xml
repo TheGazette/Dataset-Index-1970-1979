@@ -1456,7 +1456,9 @@
       <Key>
         <KeyDitto>___ ___ -</KeyDitto>
       </Key>
-      <Text>A.E. G</Text>
+      <Text>
+        <Honour>A.E.</Honour>
+      </Text>
       <PageNumber>12757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2747,18 +2749,24 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Blommestein</Forenames>
-      <Text>, V. C.,</Text>
+      <Key>Van Blommestein</Key>
+      <Forenames>V. C.</Forenames>
+      <Text>,</Text>
       <PageNumber>10680</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Dongen</Forenames>
-      <Text>, P. G</Text>
+      <Key>Van Dongen</Key>
+      <Forenames>P. G.</Forenames>
       <PageNumber>13055</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>van Lessen</Key>
+      <Forenames>M. D.</Forenames>
+      <PageNumber>12756</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

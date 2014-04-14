@@ -731,8 +731,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McLaughlin</Key>
-      <Forenames>F. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>F. O'D</Forenames>
       <PageNumber>2341</PageNumber>
     </MainItem>
   </ItemGroup>

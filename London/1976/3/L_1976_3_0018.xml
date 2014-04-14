@@ -234,7 +234,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>12206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -870,7 +872,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Burvill</Key>
-      <Text>G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>12488</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1381,7 +1385,9 @@
       <Key>
         <KeyDitto>___ ___ ___ -—</KeyDitto>
       </Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>11252</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2453,8 +2459,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collin</Key>
-      <Forenames>G.</Forenames>
-      <Text>de E</Text>
+      <Forenames>G. de E</Forenames>
       <PageNumber>10601</PageNumber>
       <PageNumber>11908</PageNumber>
     </MainItem>

@@ -1262,167 +1262,169 @@
     <MainItem>
       <Key>Skliros</Key>
       <Text>M.P</Text>
-      <PageNumber>14028</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Slade</Key>
-      <Forenames>J. A</Forenames>
-      <PageNumber>13732</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>S. H</Forenames>
-      <PageNumber>14025</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Slater</Key>
-      <Forenames>E. A.</Forenames>
-      <PageNumber>14618</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>G.J.</Forenames>
-      <PageNumber>13730</PageNumber>
-      <PageNumber>14023</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>S.E.</Forenames>
-      <PageNumber>13104</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>V.M.</Forenames>
-      <PageNumber>14615</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Slatter</Key>
-      <Forenames>H. A.</Forenames>
-      <PageNumber>14322</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Slaughter</Key>
-      <Forenames>C.</Forenames>
-      <PageNumber>13730</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>F.W.</Forenames>
-      <PageNumber>15231</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Slocombe</Key>
-      <Forenames>A. B.</Forenames>
-      <PageNumber>14022</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Small</Key>
-      <Forenames>G.I.</Forenames>
-      <PageNumber>13099</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Smalley</Key>
-      <Forenames>P. H.</Forenames>
-      <PageNumber>12503</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Smart</Key>
-      <Forenames>M. A. A.</Forenames>
-      <PageNumber>12504</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Smee</Key>
-      <Forenames>B. F. R.</Forenames>
-      <PageNumber>13430</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Smethurst</Key>
-      <Forenames>J. R.</Forenames>
-      <PageNumber>15891</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Smillie</Key>
-      <Forenames>A. G.</Forenames>
-      <PageNumber>15227</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Smith</Key>
-      <Forenames>A.</Forenames>
-      <PageNumber>13735</PageNumber>
-      <PageNumber>15573</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>A. J.</Forenames>
-      <PageNumber>13103</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>B.</Forenames>
-      <PageNumber>13735</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>C.C.</Forenames>
-      <PageNumber>14611</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>14028</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Slade</Key>
+        <Forenames>J. A</Forenames>
+        <PageNumber>13732</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>S. H</Forenames>
+        <PageNumber>14025</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Slater</Key>
+        <Forenames>E. A.</Forenames>
+        <PageNumber>14618</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>G.J.</Forenames>
+        <PageNumber>13730</PageNumber>
+        <PageNumber>14023</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>S.E.</Forenames>
+        <PageNumber>13104</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>V.M.</Forenames>
+        <PageNumber>14615</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Slatter</Key>
+        <Forenames>H. A.</Forenames>
+        <PageNumber>14322</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Slaughter</Key>
+        <Forenames>C.</Forenames>
+        <PageNumber>13730</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>F.W.</Forenames>
+        <PageNumber>15231</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Slocombe</Key>
+        <Forenames>A. B.</Forenames>
+        <PageNumber>14022</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Small</Key>
+        <Forenames>G.I.</Forenames>
+        <PageNumber>13099</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Smalley</Key>
+        <Forenames>P. H.</Forenames>
+        <PageNumber>12503</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Smart</Key>
+        <Forenames>M. A. A.</Forenames>
+        <PageNumber>12504</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Smee</Key>
+        <Forenames>B. F. R.</Forenames>
+        <PageNumber>13430</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Smethurst</Key>
+        <Forenames>J. R.</Forenames>
+        <PageNumber>15891</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Smillie</Key>
+        <Forenames>A. G.</Forenames>
+        <PageNumber>15227</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Smith</Key>
+        <Forenames>A.</Forenames>
+        <PageNumber>13735</PageNumber>
+        <PageNumber>15573</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>A. J.</Forenames>
+        <PageNumber>13103</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>B.</Forenames>
+        <PageNumber>13735</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>C.C.</Forenames>
+        <PageNumber>14611</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>

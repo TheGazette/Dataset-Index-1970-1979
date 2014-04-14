@@ -52,7 +52,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Giles</Key>
-      <Text>C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>13890</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -780,7 +782,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>W.</Forenames>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>15602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1783,124 +1787,126 @@
     <MainItem>
       <Key>Hammick</Key>
       <Text>M.P</Text>
-      <PageNumber>13567</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>V.R</Forenames>
-      <PageNumber>16168</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Hammond</Key>
-      <Forenames>J. L.</Forenames>
-      <PageNumber>12648</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>T.T</Forenames>
-      <PageNumber>14237</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Hamper</Key>
-      <Forenames>K.J.</Forenames>
-      <PageNumber>14934</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Hampson</Key>
-      <Forenames>P.T.</Forenames>
-      <PageNumber>13897</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Hancock</Key>
-      <Forenames>F. A.</Forenames>
-      <PageNumber>14932</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>J.L</Forenames>
-      <PageNumber>13576</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Handley</Key>
-      <Forenames>N</Forenames>
-      <PageNumber>12346</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Handy</Key>
-      <Forenames>N.J</Forenames>
-      <PageNumber>13898</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Hanks</Key>
-      <Forenames>B.H.R.</Forenames>
-      <PageNumber>13575</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Hanley</Key>
-      <Forenames>A.J</Forenames>
-      <PageNumber>15605</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>A. J.H</Forenames>
-      <PageNumber>14935</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>G.A</Forenames>
-      <PageNumber>13895</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>HanIon</Key>
-      <Forenames>T</Forenames>
-      <PageNumber>16163</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Hann</Key>
-      <Forenames>M.P</Forenames>
-      <PageNumber>14243</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>13567</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>V.R</Forenames>
+        <PageNumber>16168</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Hammond</Key>
+        <Forenames>J. L.</Forenames>
+        <PageNumber>12648</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>T.T</Forenames>
+        <PageNumber>14237</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Hamper</Key>
+        <Forenames>K.J.</Forenames>
+        <PageNumber>14934</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Hampson</Key>
+        <Forenames>P.T.</Forenames>
+        <PageNumber>13897</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Hancock</Key>
+        <Forenames>F. A.</Forenames>
+        <PageNumber>14932</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>J.L</Forenames>
+        <PageNumber>13576</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Handley</Key>
+        <Forenames>N</Forenames>
+        <PageNumber>12346</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Handy</Key>
+        <Forenames>N.J</Forenames>
+        <PageNumber>13898</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Hanks</Key>
+        <Forenames>B.H.R.</Forenames>
+        <PageNumber>13575</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Hanley</Key>
+        <Forenames>A.J</Forenames>
+        <PageNumber>15605</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>A. J.H</Forenames>
+        <PageNumber>14935</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>G.A</Forenames>
+        <PageNumber>13895</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>HanIon</Key>
+        <Forenames>T</Forenames>
+        <PageNumber>16163</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Hann</Key>
+        <Forenames>M.P</Forenames>
+        <PageNumber>14243</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Hanna</Key>

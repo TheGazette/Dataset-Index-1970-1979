@@ -1261,8 +1261,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawson</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. St. G</Forenames>
       <PageNumber>7754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1464,6 +1463,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Garr</Key>
+      <Forenames>Wilkinson</Forenames>
+      <Text>, P</Text>
+      <PageNumber>10351</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dell</Key>
       <Forenames>R. F</Forenames>
       <PageNumber>10347</PageNumber>
@@ -1552,6 +1559,13 @@
       <Forenames>Forges</Forenames>
       <Text>, H. J</Text>
       <PageNumber>8303</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Torre</Key>
+      <Forenames>M. E.</Forenames>
+      <PageNumber>9428</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2146,7 +2160,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>8859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2606,39 +2622,41 @@
       <Key>Durie</Key>
       <Forenames>I.</Forenames>
       <Text>G.C</Text>
-      <PageNumber>8578</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Dumford</Key>
-      <Forenames>C.</Forenames>
-      <PageNumber>9878</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Durose</Key>
-      <Forenames>B. W.</Forenames>
-      <PageNumber>7755</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>C.G.</Forenames>
-      <PageNumber>9885</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Dursley</Key>
-      <Forenames>C. A. H.</Forenames>
-      <PageNumber>9421</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>8578</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Dumford</Key>
+        <Forenames>C.</Forenames>
+        <PageNumber>9878</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Durose</Key>
+        <Forenames>B. W.</Forenames>
+        <PageNumber>7755</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>C.G.</Forenames>
+        <PageNumber>9885</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Dursley</Key>
+        <Forenames>C. A. H.</Forenames>
+        <PageNumber>9421</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Duthie</Key>

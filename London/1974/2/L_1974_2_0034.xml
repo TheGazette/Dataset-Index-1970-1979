@@ -2138,8 +2138,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, F. C</Text>
+      <Key>O'Brien</Key>
+      <Forenames>F. C.</Forenames>
       <PageNumber>5850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2170,36 +2170,36 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, P</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>P.</Forenames>
       <PageNumber>4824</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donoghue, M</Text>
+      <Key>O'Donoghue</Key>
+      <Forenames>M.</Forenames>
       <PageNumber>5055</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donovan, J. P. J</Text>
+      <Key>O'Donovan</Key>
+      <Forenames>J. P. J.</Forenames>
       <PageNumber>6866</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Driscoll, J. F</Text>
+      <Key>O'Driscoll</Key>
+      <Forenames>J. F.</Forenames>
       <PageNumber>4281</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, N. J</Text>
+      <Key>O'Connor</Key>
+      <Forenames>N. J.</Forenames>
       <PageNumber>5848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2233,8 +2233,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keeffe, C</Text>
+      <Key>O'Keeffe</Key>
+      <Forenames>C.</Forenames>
       <PageNumber>4819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2317,8 +2317,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Regan, P. K</Text>
+      <Key>O'Regan</Key>
+      <Forenames>P. K.</Forenames>
       <PageNumber>6866</PageNumber>
     </MainItem>
   </ItemGroup>

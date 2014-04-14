@@ -1930,8 +1930,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Malan</Key>
-      <Forenames>V. C.</Forenames>
-      <Text>de R</Text>
+      <Forenames>V. C. de R</Forenames>
       <PageNumber>6643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2367,8 +2366,7 @@
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>P. L.</Forenames>
-      <Text>de C</Text>
+      <Forenames>P. L. de C</Forenames>
       <PageNumber>4530</PageNumber>
       <PageNumber>3893</PageNumber>
     </MainItem>

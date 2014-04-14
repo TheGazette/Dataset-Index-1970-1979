@@ -1112,8 +1112,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Firidlay</Key>
-      <Forenames>M.</Forenames>
-      <Text>de R</Text>
+      <Forenames>M. de R</Forenames>
       <PageNumber>11561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2508,7 +2507,9 @@
       <Key>
         <KeyDitto>___ ___ -</KeyDitto>
       </Key>
-      <Text>M.D. E</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>13364</PageNumber>
     </MainItem>
   </ItemGroup>

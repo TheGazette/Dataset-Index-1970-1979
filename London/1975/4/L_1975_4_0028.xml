@@ -133,7 +133,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Koder</Key>
-      <Text>P.C</Text>
+      <Text>
+        <Honour>P.C</Honour>
+      </Text>
       <PageNumber>16375</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,7 +215,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Laing</Key>
-      <Text>O.M</Text>
+      <Text>
+        <Honour>O.M</Honour>
+      </Text>
       <PageNumber>13543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,7 +599,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>16297</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,8 +660,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leask</Key>
-      <Forenames>A.</Forenames>
-      <Text>de C L</Text>
+      <Forenames>A. de C L.</Forenames>
       <PageNumber>16371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1078,7 +1083,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>O.M</Text>
+      <Text>
+        <Honour>O.M</Honour>
+      </Text>
       <PageNumber>14941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1257,7 +1264,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lloyd</Key>
-      <Text>G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>16302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2193,7 +2202,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>15647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2303,7 +2314,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackay-Scobie</Key>
-      <Forenames>E. De C.</Forenames>
+      <Forenames>E. De C</Forenames>
       <PageNumber>12843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2402,7 +2413,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>13541</PageNumber>
     </MainItem>
   </ItemGroup>

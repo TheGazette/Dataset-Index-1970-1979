@@ -1168,6 +1168,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>von Baumann</Key>
+      <Forenames>A. G.</Forenames>
+      <PageNumber>11770</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Vracas</Key>
       <Forenames>B. H.</Forenames>
       <PageNumber>12646</PageNumber>

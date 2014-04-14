@@ -10,8 +10,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirke</Key>
-      <Forenames>C. M. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>C. M. St. G</Forenames>
       <PageNumber>2252</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1631,8 +1630,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>H. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>H. O'H</Forenames>
       <PageNumber>3121</PageNumber>
     </MainItem>
   </ItemGroup>

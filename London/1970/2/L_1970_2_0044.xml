@@ -430,8 +430,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Penn-Gaskell</Key>
-      <Forenames>L.</Forenames>
-      <Text>de N. W</Text>
+      <Forenames>L. de N</Forenames>
+      <Text>. W</Text>
       <PageNumber>7184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -565,8 +565,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>C. H. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>C. H. St. J</Forenames>
       <PageNumber>5039</PageNumber>
     </MainItem>
   </ItemGroup>

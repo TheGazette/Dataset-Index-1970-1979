@@ -248,8 +248,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>R. I. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. I. St. J</Forenames>
       <PageNumber>12238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -317,23 +316,25 @@
       <Key>Welch</Key>
       <Forenames>A. C. D</Forenames>
       <Text>Wells,R.D</Text>
-      <PageNumber>11935</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Welsh</Key>
-      <Forenames>A. C.</Forenames>
-      <PageNumber>11641</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>West</Key>
-      <Forenames>C. D. P.</Forenames>
-      <PageNumber>11644</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>11935</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Welsh</Key>
+        <Forenames>A. C.</Forenames>
+        <PageNumber>11641</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>West</Key>
+        <Forenames>C. D. P.</Forenames>
+        <PageNumber>11644</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -512,8 +513,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whidborne</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. St. J</Forenames>
       <PageNumber>8372</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -771,7 +771,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitlock</Key>
-      <Text>P.C</Text>
+      <Text>
+        <Honour>P.C</Honour>
+      </Text>
       <PageNumber>12234</PageNumber>
     </MainItem>
   </ItemGroup>

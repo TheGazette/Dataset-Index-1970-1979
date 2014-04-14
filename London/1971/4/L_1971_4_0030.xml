@@ -1419,8 +1419,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ramsden</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. J. D</Text>
+      <Forenames>N. St. J</Forenames>
+      <Text>. D</Text>
       <PageNumber>12146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1962,8 +1962,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>P. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>P. St. J</Forenames>
       <PageNumber>13955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2410,7 +2409,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>M.M. A</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>12760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2426,7 +2427,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D.L</Text>
+      <Text>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>10676</PageNumber>
     </MainItem>
   </ItemGroup>

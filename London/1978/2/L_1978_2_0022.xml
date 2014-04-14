@@ -1750,7 +1750,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>4729</PageNumber>
     </MainItem>
   </ItemGroup>

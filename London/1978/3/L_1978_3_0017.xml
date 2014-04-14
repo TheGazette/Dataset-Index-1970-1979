@@ -1398,8 +1398,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gore</Key>
-      <Forenames>D.St</Forenames>
-      <Text>. J. M</Text>
+      <Forenames>D.St. J</Forenames>
+      <Text>. M</Text>
       <PageNumber>10366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1429,7 +1429,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gostick</Key>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>9488</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1569,311 +1571,313 @@
       <Key>Grant</Key>
       <Forenames>De Longueuil</Forenames>
       <Text>, M.C</Text>
-      <PageNumber>10126</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Grassie</Key>
-      <Forenames>J. T.</Forenames>
-      <PageNumber>9819</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Gratwicke</Key>
-      <Forenames>E. M.</Forenames>
-      <PageNumber>8619</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Graves</Key>
-      <Forenames>A.</Forenames>
-      <PageNumber>10363</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Gray</Key>
-      <Forenames>D.A.</Forenames>
-      <PageNumber>8616</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>D.B.</Forenames>
-      <PageNumber>8614</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>G.</Forenames>
-      <PageNumber>8619</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>R.K.</Forenames>
-      <PageNumber>9492</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Grayson</Key>
-      <Forenames>R. J.</Forenames>
-      <PageNumber>10619</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Greaves</Key>
-      <Forenames>E. A.</Forenames>
-      <PageNumber>9492</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Green</Key>
-      <Forenames>A. A.</Forenames>
-      <PageNumber>8914</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>D. R. M.</Forenames>
-      <PageNumber>10368</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>E.C.</Forenames>
-      <PageNumber>10369</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>N.D.</Forenames>
-      <PageNumber>8910</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Text>R.D</Text>
-      <PageNumber>8321</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>R.E.</Forenames>
-      <PageNumber>8915</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___</KeyDitto>
-      </Key>
-      <Forenames>R. L. S.</Forenames>
-      <PageNumber>8324</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>S.M.</Forenames>
-      <PageNumber>8328</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Greening</Key>
-      <Forenames>P. W.</Forenames>
-      <PageNumber>10371</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Greenway</Key>
-      <Forenames>T. C.</Forenames>
-      <PageNumber>9819</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Greenwood</Key>
-      <Forenames>A. G.</Forenames>
-      <PageNumber>9490</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Gregory</Key>
-      <Forenames>N. R.</Forenames>
-      <PageNumber>8626</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Gregson</Key>
-      <Forenames>B. P.</Forenames>
-      <PageNumber>10368</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Grenier</Key>
-      <Forenames>J. M.</Forenames>
-      <PageNumber>8616</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Grey</Key>
-      <Forenames>A.J.</Forenames>
-      <PageNumber>8326</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Grierson</Key>
-      <Forenames>J. A.</Forenames>
-      <PageNumber>10125</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Grieve</Key>
-      <Forenames>R. V. E.</Forenames>
-      <PageNumber>8328</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Griffin</Key>
-      <Forenames>C.</Forenames>
-      <PageNumber>8334</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>R. F. E.</Forenames>
-      <PageNumber>9816</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___</KeyDitto>
-      </Key>
-      <Forenames>S.</Forenames>
-      <PageNumber>10621</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Griffiths</Key>
-      <Forenames>D. L.</Forenames>
-      <PageNumber>8644</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>—— ___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>P. A.</Forenames>
-      <PageNumber>9493</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>R.</Forenames>
-      <PageNumber>9823</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>R. F.</Forenames>
-      <PageNumber>8627</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___</KeyDitto>
-      </Key>
-      <Forenames>R.H.</Forenames>
-      <PageNumber>8624</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___</KeyDitto>
-      </Key>
-      <Forenames>S.G.</Forenames>
-      <PageNumber>8624</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>W.</Forenames>
-      <PageNumber>8625</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Grimer</Key>
-      <Forenames>J. O.</Forenames>
-      <PageNumber>9823</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Grimshaw</Key>
-      <Forenames>K. B.</Forenames>
-      <PageNumber>8325</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>10126</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Grassie</Key>
+        <Forenames>J. T.</Forenames>
+        <PageNumber>9819</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Gratwicke</Key>
+        <Forenames>E. M.</Forenames>
+        <PageNumber>8619</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Graves</Key>
+        <Forenames>A.</Forenames>
+        <PageNumber>10363</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Gray</Key>
+        <Forenames>D.A.</Forenames>
+        <PageNumber>8616</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>D.B.</Forenames>
+        <PageNumber>8614</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>G.</Forenames>
+        <PageNumber>8619</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>R.K.</Forenames>
+        <PageNumber>9492</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Grayson</Key>
+        <Forenames>R. J.</Forenames>
+        <PageNumber>10619</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Greaves</Key>
+        <Forenames>E. A.</Forenames>
+        <PageNumber>9492</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Green</Key>
+        <Forenames>A. A.</Forenames>
+        <PageNumber>8914</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>D. R. M.</Forenames>
+        <PageNumber>10368</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>E.C.</Forenames>
+        <PageNumber>10369</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>N.D.</Forenames>
+        <PageNumber>8910</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Text>R.D</Text>
+        <PageNumber>8321</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>R.E.</Forenames>
+        <PageNumber>8915</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___</KeyDitto>
+        </Key>
+        <Forenames>R. L. S.</Forenames>
+        <PageNumber>8324</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>S.M.</Forenames>
+        <PageNumber>8328</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Greening</Key>
+        <Forenames>P. W.</Forenames>
+        <PageNumber>10371</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Greenway</Key>
+        <Forenames>T. C.</Forenames>
+        <PageNumber>9819</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Greenwood</Key>
+        <Forenames>A. G.</Forenames>
+        <PageNumber>9490</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Gregory</Key>
+        <Forenames>N. R.</Forenames>
+        <PageNumber>8626</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Gregson</Key>
+        <Forenames>B. P.</Forenames>
+        <PageNumber>10368</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Grenier</Key>
+        <Forenames>J. M.</Forenames>
+        <PageNumber>8616</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Grey</Key>
+        <Forenames>A.J.</Forenames>
+        <PageNumber>8326</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Grierson</Key>
+        <Forenames>J. A.</Forenames>
+        <PageNumber>10125</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Grieve</Key>
+        <Forenames>R. V. E.</Forenames>
+        <PageNumber>8328</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Griffin</Key>
+        <Forenames>C.</Forenames>
+        <PageNumber>8334</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>R. F. E.</Forenames>
+        <PageNumber>9816</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___</KeyDitto>
+        </Key>
+        <Forenames>S.</Forenames>
+        <PageNumber>10621</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Griffiths</Key>
+        <Forenames>D. L.</Forenames>
+        <PageNumber>8644</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>—— ___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>P. A.</Forenames>
+        <PageNumber>9493</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>R.</Forenames>
+        <PageNumber>9823</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>R. F.</Forenames>
+        <PageNumber>8627</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___</KeyDitto>
+        </Key>
+        <Forenames>R.H.</Forenames>
+        <PageNumber>8624</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___</KeyDitto>
+        </Key>
+        <Forenames>S.G.</Forenames>
+        <PageNumber>8624</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>W.</Forenames>
+        <PageNumber>8625</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Grimer</Key>
+        <Forenames>J. O.</Forenames>
+        <PageNumber>9823</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Grimshaw</Key>
+        <Forenames>K. B.</Forenames>
+        <PageNumber>8325</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Grist</Key>
@@ -2102,7 +2106,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>8322</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2377,7 +2383,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Handley</Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>8323</PageNumber>
     </MainItem>
   </ItemGroup>

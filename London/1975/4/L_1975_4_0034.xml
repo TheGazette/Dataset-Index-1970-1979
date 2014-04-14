@@ -151,7 +151,9 @@
       <Key>
         <KeyDitto>——</KeyDitto>
       </Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>12839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,7 +241,9 @@
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
       <Forenames>K.</Forenames>
-      <Text>M.M. .. :::</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>13545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -323,7 +327,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>T—-.M.D. A</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>14948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -774,7 +780,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Welham</Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>13540</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1562,7 +1570,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilmot</Key>
-      <Text>C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>13886</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1761,7 +1771,9 @@
         <KeyDitto>___ ___ -—</KeyDitto>
       </Key>
       <Forenames>R.M.</Forenames>
-      <Text>... ... Winkley.D.L</Text>
+      <Text>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>14949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2004,7 +2016,9 @@
     <MainItem>
       <Key>Wooding</Key>
       <Forenames>G.</Forenames>
-      <Text>P.C</Text>
+      <Text>
+        <Honour>P.C</Honour>
+      </Text>
       <PageNumber>13175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2091,7 +2105,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Woolley</Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>12845</PageNumber>
     </MainItem>
   </ItemGroup>

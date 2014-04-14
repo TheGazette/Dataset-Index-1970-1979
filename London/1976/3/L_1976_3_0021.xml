@@ -279,7 +279,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fulker</Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>10274</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -790,7 +792,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gedge</Key>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>9590</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1166,7 +1170,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillen</Key>
-      <Text>M.M</Text>
+      <Text>
+        <Honour>M.M</Honour>
+      </Text>
       <PageNumber>12495</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1346,7 +1352,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>12488</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2362,7 +2370,9 @@
       <Key>
         <KeyDitto>___ -—</KeyDitto>
       </Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>10602</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -233,8 +233,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunter</Key>
-      <Forenames>A. J.</Forenames>
-      <Text>de C</Text>
+      <Forenames>A. J. de C</Forenames>
       <PageNumber>5210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1626,8 +1625,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Killick</Key>
-      <Forenames>R. V. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. V. St. J</Forenames>
       <PageNumber>4641</PageNumber>
     </MainItem>
   </ItemGroup>

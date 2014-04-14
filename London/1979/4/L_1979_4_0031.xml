@@ -492,7 +492,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>13905</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1001,8 +1003,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>P. St</Forenames>
-      <Text>. J. G</Text>
+      <Forenames>P. St. J</Forenames>
+      <Text>. G</Text>
       <PageNumber>12646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1543,7 +1545,9 @@
     <MainItem>
       <Key>Winicott</Key>
       <Forenames>H. B.</Forenames>
-      <Text>see Winnicott, H B Winidey.D.L</Text>
+      <Text>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>13907</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2184,7 +2188,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyllie</Key>
-      <Text>M.M</Text>
+      <Text>
+        <Honour>M.M</Honour>
+      </Text>
       <PageNumber>13893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2249,8 +2255,7 @@
       <Key>
         <KeyDitto>___ ___ -</KeyDitto>
       </Key>
-      <Forenames>N.C.St</Forenames>
-      <Text>. J</Text>
+      <Forenames>N.C.St. J</Forenames>
       <PageNumber>13565</PageNumber>
     </MainItem>
   </ItemGroup>

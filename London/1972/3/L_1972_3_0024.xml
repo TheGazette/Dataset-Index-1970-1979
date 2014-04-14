@@ -2535,8 +2535,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burcher</Key>
-      <Forenames>P.</Forenames>
-      <Text>de L</Text>
+      <Forenames>P. de L</Forenames>
       <PageNumber>8857</PageNumber>
     </MainItem>
   </ItemGroup>

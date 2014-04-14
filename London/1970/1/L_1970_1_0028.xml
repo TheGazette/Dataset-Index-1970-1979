@@ -202,8 +202,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coldicott</Key>
-      <Forenames>T. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>T. St. G</Forenames>
       <PageNumber>2257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2749,17 +2748,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bois</Forenames>
-      <Text>, W. J</Text>
+      <Key>De Bois</Key>
+      <Forenames>W. J.</Forenames>
       <PageNumber>1360</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Buriatte</Forenames>
-      <Text>, T. J</Text>
+      <Key>De Buriatte</Key>
+      <Forenames>T. J.</Forenames>
       <PageNumber>2849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2791,6 +2788,13 @@
       <Key>Deery</Key>
       <Forenames>T. D.</Forenames>
       <PageNumber>3413</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Iongh</Key>
+      <Forenames>B. E.</Forenames>
+      <PageNumber>222</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

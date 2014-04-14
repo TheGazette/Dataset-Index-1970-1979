@@ -1928,9 +1928,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Terheyden</Forenames>
-      <Text>, K. M. R</Text>
+      <Key>van Straubenzee</Key>
+      <Forenames>A. H.</Forenames>
+      <PageNumber>5388</PageNumber>
+      <PageNumber>7716</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Van Terheyden</Key>
+      <Forenames>K. M. R.</Forenames>
       <PageNumber>4433</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -319,8 +319,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Banque</Key>
-      <Forenames>Nationale</Forenames>
-      <Text>de Paris, authorised bank under Building Societies Act</Text>
+      <Forenames>Nationale de Paris</Forenames>
+      <Text>, authorised bank under Building Societies Act</Text>
       <PageNumber>14253</PageNumber>
     </MainItem>
   </ItemGroup>

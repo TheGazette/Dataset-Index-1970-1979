@@ -1307,7 +1307,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M.P. A</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>5217</PageNumber>
     </MainItem>
   </ItemGroup>

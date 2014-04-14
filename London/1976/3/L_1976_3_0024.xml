@@ -551,8 +551,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leathes</Key>
-      <Forenames>R. E.</Forenames>
-      <Text>de M</Text>
+      <Forenames>R. E. de M</Forenames>
       <PageNumber>9281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -985,8 +984,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lines</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. St. J</Forenames>
       <PageNumber>9282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1411,7 +1409,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>11253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2423,8 +2423,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackaness</Key>
-      <Forenames>J. R. St</Forenames>
-      <Text>. D</Text>
+      <Forenames>J. R. St. D</Forenames>
       <PageNumber>10606</PageNumber>
     </MainItem>
   </ItemGroup>

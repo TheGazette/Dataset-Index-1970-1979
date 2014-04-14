@@ -1372,8 +1372,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooke-Johnston</Key>
-      <Title>St.</Title>
-      <Forenames>J. C.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>C.</Forenames>
       <PageNumber>4468</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2115,7 +2115,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burns</Key>
-      <Text>de Bono, P. J. D</Text>
+      <Forenames>de Bono</Forenames>
+      <Text>, P. J. D</Text>
       <PageNumber>3869</PageNumber>
     </MainItem>
   </ItemGroup>

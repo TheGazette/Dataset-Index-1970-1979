@@ -322,9 +322,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Hochepied-Larpent</Forenames>
-      <Text>, S. D. J</Text>
+      <Key>De Hochepied-Larpent</Key>
+      <Forenames>S. D. J.</Forenames>
       <PageNumber>6943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -456,9 +455,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Prochnow</Forenames>
-      <Text>, P. B. S</Text>
+      <Key>De Prochnow</Key>
+      <Forenames>P. B. S</Forenames>
       <PageNumber>5446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1363,9 +1361,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Pon</Forenames>
-      <Text>, G. P</Text>
+      <Key>Du Pon</Key>
+      <Forenames>G. P.</Forenames>
       <PageNumber>6943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2627,7 +2624,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ffrench-Constant</Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>5154</PageNumber>
     </MainItem>
   </ItemGroup>

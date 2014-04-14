@@ -111,7 +111,7 @@
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>R.C. D</Text>
+      <Text>R.C. D.</Text>
       <PageNumber>11641</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -156,8 +156,7 @@
       <Key>
         <KeyDitto>——</KeyDitto>
       </Key>
-      <Forenames>G. H.</Forenames>
-      <Text>de G</Text>
+      <Forenames>G. H. de G</Forenames>
       <PageNumber>11937</PageNumber>
     </MainItem>
   </ItemGroup>

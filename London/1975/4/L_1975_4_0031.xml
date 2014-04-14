@@ -465,8 +465,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>R.St</Forenames>
-      <Text>. C</Text>
+      <Forenames>R.St. C</Forenames>
       <PageNumber>16370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1145,123 +1144,125 @@
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
       <Text>G.C</Text>
-      <PageNumber>12543</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ ..</KeyDitto>
-      </Key>
-      <Forenames>L. A .</Forenames>
-      <PageNumber>13886</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>P.L.</Forenames>
-      <PageNumber>15304</PageNumber>
-      <PageNumber>15647</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ :</KeyDitto>
-      </Key>
-      <Forenames>T. A .</Forenames>
-      <PageNumber>15980</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Reed-Screen</Key>
-      <Forenames>A. J.</Forenames>
-      <PageNumber>16371</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Reekie</Key>
-      <Forenames>M. D.</Forenames>
-      <PageNumber>14214</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Reep</Key>
-      <Forenames>M. F.</Forenames>
-      <PageNumber>13175</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Rees</Key>
-      <Forenames>C.</Forenames>
-      <PageNumber>14945</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>—___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>N. D .</Forenames>
-      <PageNumber>14212</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>— ___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>W. C .</Forenames>
-      <PageNumber>15303</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Rees-Jones</Key>
-      <Forenames>T. G.</Forenames>
-      <PageNumber>13885</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Reeves</Key>
-      <Forenames>J.C .</Forenames>
-      <PageNumber>16376</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>K. A .</Forenames>
-      <PageNumber>16374</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Reid</Key>
-      <Forenames>A. H .</Forenames>
-      <PageNumber>15645</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ —-</KeyDitto>
-      </Key>
-      <Forenames>A.J.</Forenames>
-      <PageNumber>12846</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <KeyDitto>___ ___ .</KeyDitto>
+  <Honour>
+    <PageNumber>12543</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___ ..</KeyDitto>
+        </Key>
+        <Forenames>L. A .</Forenames>
+        <PageNumber>13886</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>P.L.</Forenames>
+        <PageNumber>15304</PageNumber>
+        <PageNumber>15647</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___ :</KeyDitto>
+        </Key>
+        <Forenames>T. A .</Forenames>
+        <PageNumber>15980</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Reed-Screen</Key>
+        <Forenames>A. J.</Forenames>
+        <PageNumber>16371</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Reekie</Key>
+        <Forenames>M. D.</Forenames>
+        <PageNumber>14214</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Reep</Key>
+        <Forenames>M. F.</Forenames>
+        <PageNumber>13175</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Rees</Key>
+        <Forenames>C.</Forenames>
+        <PageNumber>14945</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>—___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>N. D .</Forenames>
+        <PageNumber>14212</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>— ___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>W. C .</Forenames>
+        <PageNumber>15303</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Rees-Jones</Key>
+        <Forenames>T. G.</Forenames>
+        <PageNumber>13885</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Reeves</Key>
+        <Forenames>J.C .</Forenames>
+        <PageNumber>16376</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>K. A .</Forenames>
+        <PageNumber>16374</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Reid</Key>
+        <Forenames>A. H .</Forenames>
+        <PageNumber>15645</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ —-</KeyDitto>
+        </Key>
+        <Forenames>A.J.</Forenames>
+        <PageNumber>12846</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <KeyDitto>___ ___ .</KeyDitto>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Reid</Key>
@@ -1549,7 +1550,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D.L</Text>
+      <Text>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>12543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1876,7 +1879,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>16369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2056,7 +2061,9 @@
       <Key>
         <KeyDitto>— ___</KeyDitto>
       </Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>13173</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2138,7 +2145,9 @@
       <Key>
         <KeyDitto>— ___</KeyDitto>
       </Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>14213</PageNumber>
     </MainItem>
   </ItemGroup>

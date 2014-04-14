@@ -1567,7 +1567,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D.L</Text>
+      <Text>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>12644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2192,9 +2194,11 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Text>M.D</Text>
-      <PageNumber>16159</PageNumber>
     </MainItem>
   </ItemGroup>
+  <Honour>
+    <PageNumber>16159</PageNumber>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -2557,7 +2561,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>12646</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -967,8 +967,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Underwood</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>22</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1040,9 +1039,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Nooten</Forenames>
-      <Text>, G</Text>
+      <Key>Van Nooten</Key>
+      <Forenames>G.</Forenames>
       <PageNumber>22</PageNumber>
     </MainItem>
   </ItemGroup>

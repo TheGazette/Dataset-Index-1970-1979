@@ -2860,8 +2860,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Murphy</Key>
-      <Forenames>E. O</Forenames>
-      <Text>'D. McD</Text>
+      <Forenames>E. O'D</Forenames>
+      <Text>. McD</Text>
       <PageNumber>5530</PageNumber>
     </MainItem>
   </ItemGroup>

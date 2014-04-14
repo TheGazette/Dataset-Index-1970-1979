@@ -1922,8 +1922,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clayton</Key>
-      <Forenames>A. S. J.</Forenames>
-      <Text>de S</Text>
+      <Forenames>A. S. J. de S</Forenames>
       <PageNumber>12589</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2336,8 +2335,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Colley</Key>
-      <Forenames>A. J.</Forenames>
-      <Text>de Q</Text>
+      <Forenames>A. J. de Q</Forenames>
       <PageNumber>11175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2580,7 +2578,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>S.</Forenames>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>12857</PageNumber>
     </MainItem>
   </ItemGroup>

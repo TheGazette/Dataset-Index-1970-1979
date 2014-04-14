@@ -129,8 +129,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnetson</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>A. St. C</Forenames>
       <PageNumber>10862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -420,8 +419,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baxter</Key>
-      <Forenames>D. J. V. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. J. V. St. J</Forenames>
       <PageNumber>13112</PageNumber>
     </MainItem>
   </ItemGroup>

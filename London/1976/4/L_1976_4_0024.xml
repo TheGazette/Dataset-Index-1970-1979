@@ -848,7 +848,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawson</Key>
-      <Text>G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>14105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1150,8 +1152,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lemon</Key>
-      <Forenames>M. J. A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. J. A. St. J</Forenames>
       <PageNumber>15063</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1660,7 +1661,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Loftus</Key>
-      <Text>P.C</Text>
+      <Text>
+        <Honour>P.C</Honour>
+      </Text>
       <PageNumber>16764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2332,7 +2335,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>15410</PageNumber>
     </MainItem>
   </ItemGroup>

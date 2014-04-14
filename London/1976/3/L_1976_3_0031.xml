@@ -12,7 +12,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D.C.B</Text>
+      <Text>
+        <Honour>D.C.B</Honour>
+      </Text>
       <PageNumber>9897</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -914,8 +916,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodhouse</Key>
-      <Forenames>H.</Forenames>
-      <Text>de C. J</Text>
+      <Forenames>H. de C</Forenames>
+      <Text>. J</Text>
       <PageNumber>11250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1111,7 +1113,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>C.</Forenames>
-      <Text>L.G</Text>
+      <Text>
+        <Honour>L.G</Honour>
+      </Text>
       <PageNumber>10602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1524,7 +1528,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>R.</Forenames>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>13124</PageNumber>
     </MainItem>
   </ItemGroup>

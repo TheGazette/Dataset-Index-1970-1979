@@ -414,8 +414,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>P.</Forenames>
-      <Text>de S</Text>
+      <Forenames>P. de S</Forenames>
       <PageNumber>217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -802,8 +801,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beadnall</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>D. St. G</Forenames>
       <PageNumber>2555</PageNumber>
     </MainItem>
   </ItemGroup>

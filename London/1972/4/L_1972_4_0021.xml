@@ -875,6 +875,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Brunner</Key>
+      <Forenames>N. G. W.</Forenames>
+      <PageNumber>11633</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dedman</Key>
       <Forenames>A. E.</Forenames>
       <PageNumber>11635</PageNumber>
@@ -959,9 +966,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Prochnow</Forenames>
-      <Text>, P. B. S</Text>
+      <Key>De Prochnow</Key>
+      <Forenames>P. B. S.</Forenames>
       <PageNumber>14740</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -974,9 +980,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Rohan</Forenames>
-      <Text>, L. F</Text>
+      <Key>De Rohan</Key>
+      <Forenames>L. F.</Forenames>
       <PageNumber>14417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1769,9 +1774,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Port</Forenames>
-      <Text>, A. N</Text>
+      <Key>Du Port</Key>
+      <Forenames>A. N.</Forenames>
       <PageNumber>12515</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2657,8 +2661,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Farrell</Key>
-      <Forenames>M. R. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>M. R. St. G</Forenames>
       <PageNumber>12511</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -309,7 +309,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kemble</Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>13968</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,15 +451,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, B. E</Text>
+      <Key>O'Shea</Key>
+      <Forenames>B. E.</Forenames>
       <PageNumber>13968</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, D. F</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>D. F.</Forenames>
       <PageNumber>11854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1981,8 +1983,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baddeley</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>M. St. C</Forenames>
       <PageNumber>11851</PageNumber>
     </MainItem>
   </ItemGroup>

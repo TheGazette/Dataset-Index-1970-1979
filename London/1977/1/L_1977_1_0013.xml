@@ -28,8 +28,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walford</Key>
-      <Forenames>D.</Forenames>
-      <Text>de G., High Sheriff, Cleveland</Text>
+      <Forenames>D. de G</Forenames>
+      <Text>., High Sheriff, Cleveland</Text>
       <PageNumber>3435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,8 +385,7 @@
   <ItemGroup>
     <MainItem>
       <Key>York</Key>
-      <Title>St.</Title>
-      <Forenames>Luke</Forenames>
+      <Forenames>St. Luke</Forenames>
       <Text>, presentation to vicarage of</Text>
       <PageNumber>2477</PageNumber>
     </MainItem>

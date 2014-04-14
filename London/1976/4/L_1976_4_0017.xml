@@ -380,9 +380,11 @@
       <Key>Wray</Key>
       <Forenames>R.</Forenames>
       <Text>G.M</Text>
-      <PageNumber>16773</PageNumber>
     </MainItem>
   </ItemGroup>
+  <Honour>
+    <PageNumber>16773</PageNumber>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Wregg</Key>
@@ -1408,7 +1410,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ainsley</Key>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>17085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1537,7 +1541,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>17090</PageNumber>
     </MainItem>
   </ItemGroup>

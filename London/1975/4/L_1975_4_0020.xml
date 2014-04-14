@@ -59,7 +59,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tetlow</Key>
-      <Text>T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>12844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -482,7 +484,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Webb</Key>
-      <Text>G.M. .:</Text>
+      <Text>
+        <Honour>G.M.</Honour>
+      </Text>
       <PageNumber>15756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -947,7 +951,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>12712</PageNumber>
     </MainItem>
   </ItemGroup>

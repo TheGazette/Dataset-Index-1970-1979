@@ -572,8 +572,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>S. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>S. St. J</Forenames>
       <PageNumber>10656</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1771,7 +1770,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>KG. S</Text>
+      <Text>
+        <Honour>KG</Honour>
+      </Text>
       <PageNumber>9349</PageNumber>
     </MainItem>
   </ItemGroup>

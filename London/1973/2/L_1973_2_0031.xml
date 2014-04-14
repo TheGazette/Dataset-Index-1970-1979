@@ -424,8 +424,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sedgwick</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. D</Text>
+      <Forenames>M. St. D</Forenames>
       <PageNumber>6483</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -52,8 +52,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>S. M. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>S. M. O'H</Forenames>
       <PageNumber>7761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1297,7 +1296,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashley</Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>8055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1729,8 +1730,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bainbridge</Key>
-      <Forenames>P.</Forenames>
-      <Text>de L</Text>
+      <Forenames>P. de L</Forenames>
       <PageNumber>10414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2096,8 +2096,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barkshire</Key>
-      <Forenames>R. R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. R. St. J</Forenames>
       <PageNumber>8340</PageNumber>
       <PageNumber>9902</PageNumber>
     </MainItem>

@@ -268,8 +268,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Logan</Key>
-      <Forenames>H. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>H. O'H</Forenames>
       <PageNumber>13291</PageNumber>
     </MainItem>
   </ItemGroup>

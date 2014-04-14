@@ -56,9 +56,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Poeteren</Forenames>
-      <Text>, J. S. M. G</Text>
+      <Key>Van Poeteren</Key>
+      <Forenames>J. S. M. G.</Forenames>
       <PageNumber>2898</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,6 +228,14 @@
       <Key>Viney</Key>
       <Forenames>G. M.</Forenames>
       <PageNumber>1267</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Baumann</Key>
+      <Forenames>A. G.</Forenames>
+      <PageNumber>1267</PageNumber>
+      <PageNumber>2586</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

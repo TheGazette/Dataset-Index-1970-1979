@@ -410,25 +410,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Gucht</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Gucht</Forenames>
       <Text>, M</Text>
       <PageNumber>8991</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Poeteren</Forenames>
-      <Text>, J. S. M. G</Text>
+      <Key>Van Poeteren</Key>
+      <Forenames>J. S. M. G.</Forenames>
       <PageNumber>5663</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Someren</Forenames>
-      <Text>, R. S</Text>
+      <Key>Van Someren</Key>
+      <Forenames>R. S.</Forenames>
       <PageNumber>7437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,9 +561,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Merveldt</Forenames>
-      <Text>, J-D. M</Text>
+      <Key>Von Merveldt</Key>
+      <Text>J-D. M</Text>
       <PageNumber>6384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,7 +681,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>8691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -827,44 +826,46 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Text>L.T</Text>
-      <PageNumber>5665</PageNumber>
-      <PageNumber>6388</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>R.P.W.</Forenames>
-      <PageNumber>8690</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Wallace</Key>
-      <Forenames>A. R.</Forenames>
-      <PageNumber>5662</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>A.W.</Forenames>
-      <PageNumber>8106</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ — ___</KeyDitto>
-      </Key>
-      <Forenames>J. A.</Forenames>
-      <PageNumber>7068</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>5665</PageNumber>
+    <PageNumber>6388</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>R.P.W.</Forenames>
+        <PageNumber>8690</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Wallace</Key>
+        <Forenames>A. R.</Forenames>
+        <PageNumber>5662</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>A.W.</Forenames>
+        <PageNumber>8106</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ — ___</KeyDitto>
+        </Key>
+        <Forenames>J. A.</Forenames>
+        <PageNumber>7068</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -1170,7 +1171,9 @@
       <Key>
         <KeyDitto>___ '. ___ ___</KeyDitto>
       </Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>8103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1385,7 +1388,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>7440</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -300,8 +300,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, T. D</Text>
+      <Key>O'Neill</Key>
+      <Forenames>T. D.</Forenames>
       <PageNumber>10280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1829,7 +1829,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>12202</PageNumber>
     </MainItem>
   </ItemGroup>

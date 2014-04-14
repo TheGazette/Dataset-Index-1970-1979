@@ -836,8 +836,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prichard</Key>
-      <Forenames>W.</Forenames>
-      <Text>de B</Text>
+      <Forenames>W. de B</Forenames>
       <PageNumber>14024</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2059,7 +2058,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>13731</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2203,7 +2204,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>L.T</Text>
+      <Text>
+        <Honour>L.T</Honour>
+      </Text>
       <PageNumber>14611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2354,7 +2357,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>15225</PageNumber>
     </MainItem>
   </ItemGroup>

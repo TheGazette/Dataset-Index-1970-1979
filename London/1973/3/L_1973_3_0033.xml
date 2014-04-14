@@ -37,9 +37,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Boulay</Forenames>
-      <Text>, D. M. H</Text>
+      <Key>Du Boulay</Key>
+      <Forenames>D. M. H.</Forenames>
       <PageNumber>9390</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,9 +244,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Rose</Forenames>
-      <Text>, G. J</Text>
+      <Key>Du Rose</Key>
+      <Forenames>G. J.</Forenames>
       <PageNumber>8675</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1405,8 +1403,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fancourt</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. St. J</Forenames>
       <PageNumber>8666</PageNumber>
     </MainItem>
   </ItemGroup>

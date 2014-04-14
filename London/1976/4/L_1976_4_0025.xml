@@ -162,7 +162,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McLean</Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>16442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1040,7 +1042,9 @@
       <Key>
         <KeyDitto>___ ___ ,</KeyDitto>
       </Key>
-      <Text>L.T</Text>
+      <Text>
+        <Honour>L.T</Honour>
+      </Text>
       <PageNumber>16082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1766,8 +1770,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Molesworth</Key>
-      <Title>St.</Title>
-      <Forenames>Aubyn</Forenames>
+      <Forenames>St. Aubyn</Forenames>
       <Text>, S. G</Text>
       <PageNumber>16763</PageNumber>
     </MainItem>
@@ -2553,8 +2556,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>E.O</Forenames>
-      <Text>'D.McD</Text>
+      <Forenames>E.O'D</Forenames>
+      <Text>.McD</Text>
       <PageNumber>17283</PageNumber>
     </MainItem>
   </ItemGroup>

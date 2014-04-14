@@ -727,7 +727,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>A.E</Text>
+      <Text>
+        <Honour>A.E</Honour>
+      </Text>
       <PageNumber>4727</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -822,8 +824,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pickard</Key>
-      <Forenames>M.</Forenames>
-      <Text>de B</Text>
+      <Forenames>M. de B</Forenames>
       <PageNumber>4406</PageNumber>
       <PageNumber>7140</PageNumber>
     </MainItem>
@@ -2091,8 +2092,7 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Forenames>C. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>C. St. G</Forenames>
       <PageNumber>7139</PageNumber>
     </MainItem>
   </ItemGroup>

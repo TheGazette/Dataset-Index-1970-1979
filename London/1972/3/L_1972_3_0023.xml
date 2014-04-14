@@ -1411,8 +1411,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ballenden</Key>
-      <Forenames>J. P. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>J. P. St. C</Forenames>
       <PageNumber>7976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2099,8 +2098,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>D. J. V. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. J. V. St. J</Forenames>
       <PageNumber>10051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2190,8 +2188,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beadnall</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>10572</PageNumber>
     </MainItem>
   </ItemGroup>

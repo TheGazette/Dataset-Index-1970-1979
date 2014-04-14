@@ -1018,7 +1018,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hindle</Key>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>8625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2120,7 +2122,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>A. J. De C.</Forenames>
+      <Forenames>A. J. De C</Forenames>
       <PageNumber>9817</PageNumber>
     </MainItem>
   </ItemGroup>

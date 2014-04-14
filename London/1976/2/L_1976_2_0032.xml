@@ -1057,7 +1057,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>8103</PageNumber>
     </MainItem>
   </ItemGroup>

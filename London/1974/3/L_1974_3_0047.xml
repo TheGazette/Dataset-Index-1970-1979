@@ -845,8 +845,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McCulloch</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. D</Text>
+      <Forenames>D. St. D</Forenames>
       <PageNumber>9535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1049,8 +1048,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McElwain</Key>
-      <Forenames>J. D.</Forenames>
-      <Text>de S</Text>
+      <Forenames>J. D. de S</Forenames>
       <PageNumber>12870</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2401,8 +2399,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Malcolm</Key>
-      <Forenames>J. C. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>J. C. St. A</Forenames>
       <PageNumber>12166</PageNumber>
     </MainItem>
   </ItemGroup>

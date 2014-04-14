@@ -503,8 +503,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>B. N. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>B. N. St. C</Forenames>
       <PageNumber>288</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -636,8 +635,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turpin</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>R. St. G</Forenames>
       <PageNumber>3525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -895,9 +893,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Geene</Forenames>
-      <Text>, R. G</Text>
+      <Key>Van Geene</Key>
+      <Forenames>R. G.</Forenames>
       <PageNumber>2558</PageNumber>
     </MainItem>
   </ItemGroup>

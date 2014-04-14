@@ -1351,8 +1351,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clayton</Key>
-      <Forenames>M. B.</Forenames>
-      <Text>de S</Text>
+      <Forenames>M. B. de S</Forenames>
       <PageNumber>6965</PageNumber>
     </MainItem>
   </ItemGroup>

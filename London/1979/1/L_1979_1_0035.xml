@@ -68,7 +68,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>K.</Forenames>
-      <Text>M.M</Text>
+      <Text>
+        <Honour>M.M</Honour>
+      </Text>
       <PageNumber>991</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,7 +558,9 @@
       <Key>
         <KeyDitto>___ —</KeyDitto>
       </Key>
-      <Text>^K.M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>3702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -574,8 +578,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>R.I. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R.I. St. J</Forenames>
       <PageNumber>1983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1407,38 +1410,40 @@
         <KeyDitto>___ ___ -—</KeyDitto>
       </Key>
       <Text>G.C</Text>
-      <PageNumber>667</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>J.A.</Forenames>
-      <PageNumber>656</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>J.G.</Forenames>
-      <PageNumber>653</PageNumber>
-      <PageNumber>654</PageNumber>
-      <PageNumber>2330</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>J. K.</Forenames>
-      <PageNumber>1987</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>667</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>J.A.</Forenames>
+        <PageNumber>656</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>J.G.</Forenames>
+        <PageNumber>653</PageNumber>
+        <PageNumber>654</PageNumber>
+        <PageNumber>2330</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>J. K.</Forenames>
+        <PageNumber>1987</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -2092,7 +2097,9 @@
       <Key>
         <KeyDitto>—___ ___</KeyDitto>
       </Key>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>4051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2280,7 +2287,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>2331</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -115,7 +115,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>6185</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,8 +264,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, C. M. J</Text>
+      <Key>O'Brien</Key>
+      <Forenames>C. M. J.</Forenames>
       <PageNumber>4820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,15 +280,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell.P</Text>
+      <Key>O'Connell</Key>
+      <Forenames>P.</Forenames>
       <PageNumber>5517</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, A</Text>
+      <Key>O'Connor</Key>
+      <Forenames>A.</Forenames>
       <PageNumber>6185</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,15 +330,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donoghue, K</Text>
+      <Key>O'Donoghue</Key>
+      <Forenames>K.</Forenames>
       <PageNumber>8045</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>OfPwyer-Russell</Key>
-      <Text>T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>5862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,8 +392,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, E. J</Text>
+      <Key>O'Neill</Key>
+      <Forenames>E. J.</Forenames>
       <PageNumber>5859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,8 +420,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rourke, J. A</Text>
+      <Key>O'Rourke</Key>
+      <Forenames>J. A.</Forenames>
       <PageNumber>4513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,8 +504,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, P. M</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>P. M.</Forenames>
       <PageNumber>6188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,7 +567,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G.C. ... „</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>5163</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,7 +578,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>7744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1799,7 +1807,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Porter</Key>
-      <Text>G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>4514</PageNumber>
     </MainItem>
   </ItemGroup>

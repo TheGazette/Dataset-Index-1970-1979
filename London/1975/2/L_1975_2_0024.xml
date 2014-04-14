@@ -330,9 +330,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Carteret</Forenames>
-      <Text>, G. A</Text>
+      <Key>De Carteret</Key>
+      <Forenames>G. A.</Forenames>
       <PageNumber>8052</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -706,8 +705,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kell, C. J</Text>
+      <Key>O'Kell</Key>
+      <Forenames>C. J .</Forenames>
       <PageNumber>8052</PageNumber>
     </MainItem>
   </ItemGroup>

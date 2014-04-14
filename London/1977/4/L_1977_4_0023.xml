@@ -582,8 +582,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>D. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>D. O'B</Forenames>
       <PageNumber>15888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1554,7 +1553,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Manson</Key>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>15226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2169,7 +2170,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Melton</Key>
-      <Text>K.G</Text>
+      <Text>
+        <Honour>K.G</Honour>
+      </Text>
       <PageNumber>12504</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2222,7 +2225,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>14614</PageNumber>
       <PageNumber>15570</PageNumber>
     </MainItem>

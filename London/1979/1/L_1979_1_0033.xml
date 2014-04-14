@@ -287,7 +287,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>M.M</Text>
+      <Text>
+        <Honour>M.M</Honour>
+      </Text>
       <PageNumber>667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +442,9 @@
     <MainItem>
       <Key>Shore</Key>
       <Forenames>I.</Forenames>
-      <Text>D.L</Text>
+      <Text>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -650,7 +654,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>D.</Forenames>
-      <Text>M.M</Text>
+      <Text>
+        <Honour>M.M</Honour>
+      </Text>
       <PageNumber>333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -755,8 +761,8 @@
       <Key>
         <KeyDitto>—.___ ___</KeyDitto>
       </Key>
-      <Forenames>M. A. St</Forenames>
-      <Text>. C. K</Text>
+      <Forenames>M. A. St. C</Forenames>
+      <Text>. K</Text>
       <PageNumber>3697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -765,7 +771,9 @@
       <Key>
         <KeyDitto>___ ___ ___ -</KeyDitto>
       </Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>653</PageNumber>
       <PageNumber>2330</PageNumber>
     </MainItem>
@@ -1006,7 +1014,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sloan</Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>654</PageNumber>
       <PageNumber>2331</PageNumber>
     </MainItem>
@@ -1290,7 +1300,9 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>M.M</Text>
+      <Text>
+        <Honour>M.M</Honour>
+      </Text>
       <PageNumber>665</PageNumber>
     </MainItem>
   </ItemGroup>

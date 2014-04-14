@@ -183,8 +183,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roskelly</Key>
-      <Forenames>C. M.</Forenames>
-      <Text>de W</Text>
+      <Forenames>C. M. de W</Forenames>
       <PageNumber>11935</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -599,9 +598,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John-Lyle</Forenames>
-      <Text>, T. P</Text>
+      <Key>St. John-Lyle</Key>
+      <Forenames>T. P.</Forenames>
       <PageNumber>11109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1869,8 +1867,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Simmons</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>A. St. C</Forenames>
       <PageNumber>8372</PageNumber>
     </MainItem>
   </ItemGroup>

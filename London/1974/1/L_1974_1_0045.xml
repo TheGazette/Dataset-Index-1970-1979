@@ -389,8 +389,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Salisbury</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>3531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -955,8 +954,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Severne</Key>
-      <Forenames>J.</Forenames>
-      <Text>de M</Text>
+      <Forenames>J. de M</Forenames>
       <PageNumber>283</PageNumber>
       <PageNumber>286</PageNumber>
     </MainItem>
@@ -1930,7 +1928,7 @@
     <KeyDitto>___ ___ ___</KeyDitto>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>J. C. A</Text>
+      <Text>J. C. A.</Text>
       <PageNumber>3893</PageNumber>
     </SubItem>
   </ItemGroup>

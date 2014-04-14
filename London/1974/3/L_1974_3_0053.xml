@@ -103,17 +103,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John</Forenames>
-      <Text>, C</Text>
+      <Key>St. John</Key>
+      <Forenames>C.</Forenames>
       <PageNumber>12166</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John-Lyle</Forenames>
-      <Text>, T. P</Text>
+      <Key>St. John-Lyle</Key>
+      <Forenames>T. P.</Forenames>
       <PageNumber>12861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2030,8 +2028,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>M. A. St</Forenames>
-      <Text>. C. K</Text>
+      <Forenames>M. A. St. C</Forenames>
+      <Text>. K</Text>
       <PageNumber>7898</PageNumber>
     </MainItem>
   </ItemGroup>

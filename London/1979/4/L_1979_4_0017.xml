@@ -252,7 +252,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Boyd</Key>
-      <Text>C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>14926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -583,7 +585,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G.M. K</Text>
+      <Text>
+        <Honour>G.M.</Honour>
+      </Text>
       <PageNumber>16159</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1176,7 +1180,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>13568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2198,322 +2204,324 @@
     <MainItem>
       <Key>Capewell</Key>
       <Text>M.P</Text>
-      <PageNumber>14595</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Caple</Key>
-      <Forenames>A.J.</Forenames>
-      <PageNumber>13901</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Capon</Key>
-      <Forenames>J. A</Forenames>
-      <PageNumber>15936</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Cardwell</Key>
-      <Forenames>F.J.</Forenames>
-      <PageNumber>14237</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Cardy</Key>
-      <Forenames>A.J</Forenames>
-      <PageNumber>14241</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Carlile</Key>
-      <Forenames>J.B</Forenames>
-      <PageNumber>14248</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Carlin</Key>
-      <Forenames>A.R</Forenames>
-      <PageNumber>15935</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Carline</Key>
-      <Forenames>M</Forenames>
-      <PageNumber>15940</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Carling</Key>
-      <Forenames>M.G.</Forenames>
-      <PageNumber>15940</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Carlisle</Key>
-      <Forenames>L. F.</Forenames>
-      <PageNumber>13571</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Carlsson</Key>
-      <Forenames>P. C.</Forenames>
-      <PageNumber>14929</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Carman</Key>
-      <Forenames>R.T.</Forenames>
-      <PageNumber>12646</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Carmichael</Key>
-      <Forenames>S.R.</Forenames>
-      <PageNumber>13898</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Carney</Key>
-      <Forenames>B.M.</Forenames>
-      <PageNumber>14590</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Carr</Key>
-      <Forenames>C.A.B.</Forenames>
-      <PageNumber>16161</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ —— ___ ___</KeyDitto>
-      </Key>
-      <Forenames>D.S</Forenames>
-      <PageNumber>15937</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>J.G</Forenames>
-      <PageNumber>14933</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Carroll</Key>
-      <Forenames>A. M.</Forenames>
-      <PageNumber>14247</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>D.G</Forenames>
-      <PageNumber>13564</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ —-</KeyDitto>
-      </Key>
-      <Forenames>P. A</Forenames>
-      <PageNumber>13577</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>P.J</Forenames>
-      <PageNumber>12647</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>T.A.J.</Forenames>
-      <PageNumber>13568</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Carrow</Key>
-      <Forenames>R.J</Forenames>
-      <PageNumber>16166</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Carruthers</Key>
-      <Forenames>J.G.</Forenames>
-      <PageNumber>15935</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Carson</Key>
-      <Forenames>R.C</Forenames>
-      <PageNumber>12644</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Carter</Key>
-      <Forenames>B. G</Forenames>
-      <PageNumber>13891</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>D.P</Forenames>
-      <PageNumber>16167</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>H.D</Forenames>
-      <PageNumber>15601</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>J. A</Forenames>
-      <PageNumber>15936</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ —— ___ ___</KeyDitto>
-      </Key>
-      <Forenames>J. E. M</Forenames>
-      <PageNumber>13568</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>J.H.B.</Forenames>
-      <PageNumber>15598</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>K</Forenames>
-      <PageNumber>12650</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>K.J</Forenames>
-      <PageNumber>12345</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>K.N</Forenames>
-      <PageNumber>13231</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>M.J</Forenames>
-      <PageNumber>14928</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>M.P</Forenames>
-      <PageNumber>15602</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>N.A</Forenames>
-      <PageNumber>13563</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>R.J</Forenames>
-      <PageNumber>16166</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>T</Forenames>
-      <PageNumber>13889</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>W.H</Forenames>
-      <PageNumber>14240</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>14595</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Caple</Key>
+        <Forenames>A.J.</Forenames>
+        <PageNumber>13901</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Capon</Key>
+        <Forenames>J. A</Forenames>
+        <PageNumber>15936</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Cardwell</Key>
+        <Forenames>F.J.</Forenames>
+        <PageNumber>14237</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Cardy</Key>
+        <Forenames>A.J</Forenames>
+        <PageNumber>14241</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Carlile</Key>
+        <Forenames>J.B</Forenames>
+        <PageNumber>14248</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Carlin</Key>
+        <Forenames>A.R</Forenames>
+        <PageNumber>15935</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Carline</Key>
+        <Forenames>M</Forenames>
+        <PageNumber>15940</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Carling</Key>
+        <Forenames>M.G.</Forenames>
+        <PageNumber>15940</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Carlisle</Key>
+        <Forenames>L. F.</Forenames>
+        <PageNumber>13571</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Carlsson</Key>
+        <Forenames>P. C.</Forenames>
+        <PageNumber>14929</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Carman</Key>
+        <Forenames>R.T.</Forenames>
+        <PageNumber>12646</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Carmichael</Key>
+        <Forenames>S.R.</Forenames>
+        <PageNumber>13898</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Carney</Key>
+        <Forenames>B.M.</Forenames>
+        <PageNumber>14590</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Carr</Key>
+        <Forenames>C.A.B.</Forenames>
+        <PageNumber>16161</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ —— ___ ___</KeyDitto>
+        </Key>
+        <Forenames>D.S</Forenames>
+        <PageNumber>15937</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>J.G</Forenames>
+        <PageNumber>14933</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Carroll</Key>
+        <Forenames>A. M.</Forenames>
+        <PageNumber>14247</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>D.G</Forenames>
+        <PageNumber>13564</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ —-</KeyDitto>
+        </Key>
+        <Forenames>P. A</Forenames>
+        <PageNumber>13577</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>P.J</Forenames>
+        <PageNumber>12647</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>T.A.J.</Forenames>
+        <PageNumber>13568</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Carrow</Key>
+        <Forenames>R.J</Forenames>
+        <PageNumber>16166</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Carruthers</Key>
+        <Forenames>J.G.</Forenames>
+        <PageNumber>15935</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Carson</Key>
+        <Forenames>R.C</Forenames>
+        <PageNumber>12644</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Carter</Key>
+        <Forenames>B. G</Forenames>
+        <PageNumber>13891</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>D.P</Forenames>
+        <PageNumber>16167</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>H.D</Forenames>
+        <PageNumber>15601</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>J. A</Forenames>
+        <PageNumber>15936</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ —— ___ ___</KeyDitto>
+        </Key>
+        <Forenames>J. E. M</Forenames>
+        <PageNumber>13568</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>J.H.B.</Forenames>
+        <PageNumber>15598</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>K</Forenames>
+        <PageNumber>12650</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>K.J</Forenames>
+        <PageNumber>12345</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>K.N</Forenames>
+        <PageNumber>13231</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>M.J</Forenames>
+        <PageNumber>14928</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>M.P</Forenames>
+        <PageNumber>15602</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>N.A</Forenames>
+        <PageNumber>13563</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>R.J</Forenames>
+        <PageNumber>16166</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>T</Forenames>
+        <PageNumber>13889</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>W.H</Forenames>
+        <PageNumber>14240</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Cartlidge</Key>

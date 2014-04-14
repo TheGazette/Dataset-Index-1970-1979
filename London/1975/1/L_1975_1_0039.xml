@@ -3,8 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hart</Key>
-      <Forenames>P.</Forenames>
-      <Text>de B. C</Text>
+      <Forenames>P. de B</Forenames>
+      <Text>. C</Text>
       <PageNumber>3612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -593,9 +593,11 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Text>C.H</Text>
-      <PageNumber>3976</PageNumber>
     </MainItem>
   </ItemGroup>
+  <Honour>
+    <PageNumber>3976</PageNumber>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -1005,7 +1007,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1418,7 +1422,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>A.E</Text>
+      <Text>
+        <Honour>A.E</Honour>
+      </Text>
       <PageNumber>534</PageNumber>
     </MainItem>
   </ItemGroup>

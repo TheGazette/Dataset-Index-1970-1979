@@ -47,7 +47,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D.L</Text>
+      <Text>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>506</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,7 +444,9 @@
         <KeyDitto>___ -—</KeyDitto>
       </Key>
       <Forenames>A.</Forenames>
-      <Text>G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>532</PageNumber>
     </MainItem>
   </ItemGroup>

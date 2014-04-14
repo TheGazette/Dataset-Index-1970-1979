@@ -812,9 +812,11 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Text>M.C</Text>
-      <PageNumber>7137</PageNumber>
     </MainItem>
   </ItemGroup>
+  <Honour>
+    <PageNumber>7137</PageNumber>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -843,16 +845,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Holbrook</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>A. St. C</Forenames>
       <PageNumber>4404</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Holcroft</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>H. St. J</Forenames>
       <PageNumber>4752</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1066,8 +1066,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Homer</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>7139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1504,7 +1503,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>6288</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2267,7 +2268,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>K.G</Text>
+      <Text>
+        <Honour>K.G</Honour>
+      </Text>
       <PageNumber>4727</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2332,8 +2335,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jeayes</Key>
-      <Forenames>H. M.</Forenames>
-      <Text>de B</Text>
+      <Forenames>H. M. de B</Forenames>
       <PageNumber>7454</PageNumber>
     </MainItem>
   </ItemGroup>

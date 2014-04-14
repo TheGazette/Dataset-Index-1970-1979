@@ -164,7 +164,7 @@
       <PageNumber>8693</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>.:</Text>
+      <Text>.:.</Text>
       <PageNumber>9325</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -615,7 +615,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>9648</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -758,8 +760,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>S. A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>S. A. St. J</Forenames>
       <PageNumber>10565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -935,8 +936,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Minogue</Key>
-      <Forenames>P. J. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>P. J. O'B</Forenames>
       <PageNumber>11109</PageNumber>
       <PageNumber>12234</PageNumber>
     </MainItem>

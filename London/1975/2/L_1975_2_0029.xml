@@ -739,7 +739,9 @@
     <MainItem>
       <Key>Guest</Key>
       <Forenames>D.</Forenames>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>5161</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -990,7 +992,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>W.</Forenames>
-      <Text>A.E</Text>
+      <Text>
+        <Honour>A.E</Honour>
+      </Text>
       <PageNumber>6829</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1706,7 +1710,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hart</Key>
-      <Text>D.L</Text>
+      <Text>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>8050</PageNumber>
     </MainItem>
   </ItemGroup>

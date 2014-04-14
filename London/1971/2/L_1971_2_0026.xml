@@ -454,8 +454,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>S. M. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>S. M. O'H</Forenames>
       <PageNumber>3336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2526,8 +2525,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beadnall</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>3584</PageNumber>
     </MainItem>
   </ItemGroup>

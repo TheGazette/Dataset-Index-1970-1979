@@ -1046,8 +1046,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beadnall</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>1782</PageNumber>
     </MainItem>
   </ItemGroup>

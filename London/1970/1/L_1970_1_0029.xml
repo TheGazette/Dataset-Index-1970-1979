@@ -30,9 +30,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Ritter</Forenames>
-      <Text>, A. P</Text>
+      <Key>De Ritter</Key>
+      <Forenames>A. P.</Forenames>
       <PageNumber>1660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -916,9 +915,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Pre</Forenames>
-      <Text>, G. M</Text>
+      <Key>Du Pre</Key>
+      <Forenames>G. M.</Forenames>
       <PageNumber>3121</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1089,8 +1087,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eden</Key>
-      <Forenames>The</Forenames>
-      <Text>Viscount</Text>
+      <Title>The Viscount</Title>
       <PageNumber>224</PageNumber>
     </MainItem>
   </ItemGroup>

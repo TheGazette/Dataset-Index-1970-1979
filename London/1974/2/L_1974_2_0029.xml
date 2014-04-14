@@ -625,9 +625,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Beer</Forenames>
-      <Text>, F. B. C</Text>
+      <Key>De Beer</Key>
+      <Forenames>F. B. C.</Forenames>
       <PageNumber>5850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -640,9 +639,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Chair</Forenames>
-      <Text>, S. C</Text>
+      <Key>De Chair</Key>
+      <Forenames>S. C.</Forenames>
       <PageNumber>5845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -745,9 +743,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salis</Forenames>
-      <Text>, J. B. P. H</Text>
+      <Key>De Salis</Key>
+      <Forenames>J. B. P. H.</Forenames>
       <PageNumber>5573</PageNumber>
     </MainItem>
   </ItemGroup>

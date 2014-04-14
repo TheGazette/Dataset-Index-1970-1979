@@ -422,7 +422,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Manson</Key>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>14210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1229,7 +1231,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>16371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1750,7 +1754,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mopalao</Key>
-      <Text>de Piro, A. P. D</Text>
+      <Forenames>de Piro</Forenames>
+      <Text>, A. P. D</Text>
       <PageNumber>16298</PageNumber>
     </MainItem>
   </ItemGroup>
